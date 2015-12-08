@@ -22,21 +22,17 @@ Si il est proche de un, on est bon !
 L'import dans Umap va également nous donner des infos sur la "qualité des données" du tableur initial.
 
 # Cartographie avec Umap
+[uMap](http://umap.openstreetmap.fr/fr/) permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher dans votre site.
 
-http://umap.openstreetmap.fr/fr/
-uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher dans votre site.
-
-Guide : http://wiki.openstreetmap.org/wiki/FR:UMap/Guide
-Quelques vidéos : http://wiki.openstreetmap.org/wiki/UMap#Screencasts
+[Des guides](http://wiki.openstreetmap.org/wiki/FR:UMap/Guide= et [des vidéos](http://wiki.openstreetmap.org/wiki/UMap#Screencasts)
 
 ## Configuration du compte umap
-On se crée un compte osm
-On fait un lien avec un compte (connection), je vous propose OpenStreetMap (OSM).
-Cela permet de retrouver toutes ses cartes
+- On se crée un compte osm
+- On fait un lien avec un compte (connection), je vous propose OpenStreetMap (OSM).
+- Cela permet de retrouver toutes ses cartes
 
 ## Création d'une carte
-*L'interface
-http://umap.openstreetmap.fr
+* L'interface de [Umap](http://umap.openstreetmap.fr)
 
 à gauche surtout la navigation et l'affichage
 à droite les propriétés et fonctionnalités de l'ensemble de la carte (partage, édition, import, propriétés ...)
