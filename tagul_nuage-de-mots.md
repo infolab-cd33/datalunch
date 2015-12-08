@@ -5,9 +5,8 @@ http://tagul.com
 ## importer une forme
 ## choisir ces mots
 ## récupérer le fichier
-## point sur la licence (que je peux faire)
+## point sur la licence
 Licence CC-BY-NC-SA -> https://tagul.com/license
-CC-BY-NC-SA
 ## D'autres sites
 - wordle.net
 - taxedo
