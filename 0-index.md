@@ -11,4 +11,4 @@
 - Addok / Géocoder un tableur csv d'adresses et de données
 
 ## Divers
-- Tagul, faire un nuage de mots
+- [Tagul, faire un nuage de mots](http://www.multibao.org/infolab-cd33/datalunch/tagul_nuage-de-mots.md)
