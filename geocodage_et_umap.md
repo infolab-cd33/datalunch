@@ -6,7 +6,7 @@ Enregistrer sous sonnom.csv
 cela ne sauvegarde pas les modifications, on fait bien un export du feuillet en cours
 
 # Géocodage des données
-* On va se servir des tools :) et en particulier du géoodeur : http://adresse.data.gouv.fr/csv/
+* On va se servir de Addok, géocodeur : http://adresse.data.gouv.fr/csv/
 * on y importe le fichier sonnom.csv,
 * on glisse les colonnes adresse,
 * ville qui nous intéresse pour le géocodage,
@@ -29,12 +29,12 @@ uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap en 
 Guide : http://wiki.openstreetmap.org/wiki/FR:UMap/Guide
 Quelques vidéos : http://wiki.openstreetmap.org/wiki/UMap#Screencasts
 
-##Configuration du compte umap
+## Configuration du compte umap
 On se crée un compte osm
 On fait un lien avec un compte (connection), je vous propose OpenStreetMap (OSM).
 Cela permet de retrouver toutes ses cartes
 
-##Création d'une carte
+## Création d'une carte
 *L'interface
 http://umap.openstreetmap.fr
 
@@ -42,7 +42,7 @@ http://umap.openstreetmap.fr
 à droite les propriétés et fonctionnalités de l'ensemble de la carte (partage, édition, import, propriétés ...)
 
 
-##Configuration
+## Configuration
 Garder en tête la filiation :)
 Propriétés des cartes -> propriétés des calques -> propriétés des données
 Cela va permettre d'hériter des propriétés ou de singulariser les propriétés carte > calque > donnée
@@ -58,6 +58,6 @@ On pourra toujours les modifier par la suite
 la flèche vers le haut, dans le menu de droite
 On importe dans un nouveau calque pour tester
 
-###Personnalisation du calque
+### Personnalisation du calque
 
-###Choix des pop-ups
+### Choix des pop-ups
