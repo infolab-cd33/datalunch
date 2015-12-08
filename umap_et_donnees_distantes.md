@@ -7,12 +7,12 @@
 * Exécuter la requête
 
 # Améliorer sa requête
-** par défaut, la requête s’exécute sur la portion de carte visible (appelé bbox)
-** pour préciser sur une commune, dans l'assistant écrire par exemple : amenity=school in Créon
-** les booléens existent : AND et OR, donc par exemple dans l'assistant amenity=school and school:FR=Maternelle in Créon
-** "transformer" les surfaces en points
-*** dans la zone print results de la requête ajouter center après out body : out body center -> exécuter / cela affiche à la fois la surface et un point au centre / les deux objets contiennent les mêmes informations
-*** ne plus voir les surfaces est possible en sortant "out skel qt;" -> exécuter la requête / cela affiche seulement un point au centre contenant toute les informations 
+* par défaut, la requête s’exécute sur la portion de carte visible (appelé bbox)
+* pour préciser sur une commune, dans l'assistant écrire par exemple : amenity=school in Créon
+* les booléens existent : AND et OR, donc par exemple dans l'assistant amenity=school and school:FR=Maternelle in Créon
+* "transformer" les surfaces en points
+ * dans la zone print results de la requête ajouter center après out body : out body center -> exécuter / cela affiche à la fois la surface et un point au centre / les deux objets contiennent les mêmes informations
+ * ne plus voir les surfaces est possible en sortant "out skel qt;" -> exécuter la requête / cela affiche seulement un point au centre contenant toute les informations 
 
 # exporter la requête
 * cliquer sur exporter
