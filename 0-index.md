@@ -1,4 +1,5 @@
 # La table des matières du "dépot"
+On se base sur ce **[modèle de fiche](http://www.multibao.org/infolab-cd33/datalunch/modele-fiche.md)**, pour tenter d'avoir un format homogène.
 
 ## Cartographie
 - [Umap / Intégrer un fichier géolocalisé](http://www.multibao.org/infolab-cd33/datalunch/geocodage_et_umap.md)
