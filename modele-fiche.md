@@ -15,8 +15,8 @@
 
 
 ## Aller + loin : 
-source : http://constructive.gforge.inria.fr/
+Quelques sources : 
 
-## A savoir : ce petit atelier peut être adapté et amélioré !
+## A savoir : 
 
-##Liens avec d’autres fiches
+## Liens avec d’autres fiches : 
