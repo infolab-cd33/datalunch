@@ -1,5 +1,5 @@
 # Qualité du tableur de données
-on s'assure que les titres de colonnes aient des noms explicites mais sans caractères "particuliers" (pas d'accents, d'apostrophes, pas d'espaces)
+On s'assure que les titres de colonnes aient des noms explicites mais sans caractères "particuliers" (pas d'accents, d'apostrophes, pas d'espaces)
 
 # Export en format .csv (comma separated value)
 Enregistrer sous sonnom.csv
@@ -38,9 +38,9 @@ L'import dans Umap va également nous donner des infos sur la "qualité des donn
 à droite les propriétés et fonctionnalités de l'ensemble de la carte (partage, édition, import, propriétés ...)
 
 
-## Configuration
-Garder en tête la filiation :)
-Propriétés des cartes -> propriétés des calques -> propriétés des données
+## Configuration des propriétés d'affichage de la carte et des calques
+Il est important de garder en tête la filiation, qui va permettre de définir des pripriétés par défaut à la carte, qui s'appliqueront à tous les calques et aux données. On pourra cependant personnaliser les calques, en refusant l'héritage :)
+
 Cela va permettre d'hériter des propriétés ou de singulariser les propriétés carte > calque > donnée
 
 On pourra toujours les modifier par la suite
@@ -50,10 +50,10 @@ On pourra toujours les modifier par la suite
 	* Propriétés des données
 
 ## Import de données à partir de sonnom.geocoded.csv
-
-la flèche vers le haut, dans le menu de droite
+On clique sur la flèche vers le haut, dans le menu de droite
 ![Importer des données](https://wiki.openstreetmap.org/w/images/f/f7/Importer_des_donn%C3%A9es_sur_uMap_-_Etape0.PNG)
-On importe dans un nouveau calque pour tester
+On va sélectionner son fichier sonnom.geocoded.csv
+On importe dans un nouveau calque ou pas (la première fois testez dans un nouveau calque pour "vérifier ses données", et ensuite si tout va bien effacer ce nouveau calque et importer dans le calque approprié.
 
 ### Personnalisation du calque
 
