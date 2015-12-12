@@ -52,7 +52,7 @@ On pourra toujours les modifier par la suite
 ## Import de données à partir de sonnom.geocoded.csv
 
 la flèche vers le haut, dans le menu de droite
-!(https://wiki.openstreetmap.org/w/images/f/f7/Importer_des_donn%C3%A9es_sur_uMap_-_Etape0.PNG)
+![Importer des données](https://wiki.openstreetmap.org/w/images/f/f7/Importer_des_donn%C3%A9es_sur_uMap_-_Etape0.PNG)
 On importe dans un nouveau calque pour tester
 
 ### Personnalisation du calque
