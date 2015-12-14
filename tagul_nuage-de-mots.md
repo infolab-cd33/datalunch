@@ -3,12 +3,12 @@
 http://tagul.com
 ## se créer un compte
 ## importer une forme
-## choisir ces mots
+## choisir sa liste de mots à afficher dans le nuage
 ## récupérer le fichier
 ## point sur la licence
 Licence CC-BY-NC-SA -> https://tagul.com/license
 ## D'autres sites
 - wordle.net
-- taxedo
+- tagxedo
 
 
