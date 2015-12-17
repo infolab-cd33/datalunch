@@ -17,9 +17,8 @@ une connection internet
 ### Géocodage des données
 * On va se servir de Addok, géocodeur : http://adresse.data.gouv.fr/csv/
 * on y importe le fichier sonnom.csv,
-* on glisse les colonnes adresse,
-* ville qui nous intéresse pour le géocodage,
-* on sélectionne le code postal correspondant,
+* on glisse les colonnes adresse, ville qui nous intéresse pour le géocodage,
+* on sélectionne la colonne correspondant au code postal,
 * on s'assure d'avoir le bon encodage (pas de caractères anormaux dans la prévisualisation).
 * On clique sur Lancer et on récupère un fichier en sonnom.geocoded.csv, qui comprend toutes les informations de sonnom.csv, plus des colonnes supplémentaires avec lattitude, longitude, l'adresse que cela renvoie, si c'est un numéro de rue, de maison, de ... code insee, et un result_score
 
