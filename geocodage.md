@@ -21,7 +21,7 @@
 * on glisse les colonnes adresse, ville qui nous intéresse pour le géocodage,
 * on sélectionne la colonne correspondant au code postal,
 * on s'assure d'avoir le bon encodage (pas de caractères anormaux dans la prévisualisation).
-![choix des colonnes](http://www.datalocale.fr/drupal7/sites/default/files/fiches/geocodage-02.png)
+![choix des colonnes](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/geocodage/geocodage-02.png)
 * On clique sur Lancer et on récupère un fichier en sonnom.geocoded.csv, qui comprend toutes les informations de sonnom.csv, plus des colonnes supplémentaires avec lattitude, longitude, l'adresse que cela renvoie, si c'est un numéro de rue, de maison, de ... code insee, et un result_score
 
 ### Vérification du géocodage
