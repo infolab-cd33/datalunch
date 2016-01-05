@@ -25,7 +25,7 @@ une connection internet
 * On clique sur Lancer et on récupère un fichier en sonnom.geocoded.csv, qui comprend toutes les informations de sonnom.csv, plus des colonnes supplémentaires avec lattitude, longitude, l'adresse que cela renvoie, si c'est un numéro de rue, de maison, de ... code insee, et un result_score
 
 ### Vérification du géocodage
-On ouvre le fichier sonnom.geocoded.csv et en particulier on regarde le result_score. On vérifie aussi le result_city, contexte, ...
+On ouvre le fichier sonnom.geocoded.csv et on regarde le result_score. On vérifie aussi le result_city, contexte, ...
 Si il est trop proche de zéro, il y a des erreurs
 Si il est proche de un, on est bon !
 
