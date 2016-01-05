@@ -1,6 +1,6 @@
 # Récupérer des données dans OpenStreetMap
 
-- **Niveau** : Avancé
+- **Niveau** : Débutant / Intermédiaire / **Avancé** / Expert
 - **Auteur** : Datalocale
 - **Date de MàJ** : 05/01/2016
 - **Licence** : CC-BY
