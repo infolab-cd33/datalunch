@@ -9,6 +9,7 @@
 Créer et personnaliser une carte avec Umap pour pouvoir la transmettre, l'insérer dans un site, ...
 
 ## Ingrédients - Ce dont nous avons besoin
+[uMap](http://umap.openstreetmap.fr/fr/) permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher dans votre site.
 
 ## Étapes - Comment allons-nous procéder ?
 ### Configuration du compte umap
@@ -41,22 +42,3 @@ Il existe plusieurs instances du logiciel Umap :
 * [Framacarte](https://framacarte.org)
 ## Liens avec d’autres fiches : 
 
-
-# Cartographie avec Umap
-[uMap](http://umap.openstreetmap.fr/fr/) permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher dans votre site.
-
-
-
-
-
-
-
-## Import de données à partir de sonnom.geocoded.csv
-On clique sur la flèche vers le haut, dans le menu de droite
-![Importer des données](https://wiki.openstreetmap.org/w/images/f/f7/Importer_des_donn%C3%A9es_sur_uMap_-_Etape0.PNG)
-On va sélectionner son fichier sonnom.geocoded.csv
-On importe dans un nouveau calque ou pas (la première fois testez dans un nouveau calque pour "vérifier ses données", et ensuite si tout va bien effacer ce nouveau calque et importer dans le calque approprié.
-
-### Personnalisation du calque
-
-### Choix des pop-ups
