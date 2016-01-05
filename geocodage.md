@@ -10,8 +10,8 @@
 À partir d'un fichier contenant des adresses, encodé en .csv, nous allons "géocoder" (définir les longitudes et lattitudes) ces adresses pour permettre ensuite d'en faire, par exemple une carte.
 
 ## Ingrédients - Ce dont nous avons besoin
-Un fichier .csv contenant des colonnes d'adresses
-une connection internet
+* Un fichier .csv contenant des colonnes d'adresses
+* une connection internet
 
 ## Étapes - Comment allons-nous procéder ?
 ### Géocodage des données
@@ -26,13 +26,13 @@ une connection internet
 
 ### Vérification du géocodage
 On ouvre le fichier sonnom.geocoded.csv et on regarde le result_score. On vérifie aussi le result_city, contexte, ...
-Si il est trop proche de zéro, il y a des erreurs
-Si il est proche de un, on est bon !
-
+* Si il est trop proche de zéro, il y a des erreurs
+* Si il est proche de un, on est bon !
 
 ## Aller + loin : 
 Quelques sources : 
 
 ## A savoir : 
-
+Il existe d'autres géocodeurs, par exemple !
+* http://dogeo.fr/_apps/DoGeocodeur/
 ## Liens avec d’autres fiches : 
