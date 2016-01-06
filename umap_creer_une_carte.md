@@ -5,15 +5,17 @@
 - **Date de MàJ** : 02/12/2015
 - **Licence** : CC-BY
 
-## Principes - Ce que nous allons faire
+## Principes
 Créer et personnaliser une carte avec Umap pour pouvoir la transmettre, l'insérer dans un site, ...
 
-## Ingrédients - Ce dont nous avons besoin
-[uMap](http://umap.openstreetmap.fr/fr/) permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher dans votre site.
+## Ingrédients
+- Un compte OpenStreetMap (ou une adresse courriel pour se créer un compte sur OpenStreetMap)
+-  Un site proposant le logiciel Umap : par exemple [uMap](http://umap.openstreetmap.fr/fr/) ou  [Framacarte](https://framacarte.org/)
 
-## Étapes - Comment allons-nous procéder ?
+## Étapes
 ### Configuration du compte umap
-- On se crée un compte osm
+- Quand on arrive sur le site umap, on se connecte avec son compte OpenStreetMap,
+
 - On fait un lien avec un compte (connection), je vous propose OpenStreetMap (OSM).
 - Cela permet de retrouver toutes ses cartes
 ### Création d'une carte
