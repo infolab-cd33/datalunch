@@ -2,7 +2,7 @@
 On se base sur ce **[modèle de fiche](http://www.multibao.org/infolab-cd33/datalunch/z-modele-fiche.md)**, pour tenter d'avoir un format homogène.
 
 ## Cartographie
-- [Umap / Intégrer un fichier géolocalisé](http://www.multibao.org/infolab-cd33/datalunch/umap-donnees-geolocalisees.md)
+- [Umap / Intégrer un fichier géolocalisé](http://www.multibao.org/infolab-cd33/datalunch/umap_donnees_geolocalisees.md)
 - Umap / Faire apparaître des informations dans les "pop-ups"
 - [Umap / Intégrer des données distantes](http://www.multibao.org/infolab-cd33/datalunch/umap_donnees_dynamiques.md)
 
