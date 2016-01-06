@@ -1,2 +1,2 @@
 # datalunch
-recettes de cuisine avec les données
+recettes de cuisine avec les données.
