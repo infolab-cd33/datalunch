@@ -1,10 +1,10 @@
 # La table des matières du "dépot"
-On se base sur ce **[modèle de fiche](http://www.multibao.org/infolab-cd33/datalunch/modele-fiche.md)**, pour tenter d'avoir un format homogène.
+On se base sur ce **[modèle de fiche](http://www.multibao.org/infolab-cd33/datalunch/z-modele-fiche.md)**, pour tenter d'avoir un format homogène.
 
 ## Cartographie
-- [Umap / Intégrer un fichier géolocalisé](http://www.multibao.org/infolab-cd33/datalunch/geocodage_et_umap.md)
+- [Umap / Intégrer un fichier géolocalisé](http://www.multibao.org/infolab-cd33/datalunch/umap-donnees-geolocalisees.md)
 - Umap / Faire apparaître des informations dans les "pop-ups"
-- [Umap / Intégrer des données distantes](http://www.multibao.org/infolab-cd33/datalunch/umap_et_donnees_distantes.md)
+- [Umap / Intégrer des données distantes](http://www.multibao.org/infolab-cd33/datalunch/umap_donnees_dynamiques.md)
 
 
 ## Traiter les données
