@@ -6,41 +6,49 @@
 - **Licence** : CC-BY
 
 ## Principes
-Créer et personnaliser une carte avec Umap pour pouvoir la transmettre, l'insérer dans un site, ...
+Créer et nommer une carte avec Umap,
+Personnaliser les propriétés de la carte, des calques et des objets,
 
 ## Ingrédients
 - Un compte OpenStreetMap (ou une adresse courriel pour se créer un compte sur OpenStreetMap)
--  Un site proposant le logiciel Umap : par exemple [uMap](http://umap.openstreetmap.fr/fr/) ou  [Framacarte](https://framacarte.org/)
+-  Un site proposant le logiciel Umap : par exemple [Umap](http://umap.openstreetmap.fr/fr/) ou  [Framacarte](https://framacarte.org/)
 
 ## Étapes
-### Configuration du compte umap
-- Quand on arrive sur le site umap, on se connecte avec son compte OpenStreetMap,
+### Connecter Umap à son compte OpenStreetMap
+Cette étape est nécessaire si l'on souhaite retrouver facilement toutes les cartes que l'on va faire.
+Cependant, sans compte on peut créer une carte, il faudra alors sauvegarder **précieusement** le lien pour l'édition.
 
-- On fait un lien avec un compte (connection), je vous propose OpenStreetMap (OSM).
-- Cela permet de retrouver toutes ses cartes
+- Quand on arrive sur le site [Umap](http://umap.openstreetmap.fr/fr/), on se connecte et on choitit OpenStreetMap,
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/umap/umap-01.png)
+- On autorise l'application Umap à utiliser son compte OpenStreetMap ![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/umap/umap-02.png)
+
+On voit que l'on est identifié car notre *pseudo* apparaît :
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/umap/umap-03.png).
+
+Si on clique sur Mes cartes (MonPseudo), on a alors toutes les cartes créées.
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/umap/umap-05.png).
+
 ### Création d'une carte
-* L'interface de [Umap](http://umap.openstreetmap.fr)
+* On clique sur créer une carte ![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/umap/umap-04.png)
 
-à gauche surtout la navigation et l'affichage
-à droite les propriétés et fonctionnalités de l'ensemble de la carte (partage, édition, import, propriétés ...)
+### Donner un nom et la décrire
+On clique sur l'engrenage ![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/umap/umap-06.png).
 
+Dans la fenêtre qui s'ouvre on peut renseigner le nom et décrire la carte que l'on vient de créer.
+**Ne pas oublier d'enregistrer !!**
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/umap/umap-07.png).
 
-### Configuration des propriétés d'affichage de la carte et des calques
-Il est important de garder en tête la filiation, qui va permettre de définir des pripriétés par défaut à la carte, qui s'appliqueront à tous les calques et aux données. On pourra cependant personnaliser les calques, en refusant l'héritage :)
-
-Cela va permettre d'hériter des propriétés ou de singulariser les propriétés carte > calque > donnée
-
-On pourra toujours les modifier par la suite
-
-	* Propriété de la carte
-	* Propriété des calques
-	* Propriétés des données
+De nombreuses autres options sont disponibles !
 
 ## Aller + loin : 
-[Des guides](http://wiki.openstreetmap.org/wiki/FR:UMap/Guide= et [des vidéos](http://wiki.openstreetmap.org/wiki/UMap#Screencasts)
+[Des guides](http://wiki.openstreetmap.org/wiki/FR:UMap/Guide) et [des vidéos](http://wiki.openstreetmap.org/wiki/UMap#Screencasts)
+
 ## A savoir : 
 Il existe plusieurs instances du logiciel Umap :
 * [uMap](http://umap.openstreetmap.fr/fr/)
 * [Framacarte](https://framacarte.org)
+
 ## Liens avec d’autres fiches : 
+- [Insérer des données dynamiques provenant d'OpenStreetMap](http://www.multibao.org/infolab-cd33/datalunch/umap_donnees-dynamiques.md)
+- [Insérer des données géolocalisées](http://www.multibao.org/infolab-cd33/datalunch/umap_donnees_geolocalisees.md)
 
