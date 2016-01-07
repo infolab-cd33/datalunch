@@ -22,7 +22,7 @@ https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es
 
 Comment faire cette table ?
 
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/bdd-01.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/bdd/bdd-01.png)
 
 #### Dans un tableur
 je note les noms de colonnes, je remplis les données.
@@ -31,22 +31,22 @@ je note les noms de colonnes, je remplis les données.
 
 Alors que je pourrai n'écrire que cela :
 
-![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-02.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/bdd/bdd-02.png)
 
 Mais dans ce cas, j'ai besoin de connaître la "relation" entre "Durand" d'une part et "Paul, Jacques, Louis"
 
 #### Dans une base de données
 Je vais créer 2 tables 
 
-![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-03.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/bdd/bdd-03.png)
 
 et définir une relation entre elles 
 
-![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-04.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/bdd/bdd-04.png)
 
 Pour obtenir à la fin une base de données avec plusieurs tables :
 
-![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-05.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/bdd/bdd-05.png)
 
 Donc effectivement pour 3 enfants et leur père ce n'est pas forcément nécessaire mais si on fait cela pour tous les pères du monde !!!
 
@@ -85,10 +85,10 @@ Pour pallier à cela et permettre d'éviter cette structuration à-priori, on pa
 
 Pour obtenir cela :
 
-![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-06.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/bdd/bdd-06.png)
 
 on va utiliser pour les données une forme comme ceci :
 
-![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-08.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/bdd/bdd-08.png)
 
 Images issues de [wikipédia](https://fr.wikipedia.org/wiki/MongoDB)
