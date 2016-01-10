@@ -34,16 +34,3 @@ Il existe plusieurs instances du logiciel Umap :
 - [Géocoder un fichier d'adresse .csv](http://www.multibao.org/infolab-cd33/datalunch/geocodage.md)
 - [Créer une carte Umap](http://www.multibao.org/infolab-cd33/datalunch/umap_creer_une_carte.md)
 
-
-
-
-
-
-
-
-
-
-
-### Personnalisation du calque
-
-### Choix des pop-ups
