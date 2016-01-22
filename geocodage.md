@@ -41,5 +41,6 @@ Quelques sources :
 Il existe d'autres géocodeurs, par exemple !
 
 * http://dogeo.fr/_apps/DoGeocodeur/
+* en utilisant OpenRefine et le tutoriel suivant pour lier avec le service de la BANO (Base Adresse Nationale Ouverte) : https://cquest.hackpad.com/OpenRefine-et-g%C3%A9ocodage-avec-adresse.data.gouv.fr-PCbRafrVuef
 
 ## Liens avec d’autres fiches : 
