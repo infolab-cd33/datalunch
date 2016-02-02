@@ -1,0 +1,69 @@
+daktary:
+  home: /daktary/contribs/examples
+  meta:
+    title: 'Daktary: A dead simple kind of blog'
+    description: 'For writers who want a very simple tool for writing and publishing her numerics contents, Daktary unlike to wordpress help us to keep focus and to present a readable contents for readers.'
+
+  ghRepos:
+  - label: daktary-contribs
+    account: daktary
+    repo: contribs
+    folder: examples
+
+  - label: Vincent Ferries
+    account: vferries
+    repo: blog
+    folder: _posts
+    branch: gh-pages
+
+  - label: multibao
+    account: multibao
+    repo: contributions
+    folder: contributions
+
+  - label: Les traducteurs agiles
+    account: les-traducteurs-agiles
+    repo: les-traducteurs-agiles.github.io
+    folder: _posts
+
+  dkCss: assets/css/daktary.css
+  dkImgPath: assets/img
+  dk404: https://raw.githubusercontent.com/daktary/contribs/master/assets/img/error404.png
+  
+prose:
+  rooturl: 'examples'
+  media: 'media'
+  metadata:
+    contributions:
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: "author"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Agile"
+              value: "agile"
+            - name: "Collaboratif"
+              value: "collaboratif"
+            - name: "Scopyleft"
+              value: "scopyleft"
+            - name: "Meteor"
+              value: "meteor"
+            - name: "Lean"
+              value: "lean"
+
