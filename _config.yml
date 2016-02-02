@@ -1,14 +1,14 @@
 daktary:
-  home: /daktary/contribs/examples
+  home: /infolab-cd33/datalunch
   meta:
-    title: 'Daktary: A dead simple kind of blog'
-    description: 'For writers who want a very simple tool for writing and publishing her numerics contents, Daktary unlike to wordpress help us to keep focus and to present a readable contents for readers.'
+    title: 'Fiches ressources pour les datalunch'
+    description: 'Dans le cadre de l'infolab interne du département de la Gironde, des fiches méthodologiques et présentation de thématiques ont été réalisées.'
 
   ghRepos:
-  - label: daktary-contribs
-    account: daktary
-    repo: contribs
-    folder: examples
+  - label: Datalunch
+    account: infolab-cd33
+    repo: datalunch
+    folder: 
 
   - label: Vincent Ferries
     account: vferries
