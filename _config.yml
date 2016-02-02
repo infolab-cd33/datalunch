@@ -10,23 +10,12 @@ daktary:
     repo: datalunch
     folder: /
 
-  - label: Vincent Ferries
-    account: vferries
-    repo: blog
-    folder: _posts
-    branch: gh-pages
-
   - label: multibao
     account: multibao
     repo: contributions
     folder: contributions
 
-  - label: Les traducteurs agiles
-    account: les-traducteurs-agiles
-    repo: les-traducteurs-agiles.github.io
-    folder: _posts
-
-  dkCss: assets/css/daktary.css
+  dkCss: assets/css/datalunch.css
   dkImgPath: assets/img
   dk404: https://raw.githubusercontent.com/daktary/contribs/master/assets/img/error404.png
   
