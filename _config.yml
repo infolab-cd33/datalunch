@@ -8,7 +8,7 @@ daktary:
   - label: Datalunch
     account: infolab-cd33
     repo: datalunch
-    folder: 
+    folder: /
 
   - label: Vincent Ferries
     account: vferries
