@@ -1,8 +1,8 @@
 daktary:
   home: /infolab-cd33/datalunch
   meta:
-    title: 'Fiches ressources issues des datalunch'
-    description: 'Plop'
+    title: "Fiches ressources issues des datalunch"
+    description: "Dans le cadre de l'infolab interne du département de la Gironde, des fiches méthodologiques et présentation de thématiques ont été réalisées."
 
   ghRepos:
   - label: Datalunch
