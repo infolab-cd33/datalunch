@@ -1,7 +1,7 @@
 daktary:
   home: /infolab-cd33/datalunch
   meta:
-    title: 'Fiches ressources pour les datalunch'
+    title: 'Fiches ressources issues des datalunch'
     description: 'Dans le cadre de l'infolab interne du département de la Gironde, des fiches méthodologiques et présentation de thématiques ont été réalisées.'
 
   ghRepos:
@@ -56,6 +56,12 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
+            - name: "Manip"
+              value: "manip"
+            - name: "Geo"
+              value: "geo"
+            - name: "Dataviz"
+              value: "dataviz"
             - name: "Agile"
               value: "agile"
             - name: "Collaboratif"
