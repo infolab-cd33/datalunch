@@ -7,9 +7,9 @@
 - **Licence** : CC-BY / CC-by-sa / ...
 
 ## Principes - Ce que nous allons faire
-Intégrer des données distantes dans Umap
+* Intégrer des données distantes dans Umap
 ## Ingrédients - Ce dont nous avons besoin
-Un lien avec les données distantes grâce à l'overpass
+* Un lien avec les données distantes grâce à l'overpass
 
 ## Étapes - Comment allons-nous procéder ?
 ### Umap / Ajouter des données distantes
