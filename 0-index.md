@@ -2,7 +2,7 @@
 On se base sur ce **[modèle de fiche](http://datalunch.datalocale.fr/infolab-cd33/datalunch/z-modele-fiche.md)**, pour tenter d'avoir un format homogène.
 
 ## Cartographie
-- [Umap / Intégrer un fichier géolocalisé](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_donnees-geolocalisees.md)
+- [Umap / Intégrer un fichier géolocalisé](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_donnees_geolocalisees.md)
 - Umap / Faire apparaître des informations dans les "pop-ups"
 - [Umap / Intégrer des données distantes](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_donnees_dynamiques.md)
 - [Umap / Intégrer la limite d'une commune](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_integrer_limite_commune.md)
