@@ -1,9 +1,10 @@
 # Récupérer des données dans OpenStreetMap
 
 - **Niveau** : Débutant / Intermédiaire / **Avancé** / Expert
-- **Auteur** : Datalocale
+- **Auteur** : Vincent Bergeot
 - **Date de MàJ** : 05/01/2016
 - **Licence** : CC-BY
+- [Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 Nous allons récupérer des données dans OpenStreetMap.

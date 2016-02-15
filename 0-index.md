@@ -1,5 +1,7 @@
 # La table des matières du "dépot"
-On se base sur ce **[modèle de fiche](http://datalunch.datalocale.fr/infolab-cd33/datalunch/z-modele-fiche.md)**, pour tenter d'avoir un format homogène.
+- [Pour revenir au dépot http://datalunch.datalocale.fr](http://datalunch.datalocale.fr)
+
+- [Modèle de fiche](http://datalunch.datalocale.fr/infolab-cd33/datalunch/z-modele-fiche.md), pour un format homogène.
 
 ## Cartographie
 - [Umap / Intégrer un fichier géolocalisé](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_donnees_geolocalisees.md)

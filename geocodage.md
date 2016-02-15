@@ -5,6 +5,7 @@
 - **Auteur** : VB
 - **Date de MàJ** : 17/12/2015
 - **Licence** : CC-by-sa
+- [Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 À partir d'un fichier contenant des adresses, encodé en .csv, nous allons "géocoder" (définir les longitudes et lattitudes) ces adresses pour permettre ensuite d'en faire, par exemple une carte.

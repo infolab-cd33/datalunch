@@ -2,9 +2,10 @@
 
 
 - **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert
-- **Auteur** : Un ou des noms
+- **Auteur** : Vincent Bergeot
 - **Date de MàJ** : 02/12/2015
-- **Licence** : CC-BY / CC-by-sa / ...
+- **Licence** : CC-by-sa
+- [Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 * Intégrer des données distantes dans Umap

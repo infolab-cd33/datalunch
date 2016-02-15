@@ -1,26 +1,28 @@
 # Insérer des données géolocalisées dann Umap
 
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
-- **Auteur** : 
-- **Date de MàJ** : 02/12/2015
-- **Licence** : CC-BY
+- **Auteur** : Vincent Bergeot
+- **Date de MàJ** : 15/02/2016
+- **Licence** : CC-BY-SA
 - [Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
-Insérer un fichier de données géolocalisées dans une carte Umap
+- Insérer la limite d'une commune dans Umap
 
 ## Ingrédients - Ce dont nous avons besoin
 - Une carte Umap
-- Un fichier de données géolocalisées par exemple en monfichier.csv
+- Un fichier geojson de la limite communale
 
 ## Étapes - Comment allons-nous procéder ?
-### Import de données à partir de monfichier.csv
+### Import de données à partir de monfichier.geojson
 On clique sur la flèche vers le haut, dans le menu de droite
 ![Importer des données](https://wiki.openstreetmap.org/w/images/f/f7/Importer_des_donn%C3%A9es_sur_uMap_-_Etape0.PNG)
 
-On va sélectionner son fichier monfichier.csv
+On va sélectionner son fichier monfichier.geojson
 
-Pour tester son fichier et ne pas le mélanger si il comporte des erreurs, on importe dans un nouveau calque. Si les données sont correctement importées, alors on efface le calque et on re-importe dans le calque approprié.
+Pour tester son fichier et ne pas le mélanger si il comporte des erreurs, on importe dans un nouveau calque.
+
+Si les données sont correctement importées, alors on efface le calque et on re-importe dans le calque approprié.
 
 
 ## Aller + loin : 
