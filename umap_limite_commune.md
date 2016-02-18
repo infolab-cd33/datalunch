@@ -1,4 +1,4 @@
-# Insérer des données géolocalisées dann Umap
+# Insérer la limite d'une commune
 
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
 - **Auteur** : Vincent Bergeot
@@ -37,4 +37,6 @@ Il existe plusieurs instances du logiciel Umap :
 ## Liens avec d’autres fiches : 
 - [Géocoder un fichier d'adresse .csv](http://datalunch.datalocale.fr/infolab-cd33/datalunch/geocodage.md)
 - [Créer une carte Umap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_creer_une_carte.md)
+* [Fermer la limite de la commune dans OpenStreetMap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/josm_fermer_une_commune.md)
+* [Récupérer la limite d'une commune venant d'OpenStreetMap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/overpass_recuperer_limite_commune.md)
 

@@ -31,3 +31,5 @@ Quelques sources :
 
 
 ## Liens avec d’autres fiches : 
+* [Insérer les limites d'une commune dans Umap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_limite_commune.md)
+* [Fermer la limite de la commune dans OpenStreetMap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/josm_fermer_une_commune.md)
