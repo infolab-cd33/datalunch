@@ -30,7 +30,7 @@ Donc entre la dataviz et infoviz, la principale diférence est l'interactivité 
 ![Carte du métro de Tokyo](http://angiesrainbow.com/geikokujin/wp-content/uploads/2012/05/Tokyo-plan-metro.jpg  "Carte du métro de Tokyo")
 
 ### Les réseaux 
-![Répertoire d'un fonds d'archives visualisé sous la forme d'un réseau.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Social_Network_Analysis_Visualization.png/1024px-Social_Network_Analysis_Visualization.png?uselang=fr  "Répertoire d'un fonds d'archives visualisé sous la forme d'un réseau.")
+![Répertoire d'un fond d'archives visualisé sous la forme d'un réseau.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Social_Network_Analysis_Visualization.png/1024px-Social_Network_Analysis_Visualization.png?uselang=fr  "Répertoire d'un fonds d'archives visualisé sous la forme d'un réseau.")
 
 ### Raconter un film
 ![Storylines du seigneur des anneaux](http://xkcd.com/657/large/  "Storylines du seigneur des anneaux")
@@ -46,7 +46,8 @@ Donc entre la dataviz et infoviz, la principale diférence est l'interactivité 
 ## À garder en tête
 ### Quantité d'informations sur une visualisation
 La notion de charge cognitive
-
+- charge cognitive faible
+- 
 
 ## Une aide pour s'orienter dans ce monde de visualisation
 ![](http://41.media.tumblr.com/tumblr_m54zvcNzeH1rudy45o1_1280.jpg  "")
