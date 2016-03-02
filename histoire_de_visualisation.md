@@ -34,7 +34,7 @@ Donc entre la dataviz et infoviz, la principale diférence est l'interactivité 
 
 ### Raconter un film
 
-![Storylines du seigneur des anneaux](http://xkcd.com/657/large/  "Storylines du seigneur des anneaux")
+![Storylines du seigneur des anneaux](http://imgs.xkcd.com/comics/movie_narrative_charts_large.png "Storylines du seigneur des anneaux")
 
 
 ### Et tant d'autres représentations possibles
@@ -48,9 +48,11 @@ Donc entre la dataviz et infoviz, la principale diférence est l'interactivité 
 ### Quantité d'informations sur une visualisation
 La notion de charge cognitive
 - charge cognitive faible / on distingue rapidement l'information
+
 ![Charge cognitive faible](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/visualisation/charge_cognitive_faible.png  "Charge cognitive faible")
 
 - charge cognitive forte / on distingue l'information mais on l'assimile moins
+
 ![Charge cognitive forte](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/visualisation/charge_cognitive_forte.png  "Charge cognitive forte")
 
 
