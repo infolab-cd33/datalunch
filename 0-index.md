@@ -1,6 +1,6 @@
 # La table des matières du "dépot"
 - [Pour revenir au dépot http://datalunch.datalocale.fr](http://datalunch.datalocale.fr)
-- 
+
 - [Modèle de fiche](http://datalunch.datalocale.fr/infolab-cd33/datalunch/z-modele-fiche.md), pour un format homogène.
 
 ## Cartographie
