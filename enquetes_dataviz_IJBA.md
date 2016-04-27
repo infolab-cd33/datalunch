@@ -10,7 +10,7 @@ Durée : deux journées de mise en route, deux semaines de production à l'IJBA 
 ![deux semaines de production à l'IJBA](http://www.datajournalismelab.fr/medias/20150603_163411.jpg)
 
 Final : debriefing collectif des enquêtes et mise en ligne sur www.datajournalismelab.fr
-![debriefing collectif]http://www.datajournalismelab.fr/medias/20150612_155559.jpg
+![debriefing collectif](http://www.datajournalismelab.fr/medias/20150612_155559.jpg)
 
 
 ## Les données du Département mises en scène
