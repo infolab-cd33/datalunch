@@ -58,12 +58,11 @@ Choisir selon les critères un tri croissant ou décroissant. Les données sont 
 
 - Fonction "rechercher&remplacer" 
 Elle permet de supprimer dans une colonne sélectionnée un élément indésiré, par exemple une parenthèse ouverte '(' ou un "0" au début d'une suite de chiffres.
- 
-- Sélection de la colonne
-rubrique Edition, rechercher&remplacer : une fenêtre apparaît
-indiquer l'élément "(" à "rechercher", puis laisser vide l'emplacement "rechercher par" 
-Cliquer sur "tout remplacer" (puis décocher "cellulles entières" s'il s'agit uniquement d'une partie de la cellule) pour que la parenthèse soit supprimée dans toutes les cellules de la colonne. 
-valider en cliquant sur "fermer"
+	- Sélection de la colonne
+	- rubrique Edition, rechercher&remplacer : une fenêtre apparaît
+	- indiquer l'élément "(" à "rechercher", puis laisser vide l'emplacement "rechercher par" 
+	- Cliquer sur "tout remplacer" (puis décocher "cellulles entières" s'il s'agit uniquement d'une partie de la cellule) pour que la parenthèse soit supprimée dans toutes les cellules de la colonne. 
+	- valider en cliquant sur "fermer"
 
 
 #Pour aller plus loin : 
