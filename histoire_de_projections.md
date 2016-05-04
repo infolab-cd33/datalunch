@@ -19,7 +19,8 @@ Un exemple
 <p></p>" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
 
 et cela peut-être tout cela !
-<iframe width="420" height="315" src="https://www.youtube.com/embed/b1xXTi1nFCo" frameborder="0" allowfullscreen></iframe>
+
+https://www.youtube.com/embed/b1xXTi1nFC
 
 Quelques exemples de projections différentes :
 
@@ -36,6 +37,6 @@ Quelques exemples de projections différentes :
 
 
 # Conclusion
-Les cartes c'est des choix !
+Les cartes ceux sont des choix !
 
 <i class="fa fa-heart"></i>WGS 84 (World Geodesic System 1984 : système géodésique mondial, révision de 1984) est le système géodésique mondial le plus courant, car il est utilisé par le système GPS (source Wikipédia à vérifier https://fr.wikipedia.org/wiki/WGS_84)<i class="fa fa-heart"></i>
