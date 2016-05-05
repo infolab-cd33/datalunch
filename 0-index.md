@@ -14,6 +14,7 @@
 
 ## Traiter les données
 - [Produire un fichier CSV, bonnes pratiques](http://datalunch.datalocale.fr/infolab-cd33/datalunch/fichiers_csv.md)
+- [Ouvrir et nettoyer un fichier csv](http://datalunch.datalocale.fr/infolab-cd33/datalunch/ouvrir_et_nettoyer_fichier_csv.md)
 - [Addok / Géocoder un tableur csv d'adresses et de données](http://datalunch.datalocale.fr/infolab-cd33/datalunch/geocodage.md)
 - [JOSM / Ajouter des informations une relation pour fermer une limite communale](http://datalunch.datalocale.fr/infolab-cd33/datalunch/josm_fermer_une_commune.md)
 

@@ -1,12 +1,18 @@
 # Ouvrir et nettoyer un fichier de données au format CSV
 
-## Principes
+- **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert
+- **Auteur** : Suzanne Galy
+- **Date de MàJ** : 04/05/2016
+- **Licence** : CC-by-sa
+- [Pour revenir au dépot](http://datalunch.datalocale.fr)
+
+## Principes - Ce que nous allons faire
 - Télécharger un fichier de données au format CSV
-- Ouvrir le fichier à l'aide d'un logiciel tableur
+- Ouvrir le fichier à l'aide d'un logiciel tableur (voir la fiche fichiers_csv.md)
 - Repérer des erreurs et automatiser le croisement des données avec une table de pilote
 - Nettoyer les données à l'aide des fonctions de tri, filtre, rechercher&remplacer 
 
-## Ingrédients
+## Ingrédients - Ce dont nous avons besoin
 
 - un outil tableur : [LibreOffice Calc](https://fr.libreoffice.org/download/libreoffice-stable/),
     - Tableur issu de la suite bureautique open source Libre Office, il interprète le format CSV pour présenter les données en lignes et colonnes sans autre intervention complémentaire de la part de l'utilisateur.
@@ -14,8 +20,9 @@
 [Liste des bâtiments du Conseil général](http://catalogue.datalocale.fr/dataset/46ce3441-bfd5-4bb1-aaca-14c3e910a9d0)
     - Liste des sites gérés par le conseil général sur lesquels se trouvent les différents bâtiments du conseil général accueillant des agents administratifs ou du public.
 
-##Étapes
-#Télécharger et ouvrir le fichier 
+## Étapes - Comment allons-nous procéder ?
+
+### Télécharger et ouvrir le fichier 
 
 - télécharger le fichier CSV sur le bureau de l'ordinateur ou dans un dossier
 - clic droit sur le fichier : "ouvrir avec" LibreOffice Calc
@@ -25,7 +32,7 @@ Premier niveau d'analyse du fichier à vue d'oeil :
 - 573 sites sont recensés (il y a 574 lignes au total)
 - il contient de nombreuses erreurs (adresses, code postal, décalages colonnes, etc.)
 
-#Générer une "table de pilote" (ou tableau croisé dynamique)
+### Générer une "table de pilote" (ou tableau croisé dynamique)
 Une table de pilote va permettre de 
 - repérer rapidement des erreurs dans les cellules du fichier 
 - répondre facilement et rapidement à des questions en opérant des croisements et traitement statistiques des données
@@ -46,7 +53,7 @@ Pour créer la table de pilote :
 >RQ 1 : on modifie les critères de la table à l’aide de la fonction “éditer la mise en page” (par clic droit dans le tableau).
 >RQ 2 : seuls 570 sites apparaissent dans le décompte “Total Résultat” : il est facile de retrouver où se situent les erreurs du tableur source. Ici, dans la colonne “statut”, on trouve des dates à la place d’un statut.
 
-#Nettoyer les données
+### Nettoyer les données
 Trois fonctions simples permettent de corriger des erreurs dans un fichier de données : 
 - Fonction de "Filtre"
 rubrique Données, choisir "filtre", puis "autofiltre" : une flèche apparaît dans l'en tête de colonne qui permet de visualiser les intitulés (textes) ou valeurs (chiffres, nombre) présents dans la colonne. 
@@ -65,7 +72,16 @@ Elle permet de supprimer dans une colonne sélectionnée un élément indésiré
 	- valider en cliquant sur "fermer"
 
 
-#Pour aller plus loin : 
+## Pour aller plus loin : 
 
 - [Aide de Libre Office Calc](https://help.libreoffice.org/Calc/Welcome_to_the_Calc_Help/fr)
 - [Apprendre à créer un tableau croisé dynamique avec LibreOffice Calc ](http://malick-nseck.developpez.com/tutoriels/apprendre-a-creer-tableau-croise-dynamique-avec-libre-office-calc/)
+
+## A savoir : 
+
+Le fichier csv encodé en UTF8, avec pour séparateur la virgule ou le point virgule, est communément trouvé sur les portails opendata.
+
+## Liens avec d’autres fiches : 
+
+- fichiers_csv.md
+
