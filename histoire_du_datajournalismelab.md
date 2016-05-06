@@ -3,21 +3,25 @@
 ##Le Data Journalisme Lab de l'IJBA depuis 2012
 
 Public : 36 étudiants de première année de master de l’IJBA
+
 ![36 étudiants de première année de master](http://www.datajournalismelab.fr/medias/20150612_155841.jpg)
+
 Année 1 : étudiants graphistes ECV et étudiants développeurs Epitech
 
 Durée : deux journées de mise en route, deux semaines de production à l'IJBA (data + terrain) et quelques conférences de rédaction intermédiaires.
+
 ![deux semaines de production à l'IJBA](http://www.datajournalismelab.fr/medias/20150603_163411.jpg)
 
 Final : debriefing collectif des enquêtes et mise en ligne sur www.datajournalismelab.fr
-![debriefing collectif](http://www.datajournalismelab.fr/medias/20150612_155559.jpg)
 
+![debriefing collectif](http://www.datajournalismelab.fr/medias/20150612_155559.jpg)
 
 ## Les données du Département mises en scène
 
 ### Vit-on vraiment mieux en Gironde qu'en France ? (2012)
 
 Projet : représenter le visage social de la Gironde, sa situation au niveau national et son évolution sur une période suffisamment significative pour pouvoir en tirer des conclusions.
+
 http://www.2012.datajournalismelab.fr/wp-content/uploads/visagesocialgironde/index.html
 
 Données utilisées : 
