@@ -9,8 +9,8 @@
 
 
 ## Principes - Ce que nous allons faire
-Nous allons récupérer un fichier Excel ou Open/Libre Office et le transformer en fichier CSV pour permettre sa réutilisation aussi bien par les individus que par les machines. 
-Nous allons choisir  : 
+Nous allons récupérer un fichier Excel ou Open/Libre Office et le transformer en fichier CSV pour permettre sa réutilisation aussi bien par les individus que par les machines.
+Nous allons choisir :
 
 - un délimiteur de caractère
 - un encodage de caractères
