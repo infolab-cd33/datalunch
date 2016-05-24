@@ -1,12 +1,12 @@
 ## Le Data Sprint du Forum des archivistes 2016
 
-Forum des archivistes “meta/morphoses les archives, bouillons de culture numérique”, organisé par l’Association des archivistes français du 30 mars au 1er avril, à Troyes
-> - #AAFtroyes
+Forum des archivistes **“meta/morphoses les archives, bouillons de culture numérique”**, organisé par l’Association des archivistes français du 30 mars au 1er avril, à Troyes
+> - AAFtroyes
 > - http://forum2016.archivistes.org/
 
 # Le Datasprint
 http://forum2016.archivistes.org/blog/category/data-sprint/
-> - #DatasprintAAF
+> - DatasprintAAF
 Constat : "Les expériences de réutilisations, visualisations et remix des données et contenus des services d'archives, en dehors de la sphère archivistique et culturelle, sont relativement rares. Le forum des archivistes 2016 est l'occasion d’expérimenter et de permettre à d'autres milieux, regards et compétences de réutiliser ces contenus."
 
 # Le défi
