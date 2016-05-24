@@ -1,6 +1,6 @@
 ## Le Data Sprint du Forum des archivistes 2016
 
-Forum des archivistes “meta/morphoses les archives,bouillons de culture numérique”, organisé par l’Association des archivistes français du 30 mars au 1er avril, à Troyes
+Forum des archivistes “meta/morphoses les archives, bouillons de culture numérique”, organisé par l’Association des archivistes français du 30 mars au 1er avril, à Troyes
 > - #AAFtroyes
 > - http://forum2016.archivistes.org/
 
@@ -25,4 +25,3 @@ Exemples :
 https://framadrive.org/index.php/s/NDh2YVhsWLwrEob#pdfviewer
 > - Syndicats et grèves dans la Drôme : 
 https://framadrive.org/index.php/s/QgBgbZHLStxoeqx#pdfviewer
-
