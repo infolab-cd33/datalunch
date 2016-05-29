@@ -1,7 +1,7 @@
 ---
 description: Vous avez dit BDD
 title: Vous avez dit BDD ?
-image_url: "http://placehold.it/350x150"
+image_url: http://placehold.it/350x150
 ---
 
 
