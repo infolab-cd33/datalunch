@@ -1,3 +1,10 @@
+---
+description: Vous avez dit BDD
+title: Vous avez dit BDD ?
+image_url: "http://placehold.it/350x150"
+---
+
+
 # Vous avez dit BDD ?
 
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
