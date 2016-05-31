@@ -22,12 +22,12 @@ sinon_valeur (facultatif) est la valeur qui est renvoyée si le test logique est
 
 - un outil tableur : [LibreOffice Calc](https://fr.libreoffice.org/download/libreoffice-stable/),
     - Tableur issu de la suite bureautique open source Libre Office, il interprète le format CSV pour présenter les données en lignes et colonnes sans autre intervention complémentaire de la part de l'utilisateur.
-- un fichier de données : [BDD_passeports_modifie.ods](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/BDD_passeports_modifie.ods)
+- un fichier de données : [BDD_passeports_modifie.ods](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/BDD_passeports_modifie.ods?raw=true)
 [registre de l'année 1800 des Passeports délivrés par le Port de Bordeaux aux Girondins, source Archives départementales)
 
 ## Étapes - Comment allons-nous procéder ?
 ### Télécharger, ouvrir et « enregistrer sous » le fichier 
-- télécharger le fichier [BDD_passeports_modifie.ods](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/BDD_passeports_modifie.ods) sur le bureau de l'ordinateur ou dans un dossier
+- télécharger le fichier [BDD_passeports_modifie.ods](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/BDD_passeports_modifie.ods?raw=true) sur le bureau de l'ordinateur ou dans un dossier
 - clic droit sur le fichier : "ouvrir avec" LibreOffice Calc et « enregistrer sous » pour en faire une copie
 
 ### Mettre en œuvre la fonction SI (simple)
