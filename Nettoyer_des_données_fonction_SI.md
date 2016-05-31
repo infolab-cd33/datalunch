@@ -1,5 +1,4 @@
-
-Nettoyer un jeu de données : la fonction « SI »
+# Nettoyer un jeu de données : la fonction « SI »
 
 - **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert
 - **Auteur** : Suzanne Galy
