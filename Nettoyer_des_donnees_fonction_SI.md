@@ -27,7 +27,7 @@ sinon_valeur (facultatif) est la valeur qui est renvoyée si le test logique est
 
 ## Étapes - Comment allons-nous procéder ?
 ### Télécharger, ouvrir et « enregistrer sous » le fichier 
-- télécharger le fichier [BDD_passeports_modifie.ods](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/BDD_passeports_modifie.ods?raw=true) sur le bureau de l'ordinateur ou dans un dossier
+- télécharger le fichier [BDD_passeports_modifie.ods](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/nettoyer/BDD_passeports_modifie.ods?raw=true) sur le bureau de l'ordinateur ou dans un dossier
 - clic droit sur le fichier : "ouvrir avec" LibreOffice Calc et « enregistrer sous » pour en faire une copie
 
 ### Mettre en œuvre la fonction SI (simple)
@@ -40,7 +40,7 @@ Pour générer une localisation, je vais devoir récupérer toutes ces informati
 
 Instruction donnée : SI la cellule de la colonne « ville origine aujourd'hui » (Q) est différente de "vide", reporter la cellule de la colonne Q. Sinon, reporter la cellule de la colonne « ville d'origine ancien » (M).
 
-![Exemple « fonction SI » imbriquée fichier Passeports 1800 Gironde](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/Exemple_Fonction_SI.jpg)
+![Exemple « fonction SI » imbriquée fichier Passeports 1800 Gironde](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/nettoyer/Exemple_Fonction_SI.jpg)
 
 ### Fonctions SI imbriquées
 Les fonctions SI imbriquées, c’est-à-dire une fonction SI au sein d’une autre, vous permettent de tester plusieurs critères et augmentent le nombre de résultats possibles. 
