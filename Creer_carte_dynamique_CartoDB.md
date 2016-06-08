@@ -14,7 +14,7 @@
 - Un compte CartoDB https://cartodb.com/
 - Une base de données intégrant des coordonnées géographiques (colonnes latitudes et longitudes) au format CSV, xls, odt, etc.
 
-Exemple avec [BDD-Passeports-arrivees.csv] (https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/BDD-Passeports-arrivees.csv). Elle nous indique les destinations de voyages des Girondins en l'an 1800, qui avaient l'obligation de se faire délivrer un passeport pour chacun de leur voyage.
+Exemple avec [BDD-Passeports-arrivees.csv](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/BDD-Passeports-arrivees.csv). Elle nous indique les destinations de voyages des Girondins en l'an 1800, qui avaient l'obligation de se faire délivrer un passeport pour chacun de leur voyage.
 
 
 ## Étapes
@@ -23,15 +23,15 @@ On voit que l'on est identifié car notre *avatar* (photo ou image par défaut) 
 
 ### Création d'un jeu de données
 Il y a deux tableaux de bord possibles accessibles à partir de la flèche située en haut à gauche de l'écran : "vos cartes" (yours maps) ou  "vos jeux de données" (your datasets")
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/Passeports/cartoDB_dashboard.jpg).
+![](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/cartoDB_dashboard.jpg).
 
 On choisit "You datasets" et on clique sur "New dataset"
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/Passeports/cartoDB_newdataset.jpg).
+![](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/cartoDB_newdataset.jpg).
 
 CartoDB nous propose plusieurs options : 
 - connecter un jeu de données à partir d'un service externe : Google Drive, Dropbox, Twitter, etc.
 - ou charger un jeu de données : par glisser-déposer (Drag&drop), chargement (Browse) ou en lui indiquant l'adresse internet du jeu de données 
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/Passeports/cartoDB_browsedataset.jpg)
+![](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/cartoDB_browsedataset.jpg)
 
 On clique sur "Browse" pour charger notre jeu de données BDD-Passeports-arrivees.csv. depuis notre ordinateur.
 Puis on clique sur "connect dataset", bouton vert situé en bas à droite de l'écran.
@@ -43,20 +43,20 @@ A ce stade il est possible de modifier le titre du jeu de données, en cliquant 
 
 ### Création d'une carte dynamique chronologique
 Pour basculer vers la visualisation cartographique du jeu de données, cliquer sur "Map View" en haut au centre de l'écran. Vous pourrez revenir à la visualisation du tableur en cliquant sur "Data view".
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/Passeports/cartoDB_dataview.jpg)
+![](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/cartoDB_dataview.jpg)
 
 Par défaut, CartoDB affiche les points géolocalisés de manière statique et en orange. 
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/Passeports/cartoDB_cartepardefaut.jpg)
+![](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/cartoDB_cartepardefaut.jpg)
 
 Nous souhaitons que les "destinations" présentes dans le tableur apparaissent de manière progressive selon une chronologie : la "date de délivrance" du passeport. Nous devons donc modifier les paramètres de la carte et son design.
 
 Pour cela, 
 - cliquez dans le menu situé à droite de la carte sur le petit onglet intitulé "Wizards" (assistant)
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/Passeports/cartoDB_wizards.jpg)
+![](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/cartoDB_wizards.jpg)
 - choisissez dans le menu déroulant le type de carte intitulé "Torque" adapté à une présentation chronologique de points. Le style "Torque Cat" diffère un peu en permettant d'attribuer des couleurs différentes aux points selon des catégories. 
 
 Puis, modifiez les paramètres de la carte selon ce que vous souhaitez visualiser. 
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/Passeports/cartoDB_parametres.jpg)
+![](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/cartoDB_parametres.jpg)
 
 Ici, pour indfiquer les données à afficher :
 - Time Column = date_de_delivrance (indique la colonne des données chronologiques)
@@ -73,8 +73,8 @@ Pour modifier le design de la carte :
 
 Cliquer sur la carte pour refermer la fenêtre de menu.
 
-Pour modifier le style du fond de carte, cliquer sur Basemap, en haut de la carte à gauche, et choisissez celui qui vous convient. 
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/Passeports/cartoDB_basemap.jpg)
+Pour modifier le style du fond de carte, cliquer sur "Basemap", en haut de la carte à gauche, et choisissez celui qui vous convient. 
+![](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/cartoDB_basemap.jpg)
 
 Cliquez sur "Visualize" en haut à droite de l'écran, puis "OK create Map" pour générer la carte.
 
@@ -82,8 +82,7 @@ Vous pouvez y ajouter un titre, du texte, des images en cliquant sur "Add elemen
 Vous pourrez la partager ou l'intégrer dans un site web en cliquant sur "Publish" en haut à droite de l'écran.
 
 Résultat : http://bit.ly/1VM7ODy
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/Passeports/cartoDB_resultat.jpg)
-
+![](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/cartoDB_resultat.jpg)
 
 
 ## Aller + loin : 
@@ -91,6 +90,5 @@ Résultat : http://bit.ly/1VM7ODy
 - [Tutoriel cartoDB] en anglais sur les options d'édition des cartes de style "Torque" (https://docs.cartodb.com/cartodb-editor/maps/#torque)
 
 ## Liens avec d’autres fiches : 
-- [Umap créer une carte]
-](http://multibao-pntbr.rhcloud.com/infolab-cd33/datalunch/umap_creer_une_carte.md)
+- [Umap créer une carte](http://multibao-pntbr.rhcloud.com/infolab-cd33/datalunch/umap_creer_une_carte.md)
 
