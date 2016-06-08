@@ -16,7 +16,6 @@
 
 Exemple avec [BDD-Passeports-arrivees.csv](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/BDD-Passeports-arrivees.csv). Elle nous indique les destinations de voyages des Girondins en l'an 1800, qui avaient l'obligation de se faire délivrer un passeport pour chacun de leur voyage.
 
-
 ## Étapes
 ### Se créer un compte (gratuit) et se connecter à CartoDB 
 On voit que l'on est identifié car notre *avatar* (photo ou image par défaut) apparaît en haut à droite.
@@ -39,9 +38,9 @@ Puis on clique sur "connect dataset", bouton vert situé en bas à droite de l'�
 Le jeu de donnée apparaît dans une vue au format tableur (colonnes et lignes). 
 Observation : CartoDB a identifié les colonnes latitude et longitude du jeu de données et a concaténé ces coordonnées géographiques dans une nouvelle colonne "the_geom".
 
+### Création d'une carte dynamique chronologique
 A ce stade il est possible de modifier le titre du jeu de données, en cliquant directement dans le champ titre situé en haut à gauche de l'écran. Puis cliquer sur "save".
 
-### Création d'une carte dynamique chronologique
 Pour basculer vers la visualisation cartographique du jeu de données, cliquer sur "Map View" en haut au centre de l'écran. Vous pourrez revenir à la visualisation du tableur en cliquant sur "Data view".
 ![](https://github.com/infolab-cd33/datalunch/blob/master/img/Passeports/cartoDB_dataview.jpg)
 
