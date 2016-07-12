@@ -8,8 +8,9 @@
 
 ## Principes - Ce que nous allons faire
 * Ajouter des informations à la limite administrative d'une commune pour obtenir une limite utilisable dans Umap
+
 ## Ingrédients - Ce dont nous avons besoin
-* JOSM, éditeur Java pour OpenStreetmap
+* [JOSM](https://josm.openstreetmap.de/), éditeur Java pour OpenStreetmap
 * une connexion internet,
 * Une limite communale dont les chemins (ways) ne sont pas de "type=outer,
 
