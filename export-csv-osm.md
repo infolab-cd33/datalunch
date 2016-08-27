@@ -34,19 +34,19 @@ Note : il peut arriver que le service overpass "plante" car le nombre de donnée
 
 * sélectionner le département de la Gironde par exemple 
 
-![illustration overpass](../img/selectionOverpass.PNG)
+![illustration overpass](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/selectionOverpass.PNG)
 
 * cliquer sur assistant
 * consulter la liste des points d'intérêts disponibles dans le schéma de la base de données [wiki](http://wiki.openstreetmap.org/wiki/Key:amenity)
 * récupérer la liste par exemple des boîtes à livres (amenity=public_bookcase)
 * saisir ce couple clé/valeur dans la fenêtre de l'assistant
 
-![illustration overpass](../img/assistantoverpass.png)
+![illustration overpass](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/assistantoverpass.png)
 
 * cliquer sur construire et exécuter une requête
 * cliquer sur exporter et choisir le format geojson
 
-![illustration geojson](../img/exportGeojson.png)
+![illustration geojson](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/exportGeojson.png)
 
 * sélectionner les données exportées et les copier ou enregistrer le résultat dans un fichier sur le disque dur de l'ordinateur
 * se rendre sur le site [geojson.io](http://geojson.io)
