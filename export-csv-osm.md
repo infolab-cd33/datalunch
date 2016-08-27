@@ -41,7 +41,7 @@ Note : il peut arriver que le service overpass "plante" car le nombre de donnée
 * récupérer la liste par exemple des boîtes à livres (amenity=public_bookcase)
 * saisir ce couple clé/valeur dans la fenêtre de l'assistant
 
-![illustration overpass](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/assistantoverpass.png)
+![illustration overpass](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/assistantOverpass.png)
 
 * cliquer sur construire et exécuter une requête
 * cliquer sur exporter et choisir le format geojson
