@@ -1,3 +1,10 @@
+---
+author: Pascal Romain
+description: À partir d'un export des données d'osm en geojson, nous allons transformer ces données pour pouvoir les enregistrer dans un fichier au format .csv.
+image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+title: Exporter les données d'open street map dans un fichier csv
+---
+
 # Exporter les données d'open street map dans un fichier csv
 
 - **Niveau** : Intermédiaire
@@ -26,15 +33,21 @@ La première étape consiste à extraire les données d'osm en utilisant l'assis
 Note : il peut arriver que le service overpass "plante" car le nombre de données à retourner dansle navigateur est trop important. Il faut parfois réduire la couverture géographique pour laquelle on souhaite extraire des données ou utiliser un autre moyen d'extraction.
 
 * sélectionner le département de la Gironde par exemple 
+
 ![illustration overpass](../img/selectionOverpass.PNG)
+
 * cliquer sur assistant
 * consulter la liste des points d'intérêts disponibles dans le schéma de la base de données [wiki](http://wiki.openstreetmap.org/wiki/Key:amenity)
 * récupérer la liste par exemple des boîtes à livres (amenity=public_bookcase)
 * saisir ce couple clé/valeur dans la fenêtre de l'assistant
+
 ![illustration overpass](../img/assistantoverpass.png)
+
 * cliquer sur construire et exécuter une requête
 * cliquer sur exporter et choisir le format geojson
+
 ![illustration geojson](../img/exportGeojson.png)
+
 * sélectionner les données exportées et les copier ou enregistrer le résultat dans un fichier sur le disque dur de l'ordinateur
 * se rendre sur le site [geojson.io](http://geojson.io)
 * cliquer sur open > geojson
