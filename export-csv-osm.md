@@ -26,15 +26,15 @@ La première étape consiste à extraire les données d'osm en utilisant l'assis
 Note : il peut arriver que le service overpass "plante" car le nombre de données à retourner dansle navigateur est trop important. Il faut parfois réduire la couverture géographique pour laquelle on souhaite extraire des données ou utiliser un autre moyen d'extraction.
 
 * sélectionner le département de la Gironde par exemple 
-!(../images/selectionOverpass.PNG)
+!(../img/selectionOverpass.PNG)
 * cliquer sur assistant
 * consulter la liste des points d'intérêts disponibles dans le schéma de la base de données [wiki](http://wiki.openstreetmap.org/wiki/Key:amenity)
 * récupérer la liste par exemple des boîtes à livres (amenity=public_bookcase)
 * saisir ce couple clé/valeur dans la fenêtre de l'assistant
-!(../images/assistantoverpass.png)
+!(../img/assistantoverpass.png)
 * cliquer sur construire et exécuter une requête
 * cliquer sur exporter et choisir le format geojson
-!(../images/exportGeojson.png)
+!(../img/exportGeojson.png)
 * sélectionner les données exportées et les copier ou enregistrer le résultat dans un fichier sur le disque dur de l'ordinateur
 * se rendre sur le site [geojson.io](http://geojson.io)
 * cliquer sur open > geojson
