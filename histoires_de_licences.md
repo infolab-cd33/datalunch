@@ -99,5 +99,5 @@ Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-comm
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
 - **Auteur** : Vincent Bergeot
 - **Date de MàJ** : 27/07/2016
-- **Licence** : CC-BY / **CC-by-sa** / ...
+- **Licence** : ![by.svg]({{site.baseurl}}/media/licence/by.svg)![sa.svg]({{site.baseurl}}/media/licence/sa.svg)
 - [Pour revenir au dépot](http://datalunch.datalocale.fr)
