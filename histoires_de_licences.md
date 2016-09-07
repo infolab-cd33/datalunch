@@ -4,7 +4,7 @@
 
 * Parce que c'est une question de légalité,
 * Pour comprendre si on a la possibilité d'utiliser une oeuvre de l'esprit,
-* Afin de déterminer ce que l'on peut faire ou ce que l'on autorise à faire selon les licences,
+* Afin de déterminer ce que l'on peut faire (en tant qu'utilisateur) ou ce que l'on autorise à faire (en tant que créateur-producteur),
 
 # Le droit d'auteur
 
@@ -83,6 +83,13 @@ Comment faire si on veut partager ces créations ?
 ![licences-cc.png]({{site.baseurl}}/media/licence/licences-cc.png)
 Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-commons-avec-cc
 
+### Et les données
+
+Petite vidéo (pourquoi utiliser des licences ouvertes pour ces données) : http://www.europeandataportal.eu/elearning/fr/module4/#/id/co-01
+
+
+
+
 ## Aller + loin : 
 * Quelques sources :
 * Creative Commons, aider à faire un choix : http://creativecommons.org/choose/
@@ -99,5 +106,5 @@ Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-comm
 - **Auteur** : Vincent Bergeot
 - **Date de MàJ** : 08/09/2016
 - **Licence** :
-![by.svg]({{site.baseurl}}/media/licence/by.png)![sa.svg]({{site.baseurl}}/media/licence/sa.png)
+![by]({{site.baseurl}}/media/licence/by.png)![sa]({{site.baseurl}}/media/licence/sa.png)
 - [Pour revenir au dépot](http://datalunch.datalocale.fr)
