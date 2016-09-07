@@ -165,13 +165,13 @@ Cela va surement favoriser la libération du code / pas seulement la possibilit�
 
 * les creatives commons
 
-    * Droit d'auteur en France (BY) ;
+    * Droit d'auteur en France (BY) ![by.png]({{site.baseurl}}/media/licence/by.png)
 
-    * Commercial / non commercial (NC) ;
+    * Commercial / non commercial (NC) ![nc.png]({{site.baseurl}}/media/licence/nc.png)
 
-    * modifiable / non modifiable (ND) ;
+    * modifiable / non modifiable (ND) ![nd.png]({{site.baseurl}}/media/licence/nd.png)
 
-    * créations dérivées à partager selon la même licence / licence au choix du créateur final (SA) ;
+    * créations dérivées à partager selon la même licence / licence au choix du créateur final (SA) ![sa.png]({{site.baseurl}}/media/licence/sa.png)
 
 * 6 possibilités
 
@@ -182,7 +182,7 @@ Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-comm
 ## Et au Département pour les données ouvertes
 ### Comme producteur
 
-Les données sur datalocale sont publiées en ODbL (OpenDatabaseLicence)
+Les données sur datalocale sont publiées en ODbL (OpenDatabaseLicence).
 
 ### Dans les marchés publics ?
 
