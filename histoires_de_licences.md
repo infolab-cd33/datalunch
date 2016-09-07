@@ -33,7 +33,7 @@ https://fr.wikipedia.org/wiki/Droit_d'auteur#Droit_d.27auteur
 
 ## Droit d'auteur dans le temps
 
-graphique d'évolutions de la durée du droit d'auteur dans le temps
+![duree-droits-auteurs.png]({{site.baseurl}}/media/duree-droits-auteurs.png)
 
 ## Droit d’auteur, 2 types de droits
 * Droit moral
