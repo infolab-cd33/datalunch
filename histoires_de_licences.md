@@ -48,32 +48,49 @@ graphique d'évolutions de la durée du droit d'auteur dans le temps
 Le droit moral existe toujours
 Les droits patrimoniaux sont terminés
 Pas de rentrées financières basées sur la détention de ce droit
-Montaigne, Montesquieu, … sont du domaine public !!!
+Montaigne, Montesquieu, … sont du domaine public !!!
 Des combats actuels -> http://affordance.typepad.com//mon_weblog/2015/10/chere-anne-frank.html
 
 ## En résumé
 Droit d’auteur
-Quasiment aucun droit par « défaut »
+Quasiment aucun droit par « défaut »
 70 ans après le décès, domaine public
 
-Comment faire si on veut partager ces créations ?
+Comment faire si on veut partager ces créations ?
 
 ## Les licences "libres"
-Renversent la situation et définissent ce que ce l'on peut faire !
-notoin de copyleft, créative commons, gpl, MIT, CeCill, ... (voir intro doc AEC ?)
+* Renversent la situation et définissent ce que ce l'on peut faire !
+* Notion de copyleft, créative commons, gpl, MIT, CeCill, ... (voir intro doc AEC ?)
 
 * selon le type d'oeuvres
 	* logiciels
-	GPL, MIT
+	GPL, MIT, CeciLL
 	* autres
 	Créative Commons
 	* données
 	LO et OdBl
 
 ### Logiciels
+* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique
+
+### Livres, musiques, images, ...
+* les creatives commons
+	* Droit d'auteur en France (BY) ;
+	* Commercial / non commercial (NC) ; (BY)
+	* modifiable / non modifiable (ND) ;
+	* créations dérivées à partager selon la même licence / licence au choix du créateur final (SA) ;
+* 6 possibilités
+image sur les 6 types de licences
+
+Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-commons-avec-cc
 
 ## Aller + loin : 
-Quelques sources : 
+* Quelques sources : livret AEC
+* Creative Commons, aider à faire un choix : http://creativecommons.org/choose/
+* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique
+* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-libres-et-aeuvres-libres-ce-qu-il-faut-savoir
+* http://www.aecom.org/Vous-informer/Juridique-TIC/Droit-public/Donnees-publiques/Open-data-data-visualisations-et-licences-d-utilisation
+* http://www.europeandataportal.eu/elearning/fr/module4/#/id/co-01
 
 ## A savoir : 
 
