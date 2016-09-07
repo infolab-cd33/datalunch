@@ -1,41 +1,27 @@
 # Histoire de licences
 
-​
-
 # Pourquoi on parle de licences ?
-
-​
 
 * Parce que c'est une question de légalité,
 
 * Pour comprendre si on a la possibilité d'utiliser une oeuvre de l'esprit,
 
 * Afin de déterminer ce que l'on peut faire ou ce que l'on autorise à faire selon les licences,
-
-​
-
+____
 # Le droit d'auteur
-
-​
 
 Le droit d’auteur est l’ensemble des droits dont dispose un auteur ou ses ayants droit (héritiers, société de production) sur des œuvres de l’esprit original et des droits corrélatifs du public à l'utilisation et à la réutilisation de ces œuvres sous certaines conditions.
 
-​
-
 [Source Wikipédia](https://fr.wikipedia.org/wiki/Droit_d'auteur#Droit_d.27auteur)
-
-​
-
-* Oeuvre de l’esprit
+____
+**Oeuvre de l’esprit ?**
 
 * Empreinte de la personnalité
 
 * L’idée n’est pas protégée, c’est la forme originale donnée à cette idée
 
 * le droit d'auteur interdit la reproduction du personnage de Mickey Mouse, mais n'interdit pas la création de souris anthropomorphiques
-
-​
-
+____
 # Mais de quoi on parle ?
 
 * les œuvres et les éléments d’architecture, les plans et les maquettes ;
@@ -62,16 +48,12 @@ Le droit d’auteur est l’ensemble des droits dont dispose un auteur ou ses ay
 
 * les œuvres multimédia, qui regroupent des créations de types distincts.
 
-​
+____
 
 ## Droit d'auteur dans le temps
 
-​
-
 ![duree-droits-auteurs.png]({{site.baseurl}}/media/licence/duree-droits-auteurs.png)
-
-​
-
+____
 ## Droit d’auteur, 2 types de droits
 
 * Droit moral
@@ -88,8 +70,7 @@ Le droit d’auteur est l’ensemble des droits dont dispose un auteur ou ses ay
 
     * Durée variable (en france 70 ans après la mort de l’auteur) puis domaine public
 
-​
-
+____
 ## Cas du domaine public
 
 - Le droit moral existe toujours
@@ -102,18 +83,15 @@ Le droit d’auteur est l’ensemble des droits dont dispose un auteur ou ses ay
 
 [Des combats actuels](http://affordance.typepad.com//mon_weblog/2015/10/chere-anne-frank.html)
 
-
-
+____
 ## En résumé
 
 - Droit d’auteur
 
-- Quasiment aucun droit par « défaut »
+	- Quasiment aucun droit pour les autres par « défaut »
+	- 70 ans après le décès, domaine public
 
-- 70 ans après le décès, domaine public
-
-
-
+____
 **Comment faire si on veut partager ces créations ?**
 
 
@@ -148,14 +126,14 @@ Le droit d’auteur est l’ensemble des droits dont dispose un auteur ou ses ay
 
         * datalocale
 
-        * data.gouv
+        * data.gouv.fr
 
         ...
 
 
 ### Logiciels
 
-* [Les différentes licences logiciels](http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique)
+[Les différentes licences logiciels](http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique)
 
 Les codes des logiciels publics sont désormais considérés au même titre que des documents et sont donc consultables par le public ([jurisprudence](http://www.legalis.net/spip.php?page=breves-article&id_article=4943)) -> loi CADA 78
 
@@ -173,7 +151,10 @@ Cela va surement favoriser la libération du code / pas seulement la possibilit�
 
     * créations dérivées à partager selon la même licence / licence au choix du créateur final (SA) ![sa.png]({{site.baseurl}}/media/licence/sa.png)
 
+
 * 6 possibilités
+
+**CCO** *Cas particulier, Domaine public, c'est trés dépendant des juridictions, non recommandé par CreativeCommon <http://creativecommons.fr/cc0-et-mdp/>*
 
 ![licences-cc.png]({{site.baseurl}}/media/licence/licences-cc.png)
 
