@@ -1,14 +1,3 @@
-
-Describe your Changes
-Commit
-
-infolab-cd33 / datalunch
-
-    h2
-    h3
-
-    B
-
 # Histoire de licences
 
 ​
@@ -103,17 +92,17 @@ Le droit d’auteur est l’ensemble des droits dont dispose un auteur ou ses ay
 
 ## Cas du domaine public
 
-Le droit moral existe toujours
+- Le droit moral existe toujours
 
-Les droits patrimoniaux sont terminés
+- Les droits patrimoniaux sont terminés
 
-Pas de rentrées financières basées sur la détention de ce droit
+- Pas de rentrées financières basées sur la détention de ce droit
 
-Montaigne, Montesquieu, … sont du domaine public !!!
+- Montaigne, Montesquieu, … sont du domaine public !!!
 
 [Des combats actuels](http://affordance.typepad.com//mon_weblog/2015/10/chere-anne-frank.html)
 
-​
+
 
 ## En résumé
 
@@ -123,19 +112,17 @@ Montaigne, Montesquieu, … sont du domaine public !!!
 
 - 70 ans après le décès, domaine public
 
-​
 
-Comment faire si on veut partager ces créations ?
 
-​
+**Comment faire si on veut partager ces créations ?**
+
+
 
 ## Les licences "libres"
 
 * Renversent la situation et définissent ce que ce l'on peut faire !
 
 * Notion de copyleft, créative commons, gpl, MIT, CeCill, ... (voir intro doc AEC ?)
-
-​
 
 * selon le type d'oeuvres
 
@@ -165,21 +152,14 @@ Comment faire si on veut partager ces créations ?
 
         ...
 
-​
 
 ### Logiciels
 
 * [Les différentes licences logiciels](http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique)
 
-​
-
 Les codes des logiciels publics sont désormais considérés au même titre que des documents et sont donc consultables par le public ([jurisprudence](http://www.legalis.net/spip.php?page=breves-article&id_article=4943)) -> loi CADA 78
 
-​
-
-Cela va surement favoriser la libération du code et non pas seulement la possibilité de le consulter
-
-​
+Cela va surement favoriser la libération du code / pas seulement la possibilité de le consulter mais également de le réutiliser.
 
 ### Livres, musiques, images, ...
 
@@ -199,7 +179,17 @@ Cela va surement favoriser la libération du code et non pas seulement la possib
 
 Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-commons-avec-cc
 
-​
+## Et au Département pour les données ouvertes
+### Comme producteur
+
+Les données sur datalocale sont publiées en ODbL (OpenDatabaseLicence)
+
+### Dans les marchés publics ?
+
+[Exemple de Paris](http://opendata.paris.fr/page/les-marches/)
+*Depuis le 17 avril 2014, les marchés publics de la Ville de Paris sont assortis d'une clause demandant au fournisseur répondant à l'appel d'offres de « libérer les données » produites dans le cadre de l'exécution de ce marché. *
+
+
 
 ## Aller + loin : 
 
@@ -246,4 +236,3 @@ Prose
     Developers
     Language
     Logout
-
