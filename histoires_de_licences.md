@@ -76,16 +76,15 @@ Comment faire si on veut partager ces créations ?
 ### Livres, musiques, images, ...
 * les creatives commons
 	* Droit d'auteur en France (BY) ;
-	* Commercial / non commercial (NC) ; (BY)
+	* Commercial / non commercial (NC) ;
 	* modifiable / non modifiable (ND) ;
 	* créations dérivées à partager selon la même licence / licence au choix du créateur final (SA) ;
 * 6 possibilités
-image sur les 6 types de licences
-
+![licences-cc.png]({{site.baseurl}}/media/licence/licences-cc.png)
 Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-commons-avec-cc
 
 ## Aller + loin : 
-* Quelques sources : livret AEC
+* Quelques sources :
 * Creative Commons, aider à faire un choix : http://creativecommons.org/choose/
 * http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique
 * http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-libres-et-aeuvres-libres-ce-qu-il-faut-savoir
@@ -96,10 +95,9 @@ Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-comm
 
 ## Liens avec d’autres fiches : 
 
-- **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
+- **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert
 - **Auteur** : Vincent Bergeot
-- **Date de MàJ** : 27/07/2016
+- **Date de MàJ** : 08/09/2016
 - **Licence** :
-![by.svg]({{site.baseurl}}/media/licence/by.png)
-![sa.svg]({{site.baseurl}}/media/licence/sa.png)
+![by.svg]({{site.baseurl}}/media/licence/by.png)![sa.svg]({{site.baseurl}}/media/licence/sa.png)
 - [Pour revenir au dépot](http://datalunch.datalocale.fr)
