@@ -33,7 +33,7 @@ https://fr.wikipedia.org/wiki/Droit_d'auteur#Droit_d.27auteur
 
 ## Droit d'auteur dans le temps
 
-![duree-droits-auteurs.png]({{site.baseurl}}/media/duree-droits-auteurs.png)
+![duree-droits-auteurs.png]({{site.baseurl}}/media/licence/duree-droits-auteurs.png)
 
 ## Droit d’auteur, 2 types de droits
 * Droit moral
@@ -99,5 +99,7 @@ Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-comm
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
 - **Auteur** : Vincent Bergeot
 - **Date de MàJ** : 27/07/2016
-- **Licence** : ![by.svg]({{site.baseurl}}/media/licence/by.svg) ![sa.svg]({{site.baseurl}}/media/licence/sa.svg)
+- **Licence** :
+![by.svg]({{site.baseurl}}/media/licence/by.png)
+![sa.svg]({{site.baseurl}}/media/licence/sa.png)
 - [Pour revenir au dépot](http://datalunch.datalocale.fr)
