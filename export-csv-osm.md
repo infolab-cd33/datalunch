@@ -1,8 +1,11 @@
 ---
 author: Pascal Romain
-description: À partir d'un export des données d'osm en geojson, nous allons transformer ces données pour pouvoir les enregistrer dans un fichier au format .csv.
-image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+description: >-
+  À partir d'un export des données d'osm en geojson, nous allons transformer ces
+  données pour pouvoir les enregistrer dans un fichier au format .csv.
+image_url: 'http://adresse.data.gouv.fr/static/img/csv-grey.svg'
 title: Exporter les données d'open street map dans un fichier csv
+published: true
 ---
 
 # Exporter les données d'open street map dans un fichier csv
@@ -30,7 +33,7 @@ Pour ce tutoriel nous pouvons utiliser les applications sans authentification. I
 
 La première étape consiste à extraire les données d'osm en utilisant l'assistant fournit par overpass. Cette étape est décrite dans la fiche [export des données d'osm](https://infolab-cd33.github.io/daktary/#infolab-cd33/datalunch/blob/master/overpass_recuperer_des_donnees_osm.md) mais je vais en reprendre ici rapidement les étapes :
 
-Note : il peut arriver que le service overpass "plante" car le nombre de données à retourner dansle navigateur est trop important. Il faut parfois réduire la couverture géographique pour laquelle on souhaite extraire des données ou utiliser un autre moyen d'extraction.
+Note : il peut arriver que le service overpass "plante" car le nombre de données à retourner dans le navigateur est trop important. Il faut parfois réduire la couverture géographique pour laquelle on souhaite extraire des données ou utiliser un autre moyen d'extraction.
 
 * sélectionner le département de la Gironde par exemple 
 
@@ -64,5 +67,4 @@ Quelques sources :
 ## A savoir : 
 
 Le format geojson est un format inspiré du format json très utilisé par les développeurs informatiques pour sa syntaxe souple et sa conscision. C'est un format ouvert également souvent utilisé par les bibliothèques de visualisation de données [wikipedia](https://fr.wikipedia.org/wiki/GeoJSON)
-## Liens avec d’autres fiches : 
-
+## Liens avec d’autres fiches :
