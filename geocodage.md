@@ -1,3 +1,10 @@
+---
+author: Vincent Bergeot
+description: À partir d'un fichier contenant des adresses, encodé en .csv, nous allons "géocoder" (définir les longitudes et lattitudes) ces adresses pour permettre ensuite d'en faire, par exemple une carte.
+image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+title: Géocoder un fichier .csv d'adresse
+---
+
 # Géocoder un fichier .csv d'adresse
 
 
