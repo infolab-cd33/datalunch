@@ -158,7 +158,7 @@ Cela va surement favoriser la libération du code / pas seulement la possibilit�
 
 ![licences-cc.png]({{site.baseurl}}/media/licence/licences-cc.png)
 
-Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-commons-avec-cc
+Une Vidéo : <https://framatube.org/media/presentation-des-licences-creative-commons-avec-cc>
 
 ## Et au Département pour les données ouvertes
 ### Comme producteur
