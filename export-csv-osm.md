@@ -3,7 +3,7 @@ author: Pascal Romain
 description: >-
   À partir d'un export des données d'osm en geojson, nous allons transformer ces
   données pour pouvoir les enregistrer dans un fichier au format .csv.
-image_url: 'http://adresse.data.gouv.fr/static/img/csv-grey.svg'
+image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
 title: Exporter les données d'open street map dans un fichier csv
 published: true
 ---
