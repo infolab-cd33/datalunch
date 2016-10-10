@@ -16,14 +16,15 @@
 
 - Un outil tableur : [LibreOffice Calc](https://fr.libreoffice.org/download/libreoffice-stable/),
 Tableur issu de la suite bureautique open source Libre Office, il interprète le format CSV pour présenter les données en lignes et colonnes sans autre intervention complémentaire de la part de l'utilisateur.
-- Un fichier de données au format CSV : liste-site-departement-Gironde_test [[Liste des bâtiments du Conseil général de la Gironde](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/liste-sites-departement-Gironde_test.csv)]
+- Un fichier de données au format CSV : liste-site-departement-Gironde_test [[Liste des bâtiments du Conseil général de la Gironde](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/liste-sites-departement-Gironde_test.csv)]. 
 Liste des sites gérés par le conseil général sur lesquels se trouvent les différents bâtiments du conseil général accueillant des agents administratifs ou du public.
 
 ## Étapes - Comment allons-nous procéder ?
 
-### Télécharger et ouvrir le fichier 
+### Télécharger et ouvrir le fichier de données 
 
-- télécharger le fichier CSV sur le bureau de l'ordinateur ou dans un dossier
+- cliquer sur l'onglet "raw" puis ctrlA (ou clic droit puis "sélectionner tout" le texte) 
+- le "copier-coller" dans un bloc note (éditeur de texte), puis "enregistrer sous" le fichier au format CSV sur le bureau ou autre dossier de votre ordinateur.
 - clic droit sur le fichier : "ouvrir avec" LibreOffice Calc
 - une fois ouvert, il est recommandé d'enregistrer une copie de ce fichier en le renommant par exemple liste-sites_copie afin de ne pas modifier le fichier source.
 
@@ -88,4 +89,4 @@ Le fichier csv encodé en UTF8, avec pour séparateur la virgule ou le point vir
 
 ## Liens avec d’autres fiches : 
 
-- fichiers_csv.md
+- [Ouvrir et nettoyer un fichier CSV](http://multibao-pntbr.rhcloud.com/infolab-cd33/datalunch/ouvrir_et_nettoyer_fichier_csv.md)
