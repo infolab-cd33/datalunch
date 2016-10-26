@@ -1,7 +1,7 @@
 # Ouvrir et nettoyer un fichier de données au format CSV
 
 - **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert
-- **Auteur** : Suzanne Galy
+- **Auteur** : Tiers-Libres
 - **Date de MàJ** : 04/05/2016
 - **Licence** : CC-by-sa
 - [Pour revenir au dépot](http://datalunch.datalocale.fr)
@@ -14,25 +14,26 @@
 
 ## Ingrédients - Ce dont nous avons besoin
 
-- un outil tableur : [LibreOffice Calc](https://fr.libreoffice.org/download/libreoffice-stable/),
-    - Tableur issu de la suite bureautique open source Libre Office, il interprète le format CSV pour présenter les données en lignes et colonnes sans autre intervention complémentaire de la part de l'utilisateur.
-- un fichier de données au format CSV : 20164_SIP_liste-sites / 
-[Liste des bâtiments du Conseil général](http://catalogue.datalocale.fr/dataset/46ce3441-bfd5-4bb1-aaca-14c3e910a9d0)
-    - Liste des sites gérés par le conseil général sur lesquels se trouvent les différents bâtiments du conseil général accueillant des agents administratifs ou du public.
+- Un outil tableur : [LibreOffice Calc](https://fr.libreoffice.org/download/libreoffice-stable/),
+Tableur issu de la suite bureautique open source Libre Office, il interprète le format CSV pour présenter les données en lignes et colonnes sans autre intervention complémentaire de la part de l'utilisateur.
+- Un fichier de données au format CSV : liste-site-departement-Gironde_test [[Liste des bâtiments du Conseil général de la Gironde](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/liste-sites-departement-Gironde_test.csv)]. 
+Liste des sites gérés par le conseil général sur lesquels se trouvent les différents bâtiments du conseil général accueillant des agents administratifs ou du public.
 
 ## Étapes - Comment allons-nous procéder ?
 
-### Télécharger et ouvrir le fichier 
+### Télécharger et ouvrir le fichier de données 
 
-- télécharger le fichier CSV sur le bureau de l'ordinateur ou dans un dossier
+- cliquer sur l'onglet "raw" puis ctrlA (ou clic droit puis "sélectionner tout" le texte) 
+- le "copier-coller" dans un bloc note (éditeur de texte), puis "enregistrer sous" le fichier au format CSV sur le bureau ou autre dossier de votre ordinateur.
 - clic droit sur le fichier : "ouvrir avec" LibreOffice Calc
-- une fois ouvert, il est recommandé d'enregistrer une copie de ce fichier en le renommant par exemple 20164_SIP_liste-sites_copie afin de ne pas modifier le fichier source.
+- une fois ouvert, il est recommandé d'enregistrer une copie de ce fichier en le renommant par exemple liste-sites_copie afin de ne pas modifier le fichier source.
 
 Premier niveau d'analyse du fichier à vue d'oeil : 
 - 573 sites sont recensés (il y a 574 lignes au total)
 - il contient de nombreuses erreurs (adresses, code postal, décalages colonnes, etc.)
 
 ### Générer une "table de pilote" (ou tableau croisé dynamique)
+
 Une table de pilote va permettre de 
 - repérer rapidement des erreurs dans les cellules du fichier 
 - répondre facilement et rapidement à des questions en opérant des croisements et traitement statistiques des données
@@ -42,26 +43,29 @@ Exemple 1 :
 - Quel est le nombre de bâtiments par typologie de statut ?
 
 Pour créer la table de pilote :
-
 - sélectionner l'ensemble des données de la feuille où apparaissent les données à traiter (ctrl A)
-- cliquer dans le menu "Données" puis "table de pilote" puis "créer", puis "OK" pour la proposition par défaut "Sélection active"
+- cliquer dans le menu "Insertion" puis "table de pilote", puis "OK" pour la proposition par défaut "Sélection active"
 - Choix des critères pour la création de la table : 
     - champs de la page : rien
     - champs de ligne : statut
     - champs de données : site ==> double clic sur "site" pour faire apparaître les options de fonction et choisir “nombre” afin d'obtenir le calcul du nombre de sites par type de statut
 
 >RQ 1 : on modifie les critères de la table à l’aide de la fonction “éditer la mise en page” (par clic droit dans le tableau).
->RQ 2 : seuls 570 sites apparaissent dans le décompte “Total Résultat” : il est facile de retrouver où se situent les erreurs du tableur source. Ici, dans la colonne “statut”, on trouve des dates à la place d’un statut.
+>RQ 2 : il est facile de retrouver où se situent les erreurs du tableur source. Ici, dans la colonne “statut”, on trouve des dates à la place d’un statut.
 
 ### Nettoyer les données
-Trois fonctions simples permettent de corriger des erreurs dans un fichier de données : 
+Trois fonctions simples permettent de corriger des erreurs dans un fichier de données. Il faut préalablement sélectionner la colonne dans laquelle on souhaite appliquer la fonctionnalité :
+
 - Fonction de "Filtre"
 rubrique Données, choisir "filtre", puis "autofiltre" : une flèche apparaît dans l'en tête de colonne qui permet de visualiser les intitulés (textes) ou valeurs (chiffres, nombre) présents dans la colonne. 
-Ici, sélection des "dates" repérées comme étant des erreurs (décalage de cellules dans les colonnes adresses 2, code postal) puis nettoyage manuel des lignes par copier-coller des cellules.
+
+Ici, appliquer un autofiltre à la colonne "statut", décocher "tout", sélectionner les "dates" repérées comme étant des erreurs (il s'agit de décalage d'informations dans les cellules), puis nettoyage manuel des lignes par copier-coller des cellules.
 
 - Fonction "Tri"
 rubrique Données, puis "trier" : une fenêtre "trier la plage" apparaît, choisir "étendre la sélection" de manière à ce que le tri s'opère sur l'ensemble des colonnes du tableur. 
 Choisir selon les critères un tri croissant ou décroissant. Les données sont regroupées selon ce critère.
+
+Ici, appliquer un tri sur la colonne "date de création" par exemple pour ordonner les sites du plus ancien au plus récent.    
 
 - Fonction "rechercher&remplacer" 
 Elle permet de supprimer dans une colonne sélectionnée un élément indésiré, par exemple une parenthèse ouverte '(' ou un "0" au début d'une suite de chiffres.
@@ -70,12 +74,14 @@ Elle permet de supprimer dans une colonne sélectionnée un élément indésiré
 	- indiquer l'élément "(" à "rechercher", puis laisser vide l'emplacement "rechercher par" 
 	- Cliquer sur "tout remplacer" (puis décocher "cellulles entières" s'il s'agit uniquement d'une partie de la cellule) pour que la parenthèse soit supprimée dans toutes les cellules de la colonne. 
 	- valider en cliquant sur "fermer"
+    
+Ici, appliquer la fonction sur la colonne "Ville", rechercher "Villenave d'ornon" (sans tiret) et remplacer par "Villenave-d'ornon" (avec tiret), par exemple.
 
 
 ## Pour aller plus loin : 
 
 - [Aide de Libre Office Calc](https://help.libreoffice.org/Calc/Welcome_to_the_Calc_Help/fr)
-- [Apprendre à créer un tableau croisé dynamique avec LibreOffice Calc ](http://malick-nseck.developpez.com/tutoriels/apprendre-a-creer-tableau-croise-dynamique-avec-libre-office-calc/)
+- [Apprendre à créer un tableau croisé dynamique avec LibreOffice Calc ](http://malick-nseck.developpez.com/tutoriels/apprendre-a-creer-tableau-croise-dynamique-avec-libre-office-calc/)
 
 ## A savoir : 
 
@@ -83,5 +89,5 @@ Le fichier csv encodé en UTF8, avec pour séparateur la virgule ou le point vir
 
 ## Liens avec d’autres fiches : 
 
-- fichiers_csv.md
+- [Ouvrir et nettoyer un fichier CSV](http://multibao-pntbr.rhcloud.com/infolab-cd33/datalunch/ouvrir_et_nettoyer_fichier_csv.md)
 

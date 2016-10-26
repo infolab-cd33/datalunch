@@ -4,20 +4,24 @@
 
 * Parce que c'est une question de légalité,
 * Pour comprendre si on a la possibilité d'utiliser une oeuvre de l'esprit,
-* Afin de déterminer ce que l'on peut faire (en tant qu'utilisateur) ou ce que l'on autorise à faire (en tant que créateur-producteur),
+* Afin de déterminer ce que l'on peut faire ou ce que l'on autorise à faire selon les licences,
+____
 
 # Le droit d'auteur
 
 Le droit d’auteur est l’ensemble des droits dont dispose un auteur ou ses ayants droit (héritiers, société de production) sur des œuvres de l’esprit original et des droits corrélatifs du public à l'utilisation et à la réutilisation de ces œuvres sous certaines conditions.
 
-https://fr.wikipedia.org/wiki/Droit_d'auteur#Droit_d.27auteur
+[Source Wikipédia](https://fr.wikipedia.org/wiki/Droit_d'auteur#Droit_d.27auteur)
+____
 
-* Oeuvre de l’esprit
+**Oeuvre de l’esprit ?**
+
 * Empreinte de la personnalité
 * L’idée n’est pas protégée, c’est la forme originale donnée à cette idée
 * le droit d'auteur interdit la reproduction du personnage de Mickey Mouse, mais n'interdit pas la création de souris anthropomorphiques
-
+____
 # Mais de quoi on parle ?
+
 * les œuvres et les éléments d’architecture, les plans et les maquettes ;
 * les sculptures ;
 * les peintures, le dessin, les graffiti, les tatouages, ainsi que les œuvres de graphisme (lettrages, logos, mise en page, présentations publicitaires…) ;
@@ -31,80 +35,136 @@ https://fr.wikipedia.org/wiki/Droit_d'auteur#Droit_d.27auteur
 * les œuvres des arts appliqués : les œuvres d'ingénierie et de design (tous les objets manufacturés de conception originale), les bijoux ;
 * les œuvres multimédia, qui regroupent des créations de types distincts.
 
+____
+
 ## Droit d'auteur dans le temps
 
 ![duree-droits-auteurs.png]({{site.baseurl}}/media/licence/duree-droits-auteurs.png)
-
+____
 ## Droit d’auteur, 2 types de droits
+
 * Droit moral
-	* Paternité de l’œuvre et respect de l’intégrité
-	* Droit de divulgation et de retrait
-	* Inaliénable en france, perpétuel, imprescriptible
+    * Paternité de l’œuvre et respect de l’intégrité
+    * Droit de divulgation et de retrait
+    * Inaliénable en france, perpétuel, imprescriptible
+
 * Droits patrimoniaux
-	* Monopole d’exploitation économique de l’oeuvre
-	* Durée variable (en france 70 ans après la mort de l’auteur) puis domaine public
+    * Monopole d’exploitation économique de l’oeuvre
+    * Durée variable (en france 70 ans après la mort de l’auteur) puis domaine public
 
+____
 ## Cas du domaine public
-Le droit moral existe toujours
-Les droits patrimoniaux sont terminés
-Pas de rentrées financières basées sur la détention de ce droit
-Montaigne, Montesquieu, … sont du domaine public !!!
-Des combats actuels -> http://affordance.typepad.com//mon_weblog/2015/10/chere-anne-frank.html
 
+- Le droit moral existe toujours
+- Les droits patrimoniaux sont terminés
+- Pas de rentrées financières basées sur la détention de ce droit
+- Montaigne, Montesquieu, … sont du domaine public !!!
+
+[Des combats actuels](http://affordance.typepad.com//mon_weblog/2015/10/chere-anne-frank.html)
+
+____
 ## En résumé
-Droit d’auteur
-Quasiment aucun droit par « défaut »
-70 ans après le décès, domaine public
 
-Comment faire si on veut partager ces créations ?
+- Droit d’auteur
+	- Quasiment aucun droit pour les autres par « défaut »
+	- 70 ans après le décès, domaine public
+
+____
+**Comment faire si on veut partager ces créations ?**
+
+
 
 ## Les licences "libres"
+
 * Renversent la situation et définissent ce que ce l'on peut faire !
 * Notion de copyleft, créative commons, gpl, MIT, CeCill, ... (voir intro doc AEC ?)
-
 * selon le type d'oeuvres
-	* logiciels
-	GPL, MIT, CeciLL
-	* autres
-	Créative Commons
-	* données
-	LO et OdBl
+
+    * logiciels :   GPL, MIT, CeciLL
+        * Firefox,
+        * LibreOffice,
+        * Apache,
+    * images, sons, vidéos, documentation, ressources pédagogiques ...  Créative Commons
+        * [Wikimedia Commons, la médiathèque de Wikipédia](https://commons.wikimedia.org/wiki/Main_Page),
+        * [Sintel, film d'animation](https://fr.wikipedia.org/wiki/Sintel)
+        * [Des documentations thématiques](http://www.dechetsdemain.com/)
+        * [Des ressources éducatives libres](http://data.abuledu.org)
+    * données : LO et OdBl
+        * datalocale
+        * data.gouv.fr
+        * ...
+
 
 ### Logiciels
-* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique
+
+[Les différentes licences logiciels](http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique)
+
+Les codes des logiciels publics sont désormais considérés au même titre que des documents et sont donc consultables par le public ([jurisprudence](http://www.legalis.net/spip.php?page=breves-article&id_article=4943)) -> loi CADA 78
+
+Cela va surement favoriser la libération du code / pas seulement la possibilité de le consulter mais également de le réutiliser.
 
 ### Livres, musiques, images, ...
+
 * les creatives commons
-	* Droit d'auteur en France (BY) ;
-	* Commercial / non commercial (NC) ;
-	* modifiable / non modifiable (ND) ;
-	* créations dérivées à partager selon la même licence / licence au choix du créateur final (SA) ;
+    * Droit d'auteur en France (BY) ![by.png]({{site.baseurl}}/media/licence/by.png)
+    * Commercial / non commercial (NC) ![nc.png]({{site.baseurl}}/media/licence/nc.png)
+    * modifiable / non modifiable (ND) ![nd.png]({{site.baseurl}}/media/licence/nd.png)
+    * créations dérivées à partager selon la même licence / licence au choix du créateur final (SA) ![sa.png]({{site.baseurl}}/media/licence/sa.png)
+
+
 * 6 possibilités
+
+**CCO** *Cas particulier, Domaine public, c'est trés dépendant des juridictions, non recommandé par CreativeCommon <http://creativecommons.fr/cc0-et-mdp/>*
+
 ![licences-cc.png]({{site.baseurl}}/media/licence/licences-cc.png)
-Une Vidéo : https://framatube.org/media/presentation-des-licences-creative-commons-avec-cc
 
-### Et les données
+Une Vidéo : <https://framatube.org/media/presentation-des-licences-creative-commons-avec-cc>
 
-Petite vidéo (pourquoi utiliser des licences ouvertes pour ces données) : http://www.europeandataportal.eu/elearning/fr/module4/#/id/co-01
+## Et au Département pour les données ouvertes
+### Comme producteur
 
+Les données sur datalocale sont publiées en ODbL (OpenDatabaseLicence).
+
+### Dans les marchés publics ?
+
+[Exemple de Paris](http://opendata.paris.fr/page/les-marches/)
+*Depuis le 17 avril 2014, les marchés publics de la Ville de Paris sont assortis d'une clause demandant au fournisseur répondant à l'appel d'offres de « libérer les données » produites dans le cadre de l'exécution de ce marché. *
 
 
 
 ## Aller + loin : 
+
 * Quelques sources :
-* Creative Commons, aider à faire un choix : http://creativecommons.org/choose/
-* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique
-* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-libres-et-aeuvres-libres-ce-qu-il-faut-savoir
-* http://www.aecom.org/Vous-informer/Juridique-TIC/Droit-public/Donnees-publiques/Open-data-data-visualisations-et-licences-d-utilisation
-* http://www.europeandataportal.eu/elearning/fr/module4/#/id/co-01
+
+	* Creative Commons, aider à faire un choix : http://creativecommons.org/choose/
+	* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique
+	* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-libres-et-aeuvres-libres-ce-qu-il-faut-savoir
+	* http://www.aecom.org/Vous-informer/Juridique-TIC/Droit-public/Donnees-publiques/Open-data-data-visualisations-et-licences-d-utilisation
+	* http://www.europeandataportal.eu/elearning/fr/module4/#/id/co-01
 
 ## A savoir : 
 
+
 ## Liens avec d’autres fiches : 
 
+
 - **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert
+
 - **Auteur** : Vincent Bergeot
+
 - **Date de MàJ** : 08/09/2016
+
 - **Licence** :
-![by]({{site.baseurl}}/media/licence/by.png)![sa]({{site.baseurl}}/media/licence/sa.png)
+
+![by.svg]({{site.baseurl}}/media/licence/by.png)![sa.svg]({{site.baseurl}}/media/licence/sa.png)
+
 - [Pour revenir au dépot](http://datalunch.datalocale.fr)
+
+
+Prose
+
+    Prose
+    About
+    Developers
+    Language
+    Logout
