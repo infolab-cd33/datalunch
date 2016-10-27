@@ -22,6 +22,8 @@ On va sélectionner son fichier monfichier.csv
 
 Pour tester son fichier et ne pas le mélanger si il comporte des erreurs, on importe dans un nouveau calque. Si les données sont correctement importées, alors on efface le calque et on re-importe dans le calque approprié.
 
+N.B : Attention les titres des colonnes ne doivent comporter ni accents, ni espaces. Pour séparer 2 termes utilisez des tirets (- ou _)
+Pour les colonnes contenant les coordonnées géographiques, vérifiez que le séparateur entre les degrés et les minutes est bien un point et pas une virgule (ex: 44.12345 plutôt que 44,46565)
 
 ## Aller + loin : 
 [Des guides](http://wiki.openstreetmap.org/wiki/FR:UMap/Guide) et [des vidéos](http://wiki.openstreetmap.org/wiki/UMap#Screencasts)
