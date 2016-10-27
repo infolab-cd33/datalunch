@@ -90,3 +90,7 @@ Le fichier csv encodé en UTF8, avec pour séparateur la virgule ou le point vir
 ## Liens avec d’autres fiches : 
 
 - [Ouvrir et nettoyer un fichier CSV](http://multibao-pntbr.rhcloud.com/infolab-cd33/datalunch/ouvrir_et_nettoyer_fichier_csv.md)
+<<<<<<< HEAD
+
+=======
+>>>>>>> bef474c41745f612d9718935642737b2f79637d5
