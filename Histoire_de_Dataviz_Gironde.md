@@ -31,6 +31,7 @@ Public des ateliers collectifs :
 Afin de pallier à la difficulté de diffuser les méthodes d’agrégation des données, un travail sur les formules d’agrégation en partant des données normalisées M52 a été mené au cours de l'atelier technique.
 
 Deux résultats importants à souligner :
+
 - un résultat attendu : obtenir plus de 90 % des données agrégées par la direction des finances en partant des données normalisées M52
 - un résultat inattendu et positif : simplification de certaines des requêtes effectuées dans les outils métiers de la direction des finances
 
@@ -70,10 +71,10 @@ De ces discussions et propositions sont apparues un certain nombres d’élémen
 
 Lors des ateliers, 4 orientations d'angles de sujets relatifs au budget du Département et leur mode de traitement ont été construites et priorisées  :
 
-1 - la visualisation des dépenses publiques → « A quoi sert la dépense publique ? »,
-2 – les grands équilibres budgétaires du département expliqués en 3’ (vidéo type Motion Design ou animation)),
-3 – les recettes et le rôle de l’impôt (datavisualisation)
-4 – le rôle de la dette / l’enjeu de la capacité d’épargne / le niveau d’endettement soutenable (jeu interactif sous la forme d'un simulateur)
+1. la visualisation des dépenses publiques → « A quoi sert la dépense publique ? »,
+2. les grands équilibres budgétaires du département expliqués en 3’ (vidéo type Motion Design ou animation)),
+3. les recettes et le rôle de l’impôt (datavisualisation)
+4. le rôle de la dette / l’enjeu de la capacité d’épargne / le niveau d’endettement soutenable (jeu interactif sous la forme d'un simulateur)
 
 Des premières maquettes ont été réalisées :
 
