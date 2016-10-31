@@ -69,6 +69,7 @@ http://app.wheredoesmymoneygo.org//bubbletree-map.html#/~/total
 De ces discussions et propositions sont apparues un certain nombres d’éléments, permettant de définir l’armature du système de visualisation des données budgétaires (quels sont les points importants, nécessaires, que souhaite-t-on voir à l’écran, quels éléments de contexte doivent apparaître, …).
 
 Lors des ateliers, 4 orientations d'angles de sujets relatifs au budget du Département et leur mode de traitement ont été construites et priorisées  :
+
 1 - la visualisation des dépenses publiques → « A quoi sert la dépense publique ? »,
 2 – les grands équilibres budgétaires du département expliqués en 3’ (vidéo type Motion Design ou animation)),
 3 – les recettes et le rôle de l’impôt (datavisualisation)
