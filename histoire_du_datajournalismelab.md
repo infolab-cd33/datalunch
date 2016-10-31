@@ -4,13 +4,13 @@
 
 Public : 36 étudiants de première année de master de l’IJBA
 
-![36 étudiants de première année de master](http://www.datajournalismelab.fr/medias/20150612_155841.jpg)
+![debriefing collectif.jpg](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/datajournalism/debriefing collectif.jpg)
 
 Année 1 : étudiants graphistes ECV et étudiants développeurs Epitech
 
 Durée : deux journées de mise en route, deux semaines de production à l'IJBA (data + terrain) et quelques conférences de rédaction intermédiaires.
 
-![debriefing collectif.jpg](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/datajournalism/debriefing collectif.jpg)
+![Production 1](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/datajournalism/production1.jpg)
 
 Final : debriefing collectif des enquêtes et mise en ligne sur www.datajournalismelab.fr
 
