@@ -19,11 +19,11 @@ Public des ateliers collectifs :
 
 > - Un jeu de données agrégées présentant les données financières selon des « standards » et critères importants à suivre dans le cadre de la gestion financière du département (endettement, types d’impôts, les dépenses par « compétences », …). 
 
-![données agrégées](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/)
+[données agrégées](https://github.com/infolab-cd33/datalunch/blob/master/img/dataviz_finances/projet%20dataviz%20pr%20Alfresco%20V1%20%20SPPB%20-1.ods)
 
 > - Les mêmes données, brutes, présentées selon la norme M52. Celle-ci permet la comparaison entre des départements. Mises à disposition au format souhaité (fichier de type .csv, encodage utf-8) pour plusieurs exercices budgétaires (depuis 2009)
 
-![données M52](http://www.)
+[données M52](https://github.com/infolab-cd33/datalunch/blob/master/img/dataviz_finances/CreditsRealisesFonctionCA2009-2013.ods)
 
 > une entrée par fonction 
 > une entrée par article
