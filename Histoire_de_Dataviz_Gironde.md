@@ -101,7 +101,7 @@ ratios, % du budget de l'action dans le budget global des dépenses, part (%) de
 
 - Méthodologiques : cycle de travail itératif (ateliers de 1h-2h tous les 15 jours) + un chef de projet désigné
 - Technologiques : ouvertes et pérennes, documentées, qualité (accessibilité), utilisables par non informaticiens.
-- uridique : les visuels, graphismes, codes informatiques devraient être en licence libre pour faciliter la réutilisation, l’amélioration, la reprise par d’autres directions ou d’autres collectivités
+- Juridique : les visuels, graphismes, codes informatiques devraient être en licence libre pour faciliter la réutilisation, l’amélioration, la reprise par d’autres directions ou d’autres collectivités
 
 
 ## Résultat : l'appel d'offre
