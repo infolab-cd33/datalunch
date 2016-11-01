@@ -10,7 +10,6 @@
 - Télécharger un fichier de données au format CSV
 - Ouvrir le fichier à l'aide d'un logiciel tableur (voir la fiche fichiers_csv.md)
 - Automatiser le croisement des données avec une table de pilote
-- Visualiser les données en créant un graphique avec Datawrapper
 
 ## Ingrédients - Ce dont nous avons besoin
 
@@ -65,17 +64,21 @@ En l'état, les données du tableur ne permettent pas d'obtenir cette informatio
 
 Cette colonne n'existant pas, il faut donc la créer : 
 - Attribuer un nom explicite en en-tête de la colonne M (par exemple "total période")
-- Dans la cellule M2, activer la fonction Somme. Plusieurs possibilités pour cela :
+- Dans la cellule M2, activer la fonction Somme. 
 
-> dans la cellule, rédige la formule suivante : =SOMME(C2:L2), puis faire Entrer
-> cliquer sur la cellule M2, puis saisissez la formule dans la ligne de saisie (barre de saisie blanche située juste au dessus du tableau), puis faire Entrer
-> cliquer sur le bouton "assistant de fonctions" et sélectionner la liste la fonction SOMME puis écrire la formule après le signe =, puis faire Entrer
-> cliquer sur le bouton du symbole ∑ (somme automatique) qui sélectionnera par défaut des valeurs à additionner, puis faire Entrer.
+Plusieurs possibilités pour cela :
+
+- dans la cellule, rédige la formule suivante : =SOMME(C2:L2), puis faire Entrer
+- cliquer sur la cellule M2, puis saisissez la formule dans la ligne de saisie (barre de saisie blanche située juste au dessus du tableau), puis faire Entrer
+- cliquer sur le bouton "assistant de fonctions" et sélectionner la liste la fonction SOMME puis écrire la formule après le signe =, puis faire Entrer
+- cliquer sur le bouton du symbole ∑ (somme automatique) qui sélectionnera par défaut des valeurs à additionner, puis faire Entrer.
 
 Une nouvelle valeur s'affiche désormais dans la cellule M2. 
+
 Il est possible d'appliquer la formule/fonction somme automatiquement à l'ensemble des lignes de la colonne M en positionnant le curseur de la souris sur le coin de la cellule M2 (une petite croix apparaît) : 
-> cliquer sur la croix et, sans relaĉher le clic, l'étirer jusqu'au bas de la colonne
-> double cliquer sur la croix (cela aura pour effet d'appliquer la fonction jusqu'au bas de la colonne)
+
+- cliquer sur la croix et, sans relaĉher le clic, l'étirer jusqu'au bas de la colonne
+- double cliquer sur la croix (cela aura pour effet d'appliquer la fonction jusqu'au bas de la colonne)
 
 Le tableur comporte désormais une colonne du total des naissances sur la période 2005-2014 (par ligne).
 
