@@ -8,7 +8,7 @@
 
 
 ## Principes - Ce que nous allons faire
-Nous allons scinder le texte d'une colonne en une ou plusieurs colonnes distinctes. Nous allons ensuite regrouper le contenu texte de plusieurs cellules en une seule et même cellule (concatainer).
+Nous allons scinder le texte d'une colonne en une ou plusieurs colonnes distinctes. Nous allons ensuite regrouper le contenu texte de plusieurs cellules en une seule et même cellule (concatener).
 
 ## Ingrédients - Ce dont nous avons besoin
 
@@ -28,7 +28,7 @@ Liste des sites gérés par le conseil général sur lesquels se trouvent les di
 
 ### Scinder du texte contenu dans une cellule en une nouvelle colonne ou plusieurs
 
-Tout d'abord, pour ne pas écraser le texte des colonne existantes dans le tableur, il faut créer une ou plusieurs nouvelles colonne vides à droite de celle que l'on souhaite scinder. 
+Tout d'abord, pour ne pas écraser le texte des colonne existantes dans le tableur, il faut créer une ou plusieurs nouvelles colonnes vides à droite de celle que l'on souhaite scinder. 
 Ici, 
 - sélectionner la colonne L "Statut"
 - clic droit sur l'en-tête "L" et choisir "insérer des colonnes à gauche". Répéter l'opération deux fois.
@@ -40,9 +40,9 @@ Puis,
 
 On dispose désormais de trois colonnes à renommer : "jour de création", "mois de création" et "année de création"
 
-### regrouper le contenu texte de plusieurs cellules
+### Réunir le contenu texte de plusieurs cellules : concatener.
 
-Il s'agit de la fonction "Concatener". Nous allons la mettre en oeuvre pour regrouper le texte des trois colonnes "jour", "mois" et "année" que nous venons de créer dans le fichier.
+Cette fonction s'appelle "Concatener". Nous allons la mettre en oeuvre pour regrouper le texte des trois colonnes "jour", "mois" et "année" que nous venons de créer dans le fichier.
 Pour cela :
 - créer une nouvelle colonne N à droite de la colonne M. 
 - dans la première celulle de la 2e ligne, insérer la formule suivante :
