@@ -40,9 +40,9 @@ L'**Action API** de CKAN est une interface puissante, de type RPC qui expose l'e
   https://www.datalocale.fr/api/3/action/resource_search?query=name:budget
 
 * Créer, mettre à jour et supprimer des jeux de données, distributions ou d'autres objets
-* Get an activity stream of recently changed datasets on a site:
+* Récupérer le flux d'activité des jeux de données récemment modifié sur datalocale:
 
-  http://demo.ckan.org/api/3/action/recently_changed_packages_activity_list
+  https://www.datalocale.fr/api/3/action/recently_changed_packages_activity_list
 
 ---------------------
 Faire une requête d'API
@@ -95,10 +95,14 @@ La même requête http peut être réalisée en utilisant le module Python stand
     pprint.pprint(result)
 
 ## Aller + loin : 
+
 La liste des fonctions et méthodes de l'[API CKAN](docs.ckan.org/en/latest/api/index.html#action-api-reference)
+
 [Quelques exemples de requête](http://docs.ckan.org/en/latest/api/index.html#api-examples) 
 
 ## A savoir : 
+
 La définition d'une API [source:wikipedia](https://fr.wikipedia.org/wiki/Interface_de_programmation)
+
 Le format de données JSON [source:wikipedia](https://fr.wikipedia.org/wiki/JavaScript_Object_Notation)
 
