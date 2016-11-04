@@ -11,7 +11,7 @@ Ces fiches vous permettent d'apprendre à manipuler des données ou à vos famil
 - [Histoire / Qu'est-ce qu'une licence de données](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/histoire_de_licences.md)
 - [Histoire / Qu'est-ce que le datajournalisme ? Exemple du datajournalismelab](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/histoire_de_datajournalismelab.md)
 - [Histoire / Qu'est-ce que la dataviz du budget ? Exemple de la Gironde](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/Histoire_de_Dataviz_Gironde.md)
-- 
+
 ## Cartographie
 - [Umap / Créer une carte](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/umap_creer_une_carte.md)
 - [Umap / Intégrer un fichier géolocalisé](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/umap_donnees_geolocalisees.md)
