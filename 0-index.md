@@ -10,7 +10,8 @@ Ces fiches vous permettent d'apprendre à manipuler des données ou à vos famil
 - [Histoire / Qu'est-ce qu'une valorisation de données. Exemple des archives ](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/histoire_de_valorisation_d_archives.md)
 - [Histoire / Qu'est-ce qu'une licence de données](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/histoire_de_licences.md)
 - [Histoire / Qu'est-ce que le datajournalisme ? Exemple du datajournalismelab](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/histoire_de_datajournalismelab.md)
-
+- [Histoire / Qu'est-ce que la dataviz du budget ? Exemple de la Gironde](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/Histoire_de_Dataviz_Gironde.md)
+- 
 ## Cartographie
 - [Umap / Créer une carte](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/umap_creer_une_carte.md)
 - [Umap / Intégrer un fichier géolocalisé](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/umap_donnees_geolocalisees.md)
@@ -24,6 +25,7 @@ Ces fiches vous permettent d'apprendre à manipuler des données ou à vos famil
 ## Traiter les données
 - [Produire un fichier CSV, bonnes pratiques](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fichiers_csv.md)
 - [Ouvrir et nettoyer un fichier csv](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/ouvrir_et_nettoyer_fichier_csv.md)
+- [Utiliser l'API de CKAN](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/datalocale-api.md)
 - [Addok / Géocoder un tableur csv d'adresses et de données](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/geocodage.md)
 - [Tableur / Nettoyer des données , fonctions SI](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/geocodage.md)
 - [CartoDB / Creer une carte dynamique](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/Creer_carte_dynamique_CartoDB.md)
