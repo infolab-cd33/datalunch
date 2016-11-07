@@ -1,17 +1,14 @@
 # Des enquêtes journalistiques nourries par les données
 
-
 ## Le Data Journalisme Lab de l'IJBA
 
 Un module pédagogique de découverte et d'initiation au journalisme de données : http://datajournalismelab.fr/
 
-> Public : 37 étudiants en Master 1
-> Durée : une journée de lancement + une journée de conférence de rédaction intermédiaire + neuf journées de production des enquêtes à l'IJBA (data + terrain)
-> Objectif : réaliser des enquêtes nourries par les données sur des sujets locaux (Bordeaux et sa région).
+- Public : 37 étudiants en Master 1
+- Durée : une journée de lancement + une journée de conférence de rédaction intermédiaire + neuf journées de production des enquêtes à l'IJBA (data + terrain)
+- Objectif : réaliser des enquêtes nourries par les données sur des sujets locaux (Bordeaux et sa région).
 
 ![Production 1](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/datajournalismlab/production1.jpg)
-
-![Production 2] (https://raw.githubusercontent.com/infolab-cd33/datalunch/blob/master/img/datajournalismlab/production2.jpg)
 
 > Final : debriefing collectif des enquêtes (Pitch) et mise en ligne
 
@@ -34,7 +31,7 @@ Données utilisées :
 > - Données produites par les étudiants : nombre de licenciés par sport
 
 Traitement :
-Classement des résultats
+- Calcul statistique et classement des résultats
 
 ### Vit-on vraiment mieux en Gironde qu'en France ? (2012)
 
@@ -48,10 +45,9 @@ Ces données permettent d’établir  l’Indice de Situation Sociale Départeme
 > - Données Insee
 
 Traitement :
-Choix d'indicateurs tels que le taux de chômage, la part des salariés en emploi précaire, le nombre de bénéficiaires des minimas sociaux,…
-Traitement statistique
-Mise en perspective (comparaison) avec les moyennes nationales
-
+- Choix d'indicateurs tels que le taux de chômage, la part des salariés en emploi précaire, le nombre de bénéficiaires des minimas sociaux,…
+- Traitement statistique
+- Mise en perspective (comparaison) avec les moyennes nationales
 
 Depuis 2013 : production "autonome" de visualisations simples
 ![debriefing] (http://datajournalismelab.fr/wp-content/uploads/Presentation-des-prods-2-DJL-2016-1024x768.jpg)
@@ -74,6 +70,8 @@ Déroulé pédagogique :
 - Mise à disposition de jeux de données "sources" sur le thème de « l’espace public » : 12 groupes constitués
 - Problématisation/angle, analyse des données, pré-enquête (documentation, revue de presse, pré-entretiens)
 - Session de production
+
+![Production 2] (https://raw.githubusercontent.com/infolab-cd33/datalunch/blob/master/img/datajournalismlab/production2.jpg)
 
 Ecueils rencontrés :
 - Perte de temps : recherche des sources, analyse des données et documentation sujet
@@ -135,7 +133,7 @@ Données utilisées :
 > - Recensement agricole 2010 et 2011 (Insee/data.gouv.fr)
 
 Traitement :
-- recherche des données de coordonnées géographiques des cantons de Gironde, fusion avec base de données demandeurs RSA, géolocalisation de la base de données et cartographie Google des données brutes (Google Refine et Google Fusion Table)"
+- Recherche des données de coordonnées géographiques des cantons de Gironde, fusion avec base de données demandeurs RSA, géolocalisation de la base de données et cartographie Google des données brutes (Google Refine et Google Fusion Table)"
 - Traitement statistique : pourcentage de demandeurs du RSA par rapport à la population des 20-64 ans dans chaque canton, cartographie Google (Google Fusion Table)
 - Fusion en un seul fichier des coordonnées géographiques des communes girondines avec les données détaillant leur nombre d’exploitations viticoles respectives (Google Refine et Google Fusion Table)
 - Superposition de la carte des communes viticoles avec la carte des concentrations de demandeurs du RSA par canton
@@ -160,9 +158,9 @@ https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-c
 Quatre fichiers (véhicules, caractéristiques, lieux, usagers) * 130 000 lignes * dix colonnes
 
 Traitement :
-> - croisement des différents fichiers 2014 et 2015 avec Excel : de façon manuelle puis tableaux croisés, formule « RechercheV », formule « nb.si », etc.
-> - analyse et choix de critères : cyclomoteurs de moins de 50cm3, scooters de moins de 50 cm3, motocyclettes comprises entre 50 cm3 et 125 cm3, scooters compris entre 50cm3 et 125cm3 et supérieurs à 125 cm3, les motocyclettes supérieures à 125 cm3.
-> - graphiques et heatmap avec Highcharts, infographie avec Picktochart et cartographie avec Google My Maps
+- Croisement des différents fichiers 2014 et 2015 avec Excel : de façon manuelle puis tableaux croisés, formule « RechercheV », formule « nb.si », etc.
+- Analyse et choix de critères : cyclomoteurs de moins de 50cm3, scooters de moins de 50 cm3, motocyclettes comprises entre 50 cm3 et 125 cm3, scooters compris entre 50cm3 et 125cm3 et supérieurs à 125 cm3, les motocyclettes supérieures à 125 cm3.
+- Graphiques et heatmap avec Highcharts, infographie avec Picktochart et cartographie avec Google My Maps
 
 ## Données non ouvertes / données produites
 
@@ -180,9 +178,9 @@ Agence-bio, Arbio, Bio Gironde, CIVB, Syndicat des vignerons bio de Gironde : pe
 > - liste des exploitants bio de Gironde avec le nom de l’exploitant, les données géographiques et la date d’entrée dans le bio : données scrappées par la doctorante Frédérique Célérier depuis un annuaire institutionnel.
 
 Traitement :
-> - calcul du taux d'évolution des surface bio 1995 - 2013
-> - géolocalisation des surfaces bio de Gironde
-> - calcul du pourcentage de bio sur le total des exploitants
-> - Cartographie chronologique de l'évolution des surfaces bio avec CartoDB, superposition dans l'image de la carte des AOC avec Google Earth, diagrammes avec Datawrapper, graphique et chiffres clés avec Infogr.am
+- Calcul du taux d'évolution des surface bio 1995 - 2013
+- Géolocalisation des surfaces bio de Gironde
+- Calcul du pourcentage de bio sur le total des exploitants
+- Cartographie chronologique de l'évolution des surfaces bio avec CartoDB, superposition dans l'image de la carte des AOC avec Google Earth, diagrammes avec Datawrapper, graphique et chiffres clés avec Infogr.am
  
 
