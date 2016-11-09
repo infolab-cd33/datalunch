@@ -62,8 +62,8 @@ Très peu d'étudiants sont issus de formation en mathématique, statistique ou 
 - « Culture des données » des étudiants très approximative
 - Connaissance souvent faible des outils de tableur, des méthodes ou outils de visualisation des données
 
-Déroulé pédagogique 2016 :
-- Amorçage : cultu re des données + open data + data journalisme (histoire, méthodes, outils)
+Déroulé pédagogique :
+- Amorçage : culture des données + open data + data journalisme (histoire, méthodes, outils)
 - Mise à disposition de jeux de données "sources" sur le thème de « l’espace public » : 12 groupes constitués
 - Problématisation/angle, analyse des données, pré-enquête (documentation, revue de presse, pré-entretiens)
 - Session de production
