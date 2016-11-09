@@ -3,6 +3,7 @@
 ## Le Data Journalisme Lab de l'IJBA
 
 Un module pédagogique de découverte et d'initiation au journalisme de données : http://datajournalismelab.fr/
+Institut de journalisme de Bordeaux Aquitaine
 
 - Public : 37 étudiants en Master 1
 - Durée : une journée de lancement + une journée de conférence de rédaction intermédiaire + neuf journées de production des enquêtes à l'IJBA (data + terrain)
@@ -51,7 +52,7 @@ Traitement :
 - Traitement statistique
 - Mise en perspective (comparaison) avec les moyennes nationales
 
-Depuis 2013 : production "autonome" de visualisations simples
+- Depuis 2013 : production "autonome" de visualisations simples
 ![debriefing] (http://datajournalismelab.fr/wp-content/uploads/Presentation-des-prods-2-DJL-2016-1024x768.jpg)
 
 ## Déroulement pédagogique
@@ -64,16 +65,15 @@ Accompagnement éditorial (recherche sources, analyse, problématisation / angle
 Constats préliminaires :
 Très peu d'étudiants sont issus de formation en mathématique, statistique ou informatique.
 - « Culture des données » des étudiants très approximative
-- Connaissance souvent faible des outils de tableur (tri, filtre, tableau croisé dynamique)
-- Connaissance très faible des méthodes ou outils de visualisation des données
+- Connaissance souvent faible des outils de tableur, des méthodes ou outils de visualisation des données
 
-Déroulé pédagogique :
-- Amorçage : culture des données + open data + data journalisme (histoire, méthodes, outils)
+Déroulé pédagogique 2016 :
+- Amorçage : cultu re des données + open data + data journalisme (histoire, méthodes, outils)
 - Mise à disposition de jeux de données "sources" sur le thème de « l’espace public » : 12 groupes constitués
 - Problématisation/angle, analyse des données, pré-enquête (documentation, revue de presse, pré-entretiens)
 - Session de production
 
-![Production 2] (https://raw.githubusercontent.com/infolab-cd33/datalunch/blob/master/img/datajournalismlab/production2.jpg)
+![Production2] (https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/datajournalismlab/production2.jpg)
 
 Ecueils rencontrés :
 - Perte de temps : recherche des sources, analyse des données et documentation sujet
@@ -82,7 +82,7 @@ Ecueils rencontrés :
 
 Enseignements :
 - Le data journalisme : un registre éditorial spécifique qui fait appel à toutes les compétences du journalisme et exige de la rigueur.
-- Progression des étudiants : connaissance des sources d’information, approche critique de ces sources, domaines de compétence des collectivités et organismes pourvoyeurs de données, travail sur les chiffres et les statistiques, notion d’angle, adéquation angle/sources,  vérification information, techniques d’enquête et d’interview, écriture informative.
+- Progression des étudiants : connaissance des sources d’information, approche critique de ces sources, domaines de compétence des collectivités et organismes pourvoyeurs de données, travail sur les chiffres et les statistiques, notion d’angle, adéquation angle/sources, vérification information, techniques d’enquête et d’interview, écriture informative.
 
 ### Les outils du Lab
 
@@ -118,11 +118,12 @@ Autres :
 - Odyssey
 - DocumentCloud
 
+
 ### Exemples d'enquêtes
 
 ## Utilisation de données géographiques
 
-### Saisonniers : les précaires de la vigne (2013)
+#### Saisonniers : les précaires de la vigne (2013)
 
 Projet : 
 > - Explorer un gisement de données en espérant y trouver des informations inédites et intéressantes. Ici : la base de données du nombre de demandeurs du RSA répartis par canton, en Gironde, pour les années 2009, 2010 et 2011.
