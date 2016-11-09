@@ -3,13 +3,11 @@
 ## Le Data Journalisme Lab de l'IJBA
 
 Un module pédagogique de découverte et d'initiation au journalisme de données : http://datajournalismelab.fr/
-Institut de journalisme de Bordeaux Aquitaine
+par Institut de journalisme de Bordeaux Aquitaine
 
 - Public : 37 étudiants en Master 1
 - Durée : une journée de lancement + une journée de conférence de rédaction intermédiaire + neuf journées de production des enquêtes à l'IJBA (data + terrain)
 - Objectif : réaliser des enquêtes nourries par les données sur des sujets locaux (Bordeaux et sa région).
-
-![Production 1](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/datajournalismlab/production1.jpg)
 
 - Final : debriefing collectif des enquêtes (Pitch) et mise en ligne
 
@@ -20,8 +18,10 @@ Institut de journalisme de Bordeaux Aquitaine
 - Année 1 : production d'applications interactives
 - Un dispositif pionnier en France
 - 50 étudiants : journalistes IJBA + graphistes ECV + étudiants développeurs Epitech
+- Depuis 2013 : production "autonome" de visualisations simples
+![debriefing] (http://datajournalismelab.fr/wp-content/uploads/Presentation-des-prods-2-DJL-2016-1024x768.jpg)
 
-### La Gironde sportive
+### La Gironde sportive (2012)
 
 http://www.2012.datajournalismelab.fr/wp-content/uploads/equipementsportifs/index.html
 
@@ -43,8 +43,7 @@ Projet :
 > - Représenter le visage social de la Gironde, sa situation au niveau national et son évolution sur une période suffisamment significative pour pouvoir en tirer des conclusions.
 
 Données utilisées :
-- Profil développement durable de la Gironde : http://catalogue.datalocale.fr/dataset/indicesdd-agenda21-cg33 (période 2000-2008)
-Ces données permettent d’établir  l’Indice de Situation Sociale Départementale (ou ISSD) : santé, logement, éduction et emploi, aide sociale
+- Profil développement durable de la Gironde : http://catalogue.datalocale.fr/dataset/indicesdd-agenda21-cg33 (période 2000-2008). Ces données permettent d’établir l’Indice de Situation Sociale Départementale (ou ISSD) : santé, logement, éducation et emploi, aide sociale
 - Données Insee
 
 Traitement :
@@ -52,10 +51,7 @@ Traitement :
 - Traitement statistique
 - Mise en perspective (comparaison) avec les moyennes nationales
 
-- Depuis 2013 : production "autonome" de visualisations simples
-![debriefing] (http://datajournalismelab.fr/wp-content/uploads/Presentation-des-prods-2-DJL-2016-1024x768.jpg)
-
-## Déroulement pédagogique
+## Déroulement pédagogique en 2016
 
 L'équipe d'intervenants :
 http://datajournalismelab.fr/les-acteurs/
@@ -74,6 +70,7 @@ Déroulé pédagogique 2016 :
 - Session de production
 
 ![Production2] (https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/datajournalismlab/production2.jpg)
+![Production 1](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/datajournalismlab/production1.jpg)
 
 Ecueils rencontrés :
 - Perte de temps : recherche des sources, analyse des données et documentation sujet
@@ -126,15 +123,15 @@ Autres :
 #### Saisonniers : les précaires de la vigne (2013)
 
 Projet : 
-> - Explorer un gisement de données en espérant y trouver des informations inédites et intéressantes. Ici : la base de données du nombre de demandeurs du RSA répartis par canton, en Gironde, pour les années 2009, 2010 et 2011.
+> - Explorer un gisement de données en espérant y trouver des informations inédites et intéressantes. 
 
 http://www.2013.datajournalismelab.fr/saisonniers-les-precaires-de-la-vigne/
 
 Données utilisées :
-- comptage des bénéficiaires du RSA par canton par commune et par an (conforme règles IRIS) : http://catalogue.datalocale.fr/dataset/liste-benef-rsa
+- comptage des bénéficiaires du RSA en Gironde par canton par commune et par an 2009, 2010 et 2011 : http://catalogue.datalocale.fr/dataset/liste-benef-rsa
 - coordonnées géographiques des cantons de Gironde
 - le recensement des habitants de chaque canton (Insee)
-- recensement agricole 2010 et 2011 (Insee/data.gouv.fr)
+- recensement agricole 2010 et 2011 (Insee/data.gouv.fr) 
 
 Traitement :
 - Recherche des données de coordonnées géographiques des cantons de Gironde, fusion avec base de données demandeurs RSA, géolocalisation de la base de données et cartographie Google des données brutes (Google Refine et Google Fusion Table)"
@@ -144,20 +141,21 @@ Traitement :
 
 ## Utilisation d'un volume important de données
 
-### Les motards, fous du guidon ? (2016)
+#### Les motards, fous du guidon ? (2016)
 
 http://datajournalismelab.fr/les-motards-fous-du-guidon/
-
-Projet :
-> - Idée 1 : l'accidentologie des piétons à Bordeaux // aucune tendance particulière ne se dégageait des données (profils victimes, lieux, horaires, etc.) + un échantillon "mortalité" insuffisant pour faire une analyse pertinente.
-> Idée 2 : exploration en détail la base de données pour repérer des tendances // mortalité des deux roues motorisés plus importante en Gironde
-
-Un sujet "Etat des lieux" : les circonstances des différents accidents, notamment la temporalité (l’heure, le jour, le mois), les conditions météorologiques, l’état des chaussées, l’âge moyen des conducteurs, etc.
 
 Données utilisées :
 - Base de données accidents corporels de la circulation (data.gouv.fr)
 https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/
+
 Quatre fichiers (véhicules, caractéristiques, lieux, usagers) * 130 000 lignes * dix colonnes
+
+Projet :
+> - Idée 1 : l'accidentologie des piétons à Bordeaux // aucune tendance dégagée (profils victimes, lieux, horaires, etc.) + trop faible échantillon "mortalité" pour une analyse pertinente.
+> - Idée 2 : exploration en détail la base de données pour repérer des tendances // mortalité des deux roues motorisés plus importante en Gironde.
+
+Un sujet "Etat des lieux" : les circonstances des différents accidents, notamment la temporalité (l’heure, le jour, le mois), les conditions météorologiques, l’état des chaussées, l’âge moyen des conducteurs, etc.
 
 Traitement :
 - Croisement des différents fichiers 2014 et 2015 avec Excel : de façon manuelle puis tableaux croisés, formule « RechercheV », formule « nb.si », etc.
@@ -166,7 +164,7 @@ Traitement :
 
 ## Données non ouvertes / données produites
 
-### Pas trop de bio dans les vins de Bordeaux (2015)
+#### Pas trop de bio dans les vins de Bordeaux (2015)
 
 http://www.2015.datajournalismelab.fr/pas-trop-de-bio-dans-les-vins-de-bordeaux/
 
