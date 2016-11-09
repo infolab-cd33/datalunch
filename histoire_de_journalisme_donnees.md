@@ -7,8 +7,7 @@ par Institut de journalisme de Bordeaux Aquitaine
 
 - Public : 37 étudiants en Master 1
 - Durée : une journée de lancement + une journée de conférence de rédaction intermédiaire + neuf journées de production des enquêtes à l'IJBA (data + terrain)
-- Objectif : réaliser des enquêtes nourries par les données sur des sujets locaux (Bordeaux et sa région).
-
+- Objectif : réaliser des enquêtes nourries par les données sur des sujets locaux (Bordeaux et sa région)
 - Final : debriefing collectif des enquêtes (Pitch) et mise en ligne
 
 ![debriefing collectif.jpg](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/datajournalismlab/debriefing_collectif.jpg)
