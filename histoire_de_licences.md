@@ -39,7 +39,7 @@ ____
 
 ## Droit d'auteur dans le temps
 
-![duree-droits-auteurs.png](https://github.com/infolab-cd33/datalunch/blob/master/media/licence/duree-droits-auteurs.png)
+![duree-droits-auteurs.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/blob/master/media/licence/duree-droits-auteurs.png)
 ____
 ## Droit d’auteur, 2 types de droits
 
