@@ -106,17 +106,17 @@ Cela va surement favoriser la libération du code / pas seulement la possibilit�
 ### Livres, musiques, images, ...
 
 * les creatives commons
-    * Droit d'auteur en France (BY) ![by.png](https://github.com/infolab-cd33/datalunch/blob/master/media/licence/by.png)
-    * Commercial / non commercial (NC) ![nc.png](https://github.com/infolab-cd33/datalunch/blob/master/media/licence/nc.png)
-    * modifiable / non modifiable (ND) ![nd.png](https://github.com/infolab-cd33/datalunch/blob/master/media/licence/nd.png)
-    * créations dérivées à partager selon la même licence / licence au choix du créateur final (SA) ![sa.png](https://github.com/infolab-cd33/datalunch/blob/master/media/licence/sa.png)
+    * Droit d'auteur en France (BY) ![by.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/by.png)
+    * Commercial / non commercial (NC) ![nc.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/nc.png)
+    * modifiable / non modifiable (ND) ![nd.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/nd.png)
+    * créations dérivées à partager selon la même licence / licence au choix du créateur final (SA) ![sa.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/sa.png)
 
 
 * 6 possibilités
 
 **CCO** *Cas particulier, Domaine public, c'est trés dépendant des juridictions, non recommandé par CreativeCommon <http://creativecommons.fr/cc0-et-mdp/>*
 
-![licences-cc.png](https://github.com/infolab-cd33/datalunch/blob/master/media/licence/licences-cc.png)
+![licences-cc.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/licences-cc.png)
 
 Une Vidéo : <https://framatube.org/media/presentation-des-licences-creative-commons-avec-cc>
 
@@ -152,11 +152,11 @@ Les données sur datalocale sont publiées en ODbL (OpenDatabaseLicence).
 
 - **Auteur** : Vincent Bergeot
 
-- **Date de MàJ** : 08/09/2016
+- **Date de MàJ** : 08/03/2017
 
 - **Licence** :
 
-![by.svg]({{site.baseurl}}/media/licence/by.png)![sa.svg](https://github.com/infolab-cd33/datalunch/blob/master/media/licence/sa.png)
+![by.svg](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/by.png)![sa.svg](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/sa.png)
 
 - [Pour revenir au dépot](http://datalunch.datalocale.fr)
 
