@@ -1,6 +1,6 @@
-#La visualisation interactive des données budgétaires du Département de la Gironde
+# La visualisation interactive des données budgétaires du Département de la Gironde
 
-##Contexte
+## Contexte
 
 Dans le cadre de la saison 4 open data du Département de la Gironde, la direction des finances a souhaité être accompagnée pour :
 - élaborer le cahier des charges d'une visualisation interactive du budget départemental (et la réalisation de visualisations),
@@ -22,7 +22,7 @@ A l'issue des 4 ateliers, des orientations d'angles de sujets relatifs au budget
 3. les recettes et le rôle de l’impôt (datavisualisation)
 4. le rôle de la dette / l’enjeu de la capacité d’épargne / le niveau d’endettement soutenable (jeu interactif sous la forme d'un simulateur)Lors des ateliers, 4 orientations d'angles de sujets relatifs au budget du Département et leur mode de traitement ont été construites et priorisées  :
 
-##Quelles données budgétaires ?
+## Quelles données budgétaires ?
 
 > - Un jeu de données agrégées présentant les données financières selon des « standards » et critères importants à suivre dans le cadre de la gestion financière du département (endettement, types d’impôts, les dépenses par « compétences », …). 
 
@@ -42,9 +42,9 @@ Deux résultats importants à souligner :
 - un résultat attendu : obtenir plus de 90 % des données agrégées par la direction des finances en partant des données normalisées M52
 - un résultat inattendu et positif : simplification de certaines des requêtes effectuées dans les outils métiers de la direction des finances
 
-##La visualisation des données
+## La visualisation des données
 
-###État de l’art
+### État de l’art
 La question de la visualisation de données a été abordée à travers :
 
 > - Des modes de visualisations des données
@@ -70,7 +70,7 @@ http://dataviz.rennesmetropole.fr/budget/budget-rennes-metropole-2016/
 http://app.wheredoesmymoneygo.org//bubbletree-map.html#/~/total
 
 
-###Maquettage de la Data-visualisation des dépenses
+### Maquettage de la Data-visualisation des dépenses
 - Ingrid Babu et David Bruant, respectivement web-designer et développeur.
 
 > - Développement de la représentation visuelle
@@ -92,7 +92,7 @@ ratios, % du budget de l'action dans le budget global des dépenses, part (%) de
 
 ![synthese-process-dataviz.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/synthese-process-dataviz.png)
 
-###Quelques préconisations formulées
+### Quelques préconisations formulées
 
 - Méthodologiques : cycle de travail itératif + un chef de projet désigné
 - Technologiques : ouvertes et pérennes, documentées, qualité (accessibilité), utilisables par non informaticiens.
