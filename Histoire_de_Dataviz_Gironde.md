@@ -84,7 +84,7 @@ http://app.wheredoesmymoneygo.org//bubbletree-map.html#/~/total
 > - Maquette graphique de la Data-visualisation
 ![synthese.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/synthese.png)
 
-###Des attentes fortes identifiées
+### Des attentes fortes identifiées
  
 - comparabilité des données dans le temps et entre départements
 - présentation des masses budgétaires rapportée à l'échelle humaine et à l'impact de l'action « sur le terrain » : 
