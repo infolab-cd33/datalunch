@@ -32,6 +32,6 @@ Ces fiches vous permettent d'apprendre à manipuler des données ou à vos famil
 
 
 ## Divers
-- [Tagul, faire un nuage de mots](http://datalunch.datalocale.fr/infolab-cd33/datalunch/tagul_nuage-de-mots.md)
+- [Tagul, faire un nuage de mots](http://datalunch.datalocale.fr/infolab-cd33/datalunch/blob/master/tagul_nuage-de-mots.md)
 
-- [Modèle de fiche](http://datalunch.datalocale.fr/infolab-cd33/datalunch/z-modele-fiche.md), pour un format homogène.
+- [Modèle de fiche](http://datalunch.datalocale.fr/infolab-cd33/datalunch/blob/master/z-modele-fiche.md), pour un format homogène.
