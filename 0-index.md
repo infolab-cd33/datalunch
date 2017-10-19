@@ -9,7 +9,7 @@ Ces fiches vous permettent d'apprendre à manipuler des données ou à vos famil
 - [Histoire / <Qu'est-ce que la visualisation de données](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/histoire_de_visualisation.md)
 - [Histoire / Qu'est-ce qu'une valorisation de données. Exemple des archives ](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/histoire_de_valorisation_d_archives.md)
 - [Histoire / Qu'est-ce qu'une licence de données](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/histoire_de_licences.md)
-- [Histoire / Qu'est-ce que le datajournalisme ? Exemple du datajournalismelab](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/histoire_de_datajournalismelab.md)
+- [Histoire / Qu'est-ce que le datajournalisme ? Exemple du datajournalismelab](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/histoire_du_datajournalismelab.md)
 - [Histoire / Qu'est-ce que la dataviz du budget ? Exemple de la Gironde](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/Histoire_de_Dataviz_Gironde.md)
 
 ## Cartographie
