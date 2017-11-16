@@ -1,3 +1,10 @@
+---
+author: Pascal Romain
+image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
+link: https://github.com/infolab-cd33/datalunch/blob/fiches-markdow/export-csv-osm.md
+title: Exporter les données d'open street map dans un fichier csv
+published: true
+---
 # La visualisation interactive des données budgétaires du Département de la Gironde
 
 ## Contexte
