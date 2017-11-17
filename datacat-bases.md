@@ -1,6 +1,6 @@
 ---
 title: Présentation de datacat
-author: Suzanne Galy
+author: Pascal Romain
 licence: CC-By-SA
 description: Présenter le fonctionnement de l'outil de cataloguage de datalocale.
 image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
