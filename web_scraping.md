@@ -1,10 +1,14 @@
-# extraction de données de pages web
-
+---
+author:  Vincent Bergeot
+description: Utiliser des outils permettant d'extraire automatiquement des données d'un site web
+image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+title: Extraction de données de pages web
+link: https://github.com/infolab-cd33/datalunch/web_scraping.md
+categorie: géomatique
+---
 
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
-- **Auteur** : Un ou des noms
 - **Date de MàJ** : 02/12/2015
-- **Licence** : CC-BY / CC-by-sa / ...
 
 ## Principes - Ce que nous allons faire
 
@@ -14,9 +18,9 @@
 
 
 
-## Aller + loin : 
-Quelques sources : 
+## Aller + loin :
+Quelques sources :
 
-## A savoir : 
+## A savoir :
 
-## Liens avec d’autres fiches : 
+## Liens avec d’autres fiches :

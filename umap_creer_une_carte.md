@@ -1,10 +1,16 @@
-# Créer une carte en utilisant Umap
+---
+author:  Vincent Bergeot
+description: Personnaliser les propriétés d'une carte réalisée sur Umap pour afficher des points remarquables
+image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+title: Créer une carte en utilisant Umap
+link: https://github.com/infolab-cd33/datalunch/umap_creer_une_carte.md
+categorie: géomatique
+---
 
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
-- **Auteur** : 
 - **Date de MàJ** : 02/12/2015
-- **Licence** : CC-BY
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
+
+[Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes
 - Créer et nommer une carte avec Umap,
@@ -41,15 +47,14 @@ Dans la fenêtre qui s'ouvre on peut renseigner le nom et décrire la carte que 
 
 De nombreuses autres options sont disponibles !
 
-## Aller + loin : 
+## Aller + loin :
 [Des guides](http://wiki.openstreetmap.org/wiki/FR:UMap/Guide) et [des vidéos](http://wiki.openstreetmap.org/wiki/UMap#Screencasts)
 
-## A savoir : 
+## A savoir :
 Il existe plusieurs instances du logiciel Umap :
 * [uMap](http://umap.openstreetmap.fr/fr/)
 * [Framacarte](https://framacarte.org)
 
-## Liens avec d’autres fiches : 
+## Liens avec d’autres fiches :
 - [Insérer des données dynamiques provenant d'OpenStreetMap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_donnees_dynamiques.md)
 - [Insérer des données géolocalisées](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_donnees_geolocalisees.md)
-

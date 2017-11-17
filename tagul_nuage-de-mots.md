@@ -1,9 +1,16 @@
-# Tagul, outil de mise en forme de nuage de mots
+---
+author:  Vincent Bergeot
+description: Fabriquer une image sous la forme d'un nuage de mots que nous nous aurons défini
+image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+title: Utiliser Tagul, outil de mise en forme de nuage de mots
+link: https://github.com/infolab-cd33/datalunch/tagul_nuage-de-mots.md
+categorie: datavisualisation
+---
+
 - **Niveau** : Débutant / Intermédiaire / Avancé / Expert
-- **Auteur** : Un ou des noms
 - **Date de MàJ** : 02/12/2015
-- **Licence** : CC-BY / CC-by-sa / ...
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
+
+[Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 Fabriquer une image sous la forme d'un nuage de mots que nous nous aurons défini
@@ -26,12 +33,12 @@ Fabriquer une image sous la forme d'un nuage de mots que nous nous aurons défin
 Licence CC-BY-NC-SA -> https://tagul.com/license
 
 
-## Aller + loin : 
+## Aller + loin :
 ### D'autres sites
 - wordle.net
 - tagxedo
-Quelques sources : 
+Quelques sources :
 
-## A savoir : 
+## A savoir :
 
-## Liens avec d’autres fiches : 
+## Liens avec d’autres fiches :

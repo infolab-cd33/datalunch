@@ -1,11 +1,16 @@
-# Umap avec des données dynamiques provenant d'OpenStreetMap
-
+---
+author:  Vincent Bergeot
+description: Personnaliser les propriétés d'une carte réalisée sur Umap pour afficher des points remarquables
+image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+title: Umap avec des données dynamiques provenant d'OpenStreetMap
+link: https://github.com/infolab-cd33/datalunch/umap_donnees_dynamiques.md
+categorie: géomatique
+---
 
 - **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert
-- **Auteur** : Vincent Bergeot
 - **Date de MàJ** : 02/12/2015
-- **Licence** : CC-by-sa
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
+
+[Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 * Intégrer des données distantes dans Umap
@@ -26,11 +31,9 @@
 * cliquer sur la loupe
 
 
-## Aller + loin : 
-Quelques sources : 
+## Aller + loin :
+Quelques sources :
 
-## A savoir : 
+## A savoir :
 
-## Liens avec d’autres fiches : 
-
-
+## Liens avec d’autres fiches :

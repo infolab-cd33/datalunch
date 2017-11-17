@@ -1,10 +1,17 @@
-# Le titre de la fiche
+---
+title: Présentation de l'API de datalocale
+author: Pascal Romain
+licence: CC-By-SA
+description: Présenter le fonctionnement de l'interface programmatique de datalocale.
+image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
+link: https://github.com/infolab-cd33/datalunch/datalocale-api.md
+categorie: programmation
+---
 
 - **Niveau** : Avancé
-- **Auteur** : Pascal Romain
 - **Date de MàJ** : 03/11/2016
-- **Licence** : CC-by-sa
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
+
+[Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 Apprendre à utiliser l'API de CKAN pour interagir avec le catalogue datalocale
@@ -94,15 +101,14 @@ La même requête http peut être réalisée en utilisant le module Python stand
     result = response_dict['result']
     pprint.pprint(result)
 
-## Aller + loin : 
+## Aller + loin :
 
 La liste des fonctions et méthodes de l'[API CKAN](docs.ckan.org/en/latest/api/index.html#action-api-reference)
 
-[Quelques exemples de requête](http://docs.ckan.org/en/latest/api/index.html#api-examples) 
+[Quelques exemples de requête](http://docs.ckan.org/en/latest/api/index.html#api-examples)
 
-## A savoir : 
+## A savoir :
 
 La définition d'une API [source:wikipedia](https://fr.wikipedia.org/wiki/Interface_de_programmation)
 
 Le format de données JSON [source:wikipedia](https://fr.wikipedia.org/wiki/JavaScript_Object_Notation)
-

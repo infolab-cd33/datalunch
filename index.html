@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Les fiches data-truc</title>
+</head>
+
+<h1>Les fiches</h1>
+
+<section id="datatrucs">
+</section>
+
+<template id="templateDataTrucs">
+  <article>
+          <h2></h2>
+        <p></p>
+
+  </article>
+</template>
+
+<script type="text/javascript">
+const renderDataTrucs = () => {
+  const container = document.querySelector('#datatrucs')
+  const templateDataTrucs = document.querySelector('#templateDataTrucs').content
+  const title = templateDataTrucs.querySelector('h2')
+  fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/fiches-markdow/histoires')
+    .then(response => response.json())
+    .then(datatrucs => {
+      console.log(datatrucs.body);
+        datatrucs.body.forEach(datatruc => {
+        title.innerText = datatruc.meta.title
+        container.appendChild(document.importNode(templateDataTrucs, true))
+      })
+    })
+}
+renderDataTrucs()
+</script>
+
+</html>

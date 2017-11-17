@@ -1,10 +1,16 @@
-# Insérer des données géolocalisées dann Umap
+---
+author:  Vincent Bergeot
+description: Insérer un fichier de données géolocalisées dans une carte Umap
+image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+title: Insérer des données géolocalisées dans Umap
+link: https://github.com/infolab-cd33/datalunch/umap_donnees_geolocalisees.md
+categorie: géomatique
+---
 
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
-- **Auteur** : 
 - **Date de MàJ** : 02/12/2015
-- **Licence** : CC-BY
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
+
+[Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 Insérer un fichier de données géolocalisées dans une carte Umap
@@ -25,16 +31,15 @@ Pour tester son fichier et ne pas le mélanger si il comporte des erreurs, on im
 N.B : Attention les titres des colonnes ne doivent comporter ni accents, ni espaces. Pour séparer 2 termes utilisez des tirets (- ou _)
 Pour les colonnes contenant les coordonnées géographiques, vérifiez que le séparateur entre les degrés et les minutes est bien un point et pas une virgule (ex: 44.12345 plutôt que 44,46565)
 
-## Aller + loin : 
+## Aller + loin :
 [Des guides](http://wiki.openstreetmap.org/wiki/FR:UMap/Guide) et [des vidéos](http://wiki.openstreetmap.org/wiki/UMap#Screencasts)
 
-## A savoir : 
+## A savoir :
 Il existe plusieurs instances du logiciel Umap :
 
 * [uMap](http://umap.openstreetmap.fr/fr/) / hébergée par [l'association OpenStreetMap France](http://openstreetmap.fr/)
 * [Framacarte](https://framacarte.org) / hébergée par [l'association Framasoft](http://framasoft.net/)
 
-## Liens avec d’autres fiches : 
+## Liens avec d’autres fiches :
 - [Géocoder un fichier d'adresse .csv](http://datalunch.datalocale.fr/infolab-cd33/datalunch/geocodage.md)
 - [Créer une carte Umap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_creer_une_carte.md)
-

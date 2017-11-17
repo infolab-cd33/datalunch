@@ -1,10 +1,16 @@
-# Récupérer des données dans OpenStreetMap
+---
+author: Tiers Libres
+description: récupérer des données provenant d'OpenStreetMap au format csv pour pouvoir l'utiliser dans un tableur
+image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+title: Récupérer des données dans OpenStreetMap
+link: https://github.com/infolab-cd33/datalunch/overpass_recuperer_des_donnees_osm_au_format_cvs.md
+categorie: géomatique
+---
 
 - **Niveau** : Débutant / Intermédiaire / **Avancé** / Expert
-- **Auteur** : Tiers-Libres
 - **Date de MàJ** : 26/10/2016
-- **Licence** : CC-BY
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
+
+[Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 Nous allons récupérer des données provenant d'OpenStreetMap au format csv pour pouvoir l'utiliser dasn un tableur
@@ -35,10 +41,9 @@ out skel qt;
 
 Dans l'exemple donné ci-dessus, voici ce que cela donne sur le [site](http://overpass-turbo.eu/s/jDp).
 
-## Aller + loin : 
-Quelques sources : 
+## Aller + loin :
+Quelques sources :
 
-## A savoir : 
+## A savoir :
 
-## Liens avec d’autres fiches : 
-
+## Liens avec d’autres fiches :

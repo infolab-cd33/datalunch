@@ -1,10 +1,18 @@
+---
+author:  Vincent Bergeot
+description: récupérer des données provenant d'OpenStreetMap
+image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+title: Récupérer des données dans OpenStreetMap
+link: https://github.com/infolab-cd33/datalunch/overpass_recuperer_des_donnees_osm.md
+categorie: géomatique
+---
+
 # Récupérer des données dans OpenStreetMap
 
 - **Niveau** : Débutant / Intermédiaire / **Avancé** / Expert
-- **Auteur** : Vincent Bergeot
 - **Date de MàJ** : 05/01/2016
-- **Licence** : CC-BY
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
+
+[Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 Nous allons récupérer des données dans OpenStreetMap.
@@ -36,20 +44,19 @@ Nous allons récupérer des données dans OpenStreetMap.
  * Exécuter / cela affiche à la fois la surface et un point au centre / les deux objets contiennent les mêmes informations
  * Ne plus voir les surfaces est possible en sortant "out skel qt;"
 ![](http://www.datalocale.fr/drupal7/sites/default/files/fiches/overpass-08.png)
- * Exécuter la requête / cela affiche seulement un point au centre contenant toute les informations 
+ * Exécuter la requête / cela affiche seulement un point au centre contenant toute les informations
 
 ### exporter la requête
 * cliquer sur exporter
 ![](http://www.datalocale.fr/drupal7/sites/default/files/fiches/overpass-09.png)
- * pour construire une carte dynamique dans Umap : 
+ * pour construire une carte dynamique dans Umap :
   * choisir "données brutes depuis l'API Overpass"
   * sélectionner l'adresse générée, la copier
  * les autres options permettent de récupérer les données sous divers formats
 
-## Aller + loin : 
-Quelques sources : 
+## Aller + loin :
+Quelques sources :
 
-## A savoir : 
+## A savoir :
 
-## Liens avec d’autres fiches : 
-
+## Liens avec d’autres fiches :

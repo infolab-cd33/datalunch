@@ -1,10 +1,16 @@
-# Insérer la limite d'une commune
+---
+author:  Vincent Bergeot
+description: Insérer le tracé de la limite d'une commune dans une carte Umap
+image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+title: Insérer la limite d'une commune
+link: https://github.com/infolab-cd33/datalunch/umap_limite_commune.md
+categorie: géomatique
+---
 
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
-- **Auteur** : Vincent Bergeot
 - **Date de MàJ** : 15/02/2016
-- **Licence** : CC-BY-SA
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
+
+[Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 - Insérer la limite d'une commune dans Umap
@@ -25,18 +31,17 @@ Pour tester son fichier et ne pas le mélanger si il comporte des erreurs, on im
 Si les données sont correctement importées, alors on efface le calque et on re-importe dans le calque approprié.
 
 
-## Aller + loin : 
+## Aller + loin :
 [Des guides](http://wiki.openstreetmap.org/wiki/FR:UMap/Guide) et [des vidéos](http://wiki.openstreetmap.org/wiki/UMap#Screencasts)
 
-## A savoir : 
+## A savoir :
 Il existe plusieurs instances du logiciel Umap :
 
 * [uMap](http://umap.openstreetmap.fr/fr/) / hébergée par [l'association OpenStreetMap France](http://openstreetmap.fr/)
 * [Framacarte](https://framacarte.org) / hébergée par [l'association Framasoft](http://framasoft.net/)
 
-## Liens avec d’autres fiches : 
+## Liens avec d’autres fiches :
 - [Géocoder un fichier d'adresse .csv](http://datalunch.datalocale.fr/infolab-cd33/datalunch/geocodage.md)
 - [Créer une carte Umap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_creer_une_carte.md)
 * [Fermer la limite de la commune dans OpenStreetMap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/josm_fermer_une_commune.md)
 * [Récupérer la limite d'une commune venant d'OpenStreetMap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/overpass_recuperer_limite_commune.md)
-
