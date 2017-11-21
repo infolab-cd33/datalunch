@@ -28,7 +28,7 @@ Ces fiches vous permettent d'apprendre à manipuler des données ou à vos famil
 - [Utiliser l'API de CKAN](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/datalocale-api.md)
 - [Addok / Géocoder un tableur csv d'adresses et de données](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/geocodage.md)
 - [Tableur / Nettoyer des données , fonctions SI](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/geocodage.md)
-- [CartoDB / Creer une carte dynamique](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/Creer_carte_dynamique_CartoDB.md)
+- [CartoDB / Créer une carte dynamique](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/Creer_carte_dynamique_CartoDB.md)
 
 
 ## outils
