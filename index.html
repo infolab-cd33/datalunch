@@ -3,15 +3,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Les catégories de data-truc</title>
+  <style>
+  section{
+    width: 30%;
+    height: 3em;
+    border: 1px solid black;
+  }
+  </style>
 <h1>Les catégories</h1>
 
-<section id=datatrucs>
-
-</section>
-
 <script type="text/javascript">
-const uniq = array => array.filter((elt, pos, arr) => arr.indexOf(elt) == pos)
+const uniq = array => array.filter((elt, pos, arr) => arr.indexOf(elt) == pos).sort()
 const occurence = (array, key) => array.filter(item => item === key).length
+
+
 fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/master/fiches')
   .then(response => response.json())
   .then(fiches => {
@@ -21,10 +26,14 @@ fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/master/fiches')
         .map(fiche =>fiche.meta.categorie)
 
 
-        .sort()
         uniq(allCategories).map(categorie => {
           console.log(categorie)
           console.log(occurence(allCategories, categorie))
+          const section = document.createElement('section')
+          const h1  = document.createElement('h1')
+          h1.append(categorie)
+          section.append(h1)
+          document.body.append(section)
         })
 
   })
