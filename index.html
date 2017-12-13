@@ -10,16 +10,23 @@
 </section>
 
 <script type="text/javascript">
-
+const uniq = array => array.filter((elt, pos, arr) => arr.indexOf(elt) == pos)
+const occurence = (array, key) => array.filter(item => item === key).length
 fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/master/fiches')
   .then(response => response.json())
   .then(fiches => {
       //console.log(datatrucs.body);
-      const categories = fiches.body
+      const allCategories = fiches.body
         .filter(fiche =>fiche.meta)
         .map(fiche =>fiche.meta.categorie)
+
+
         .sort()
-      console.log(categories)
+        uniq(allCategories).map(categorie => {
+          console.log(categorie)
+          console.log(occurence(allCategories, categorie))
+        })
+
   })
 
 </script>
