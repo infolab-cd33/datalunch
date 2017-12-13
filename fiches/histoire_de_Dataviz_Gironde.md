@@ -1,10 +1,15 @@
 ---
 author: Pascal Romain
 image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
-link: https://github.com/infolab-cd33/datalunch/blob/fiches-markdow/export-csv-osm.md
 title: Exporter les données d'open street map dans un fichier csv
 published: true
+licence: CC-By-SA
+description: Dans le cadre de la saison 4 open data du Département de la Gironde, la direction des finances a souhaité être accompagnée pour : - élaborer le cahier des charges d'une visualisation interactive du budget départemental (et la réalisation de visualisations),- réaliser la libération de données relatives aux budgets.
+image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
+link: https://github.com/infolab-cd33/datalunch/fiches/histoire_de_Dataviz_Gironde.md
+categorie: datavisualisation
 ---
+
 # La visualisation interactive des données budgétaires du Département de la Gironde
 
 ## Contexte
@@ -15,12 +20,12 @@ Dans le cadre de la saison 4 open data du Département de la Gironde, la directi
 
 ==> 4 ateliers collectifs organisés entre mars et juin 2016 + un RDV "politique" + un atelier technique
 
-Public des ateliers collectifs : 
+Public des ateliers collectifs :
 > - 6 agents de la DFI, dont la Directrice
 > - 3 agents de la DSIN
 > - 1 élu (Vice-président chargé de la Citoyenneté, relations avec les usagers, communication et accès numériques)
 > - 2 accompagnateurs Coop'Alpha
-> - 2 experts en web design et développement web 
+> - 2 experts en web design et développement web
 
 A l'issue des 4 ateliers, des orientations d'angles de sujets relatifs au budget du Département et leur mode de traitement ont été construites et priorisées  :
 
@@ -31,7 +36,7 @@ A l'issue des 4 ateliers, des orientations d'angles de sujets relatifs au budget
 
 ## Quelles données budgétaires ?
 
-> - Un jeu de données agrégées présentant les données financières selon des « standards » et critères importants à suivre dans le cadre de la gestion financière du département (endettement, types d’impôts, les dépenses par « compétences », …). 
+> - Un jeu de données agrégées présentant les données financières selon des « standards » et critères importants à suivre dans le cadre de la gestion financière du département (endettement, types d’impôts, les dépenses par « compétences », …).
 
 [données agrégées](https://github.com/infolab-cd33/datalunch/blob/master/img/dataviz_finances/projet%20dataviz%20pr%20Alfresco%20V1%20%20SPPB%20-1.ods)
 
@@ -39,7 +44,7 @@ A l'issue des 4 ateliers, des orientations d'angles de sujets relatifs au budget
 
 [données M52](https://github.com/infolab-cd33/datalunch/blob/master/img/dataviz_finances/CreditsRealisesFonctionCA2009-2013.ods)
 
-> une entrée par fonction 
+> une entrée par fonction
 > une entrée par article
 
 Afin de pallier à la difficulté de diffuser les méthodes d’agrégation des données, un travail sur les formules d’agrégation en partant des données normalisées M52 a été mené au cours de l'atelier technique.
@@ -55,7 +60,7 @@ Deux résultats importants à souligner :
 La question de la visualisation de données a été abordée à travers :
 
 > - Des modes de visualisations des données
-![Raw](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/raw_1.png) 
+![Raw](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/raw_1.png)
 http://app.raw.densitydesign.org/
 
 > - Les travaux réalisés sur les données budgétaires du département dans le cadre d'un workshop Datavisualisation organisé par l'Ecole de Communication visuelle de Bordeaux (ECV) en 2013 et associant des étudiants graphistes, journalistes et des dévelopeurs.
@@ -66,7 +71,7 @@ http://app.raw.densitydesign.org/
 > - Des travaux menés par des médias
 
 http://www.journaldunet.com/business/budget-ville/rennes/ville-35238
-https://www.information.dk/databloggen/2014/08/finansloven-2015-visualiseret 
+https://www.information.dk/databloggen/2014/08/finansloven-2015-visualiseret
 
 > - Des exemples mis en place par d’autres collectivités
 
@@ -92,9 +97,9 @@ http://app.wheredoesmymoneygo.org//bubbletree-map.html#/~/total
 ![synthese.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/synthese.png)
 
 ### Des attentes fortes identifiées
- 
+
 - comparabilité des données dans le temps et entre départements
-- présentation des masses budgétaires rapportée à l'échelle humaine et à l'impact de l'action « sur le terrain » : 
+- présentation des masses budgétaires rapportée à l'échelle humaine et à l'impact de l'action « sur le terrain » :
 ratios, % du budget de l'action dans le budget global des dépenses, part (%) des bénéficiaires de l'action, courbe d'évolution de la dépense, ce qu'elles recouvrent concrètement en termes d'action du Département sur le territoire girondin, etc.
 
 ![synthese-process-dataviz.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/synthese-process-dataviz.png)
@@ -108,15 +113,9 @@ ratios, % du budget de l'action dans le budget global des dépenses, part (%) de
 
 ## Résultat : l'appel d'offre
 
-"Fourniture et mise en oeuvre d'applications de visualisation et de manipulation des données budgétaires du Département de la Gironde" 
+"Fourniture et mise en oeuvre d'applications de visualisation et de manipulation des données budgétaires du Département de la Gironde"
 
 Publié le 13 octobre 2016
 Remise des offres le 04 novembre
 
 http://marches-publics.gironde.fr/avis/index.cfm?fuseaction=pub.affPublication&IDM=356800&refPub=MPI-pub-2016287044&serveur=MPI&IDS=377
-
-
-
-
-
-

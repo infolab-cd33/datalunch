@@ -1,3 +1,17 @@
+---
+author: Suzanne Galy
+description: Un module pédagogique de découverte et d'initiation au journalisme de données : http://datajournalismelab.fr/
+par Institut de journalisme de Bordeaux Aquitaine
+image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
+link: https://github.com/infolab-cd33/datalunch/blob/fiches-markdow/histoire_de_jourmalisme_donnees.md
+title: Des enquêtes journalistiques nourries par les données
+licence: CC-by-sa
+categorie: datavisualisation
+---
+
+Dans le cadre de la saison 4 open data du Département de la Gironde, la direction des finances a souhaité être accompagnée pour :
+- élaborer le cahier des charges d'une visualisation interactive du budget départemental (et la réalisation de visualisations),
+- réaliser la libération de données relatives aux budgets.
 # Des enquêtes journalistiques nourries par les données
 
 ## Le Data Journalisme Lab de l'IJBA
@@ -24,7 +38,7 @@ par Institut de journalisme de Bordeaux Aquitaine
 
 http://www.2012.datajournalismelab.fr/wp-content/uploads/equipementsportifs/index.html
 
-Projet : 
+Projet :
 > - Etablir une comparaison entre les équipements sportifs mis à disposition des pratiquants et leur nombre officiel (licenciés dans une fédération des sports concernés).
 
 Données utilisées :
@@ -38,7 +52,7 @@ Traitement :
 
 http://www.2012.datajournalismelab.fr/wp-content/uploads/visagesocialgironde/index.html
 
-Projet : 
+Projet :
 > - Représenter le visage social de la Gironde, sa situation au niveau national et son évolution sur une période suffisamment significative pour pouvoir en tirer des conclusions.
 
 Données utilisées :
@@ -121,8 +135,8 @@ Autres :
 
 #### Saisonniers : les précaires de la vigne (2013)
 
-Projet : 
-> - Explorer un gisement de données en espérant y trouver des informations inédites et intéressantes. 
+Projet :
+> - Explorer un gisement de données en espérant y trouver des informations inédites et intéressantes.
 
 http://www.2013.datajournalismelab.fr/saisonniers-les-precaires-de-la-vigne/
 
@@ -130,7 +144,7 @@ Données utilisées :
 - comptage des bénéficiaires du RSA en Gironde par canton par commune et par an 2009, 2010 et 2011 : http://catalogue.datalocale.fr/dataset/liste-benef-rsa
 - coordonnées géographiques des cantons de Gironde
 - le recensement des habitants de chaque canton (Insee)
-- recensement agricole 2010 et 2011 (Insee/data.gouv.fr) 
+- recensement agricole 2010 et 2011 (Insee/data.gouv.fr)
 
 Traitement :
 - Recherche des données de coordonnées géographiques des cantons de Gironde, fusion avec base de données demandeurs RSA, géolocalisation de la base de données et cartographie Google des données brutes (Google Refine et Google Fusion Table)"
@@ -167,12 +181,12 @@ Traitement :
 
 http://www.2015.datajournalismelab.fr/pas-trop-de-bio-dans-les-vins-de-bordeaux/
 
-Projet : 
+Projet :
 > - Savoir si le vin bio de Bordeaux est un marché de niche, constater quelles appellations étaient plus vertes que les autres et récolter des données de géolocalisation pour voir où se trouvait la majorité des exploitations bio. Puis, comparer ces surfaces viticoles bio avec celles des grandes régions viticoles de France.
 
 Données utilisées :
 Agence-bio, Arbio, Bio Gironde, CIVB, Syndicat des vignerons bio de Gironde : personne n’a accepté de communiquer de bases de données.
- 
+
 - chiffres de 2011 à 2014 des surfaces bio et de surfaces en conversion bio par région disponible sur le site de l’agence bio
 - chiffres sur l’ensemble des surfaces viticoles disponibles sur le site du ministère de l’Agriculture
 - liste des exploitants bio de Gironde avec le nom de l’exploitant, les données géographiques et la date d’entrée dans le bio : données scrappées par la doctorante Frédérique Célérier depuis un annuaire institutionnel.
@@ -182,5 +196,3 @@ Traitement :
 - Géolocalisation des surfaces bio de Gironde
 - Calcul du pourcentage de bio sur le total des exploitants
 - Cartographie chronologique de l'évolution des surfaces bio avec CartoDB, superposition dans l'image de la carte des AOC avec Google Earth, diagrammes avec Datawrapper, graphique et chiffres clés avec Infogr.am
- 
-

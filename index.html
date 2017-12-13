@@ -15,7 +15,13 @@
 <template id="templateDataTrucs">
   <article>
           <h2></h2>
-        <p></p>
+          <h3><h3>
+            <h4><h4>
+            <div>
+              <span><a href=""><img src=""></a></span>
+              <p></p>
+            </div>
+
 
   </article>
 </template>
@@ -25,13 +31,36 @@ const renderDataTrucs = () => {
   const container = document.querySelector('#datatrucs')
   const templateDataTrucs = document.querySelector('#templateDataTrucs').content
   const title = templateDataTrucs.querySelector('h2')
-  fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/fiches-markdow/histoires')
+  const auteur = templateDataTrucs.querySelector('h3')
+  const image = templateDataTrucs.querySelector('img')
+  const link = templateDataTrucs.querySelector('a')
+  const description = templateDataTrucs.querySelector('p')
+  const licence = templateDataTrucs.querySelector('.h4')
+
+    fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/master/fiches')
     .then(response => response.json())
     .then(datatrucs => {
-      console.log(datatrucs.body);
+      //console.log(datatrucs.body);
         datatrucs.body.forEach(datatruc => {
-        title.innerText = datatruc.meta.title
-        container.appendChild(document.importNode(templateDataTrucs, true))
+/*
+          title: Créer une table de pilote (ou tableau croisé)
+          author: Suzanne Galy
+          licence: CC-By-SA
+          description: Automatiser le croisement des données avec une table de pilote dans un tableur numérique (calc, excel).
+          image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
+          link: https://github.com/infolab-cd33/datalunch/Creer_table_de_pilote.md
+          categorie: manipulation
+*/
+debugger
+        if (datatruc.meta){
+          title.innerText = datatruc.meta.title
+          auteur.innerText = datatruc.meta.author
+          image.src = datatruc.meta.image_url
+          link.href = datatruc.meta.link
+          description.innerHTML = datatruc.body
+          container.appendChild(document.importNode(templateDataTrucs, true))
+          //debugger
+        }
       })
     })
 }
