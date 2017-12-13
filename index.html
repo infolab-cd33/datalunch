@@ -1,70 +1,42 @@
 <!DOCTYPE html>
-<html lang=fr>
-<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Les fiches data-truc</title>
-</head>
-
-<h1>Les fiches</h1>
-
-<section id="datatrucs">
-</section>
-
-<template id="templateDataTrucs">
-  <article>
-          <h2></h2>
-          <h3><h3>
-            <h4><h4>
-            <div>
-              <span><a href=""><img src=""></a></span>
-              <p></p>
-            </div>
-
-
-  </article>
-</template>
+  <title>Les catégories de data-truc</title>
+  <style>
+  section{
+    width: 30%;
+    height: 3em;
+    border: 1px solid black;
+  }
+  </style>
+<h1>Les catégories</h1>
 
 <script type="text/javascript">
-const renderDataTrucs = () => {
-  const container = document.querySelector('#datatrucs')
-  const templateDataTrucs = document.querySelector('#templateDataTrucs').content
-  const title = templateDataTrucs.querySelector('h2')
-  const auteur = templateDataTrucs.querySelector('h3')
-  const image = templateDataTrucs.querySelector('img')
-  const link = templateDataTrucs.querySelector('a')
-  const description = templateDataTrucs.querySelector('p')
-  const licence = templateDataTrucs.querySelector('.h4')
-
-    fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/master/fiches')
-    .then(response => response.json())
-    .then(datatrucs => {
-      //console.log(datatrucs.body);
-        datatrucs.body.forEach(datatruc => {
-/*
-          title: Créer une table de pilote (ou tableau croisé)
-          author: Suzanne Galy
-          licence: CC-By-SA
-          description: Automatiser le croisement des données avec une table de pilote dans un tableur numérique (calc, excel).
-          image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
-          link: https://github.com/infolab-cd33/datalunch/Creer_table_de_pilote.md
-          categorie: manipulation
-*/
-debugger
-        if (datatruc.meta){
-          title.innerText = datatruc.meta.title
-          auteur.innerText = datatruc.meta.author
-          image.src = datatruc.meta.image_url
-          link.href = datatruc.meta.link
-          description.innerHTML = datatruc.body
-          container.appendChild(document.importNode(templateDataTrucs, true))
-          //debugger
-        }
-      })
-    })
+const uniq = array => array.filter((elt, pos, arr) => arr.indexOf(elt) === pos).sort()
+const occurence = (array, key) => array.filter(item => item === key).length
+const createSection = (allCategories, categorie) => {
+  const section = document.createElement('section')
+  const h1  = document.createElement('h1')
+  const span = document.createElement('span')
+  span.append(occurence(allCategories, categorie))
+  h1.append(categorie)
+  h1.append(span)
+  section.append(h1)
+  return section
 }
-renderDataTrucs()
-</script>
 
-</html>
+fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/master/fiches')
+  .then(response => response.json())
+  .then(fiches => {
+      //console.log(datatrucs.body);
+    const allCategories = fiches.body
+      .filter(fiche =>fiche.meta)
+      .map(fiche =>fiche.meta.categorie)
+
+    uniq(allCategories).map(categorie => {
+      document.body.append(createSection(allCategories, categorie))
+    })
+  })
+
+</script>
