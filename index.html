@@ -17,12 +17,15 @@ const uniq = array => array.filter((elt, pos, arr) => arr.indexOf(elt) === pos).
 const occurence = (array, key) => array.filter(item => item === key).length
 const createSection = (allCategories, categorie) => {
   const section = document.createElement('section')
-  const h1  = document.createElement('h1')
+  const h2  = document.createElement('h2')
   const span = document.createElement('span')
+  const a = document.createElement('a')
   span.append(occurence(allCategories, categorie))
-  h1.append(categorie)
-  h1.append(span)
-  section.append(h1)
+  a.href = './fiches/' + categorie
+  a.append(categorie)
+  h2.append(a)
+  h2.append(span)
+  section.append(h2)
   return section
 }
 
