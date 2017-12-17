@@ -6,10 +6,10 @@ description: Présenter le fonctionnement de l'interface programmatique de datal
 image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
 link: https://github.com/infolab-cd33/datalunch/datalocale-api.md
 categorie: programmation
+niveau: avancé
+date: 03/11/2016
 ---
 
-- **Niveau** : Avancé
-- **Date de MàJ** : 03/11/2016
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)
 

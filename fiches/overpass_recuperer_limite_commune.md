@@ -4,7 +4,7 @@ description: récupérer des données provenant d'OpenStreetMap
 image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
 title: Overpass, récupérer la limite d'une commune
 link: https://github.com/infolab-cd33/datalunch/overpass_recuperer_limite_commune.md
-categorie: géomatique
+categorie: geomatique
 niveau: intermédiaire
 licence: CC-By-SA
 date: 15/02/2016

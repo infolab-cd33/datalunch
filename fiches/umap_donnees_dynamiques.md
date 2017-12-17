@@ -4,7 +4,7 @@ description: Personnaliser les propriétés d'une carte réalisée sur Umap pour
 image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
 title: Umap avec des données dynamiques provenant d'OpenStreetMap
 link: https://github.com/infolab-cd33/datalunch/umap_donnees_dynamiques.md
-categorie: géomatique
+categorie: geomatique
 niveau: intermédiaire
 date: 02/12/2015
 ---
