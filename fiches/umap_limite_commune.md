@@ -1,14 +1,13 @@
 ---
 author:  Vincent Bergeot
 description: Insérer le tracé de la limite d'une commune dans une carte Umap
-image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
 title: Insérer la limite d'une commune
 link: https://github.com/infolab-cd33/datalunch/umap_limite_commune.md
 categorie: géomatique
+niveau: débutant
+date: 15/02/2016
 ---
-
-- **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
-- **Date de MàJ** : 15/02/2016
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)
 

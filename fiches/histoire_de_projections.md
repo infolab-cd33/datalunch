@@ -1,3 +1,15 @@
+---
+title: Histoire de projections géographiques
+author: Vincent Bergeot
+licence: CC-By-SA
+description: Présentation des différents systèmes de projection géographique.
+image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+link: https://github.com/infolab-cd33/datalunch/histoire_de_projections.md
+categorie: culture
+niveau: débutant
+date: 03/11/2016
+---
+
 # Au début le monde était plat !
 - c'était facile de faire des cartes <i class="fa fa-smile-o"></i>
 

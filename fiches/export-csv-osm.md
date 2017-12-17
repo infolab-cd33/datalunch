@@ -1,11 +1,13 @@
 ---
 author: Pascal Romain
 description: à partir d'un export des données d'osm en geojson, nous allons transformer ces données pour pouvoir les enregistrer dans un fichier au format .csv.
-image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
+image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
 link: https://github.com/infolab-cd33/datalunch/blob/fiches-markdow/export-csv-osm.md
 title: Exporter les données d'open street map dans un fichier csv
 licence: CC-by-sa
 categorie: manipulation
+niveau: intermédiaire
+date: 03/03/2016
 ---
 [Pour revenir au dépot](https://infolab-cd33.github.io/daktary/)
 

@@ -1,8 +1,20 @@
+---
+title: Histoire de visualisation
+author: Suzanne Galy
+licence: CC-By-SA
+description: Présentation des différents systèmes de visualisation de données.
+image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+link: https://github.com/infolab-cd33/datalunch/histoire_de_visualisation.md
+categorie: culture
+niveau: débutant
+date: 03/11/2016
+---
+
 # La visualisation des données
 ## Quelques définitions
 dataviz, infoviz, infographie, ...
 
-- La "dataviz" (Data Visualization), c'est pour afficher des données, c'est une représentation graphique des données -> [Plus d'infos](https://fr.wikipedia.org/wiki/Repr%C3%A9sentation_graphique_de_donn%C3%A9es_statistiques) 
+- La "dataviz" (Data Visualization), c'est pour afficher des données, c'est une représentation graphique des données -> [Plus d'infos](https://fr.wikipedia.org/wiki/Repr%C3%A9sentation_graphique_de_donn%C3%A9es_statistiques)
 - L'"infoviz" (Information Visualization) : c'est un domaine informatique, permettant de rendre interactif la visualisation de données -> [Plus d'infos](https://fr.wikipedia.org/wiki/Visualisation_d'informations)
 - L'infographie, c’est pour la presse, c’est graphique -> [Plus d'infos](https://fr.wikipedia.org/wiki/Graphisme_d'information_en_France)
 
@@ -29,7 +41,7 @@ Donc entre la dataviz et infoviz, la principale diférence est l'interactivité 
 ### Exemple du métro de Tokyo
 ![Carte du métro de Tokyo](http://angiesrainbow.com/geikokujin/wp-content/uploads/2012/05/Tokyo-plan-metro.jpg  "Carte du métro de Tokyo")
 
-### Les réseaux 
+### Les réseaux
 ![Répertoire d'un fond d'archives visualisé sous la forme d'un réseau.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Social_Network_Analysis_Visualization.png/1024px-Social_Network_Analysis_Visualization.png?uselang=fr  "Répertoire d'un fonds d'archives visualisé sous la forme d'un réseau.")
 
 ### Raconter un film
@@ -59,4 +71,3 @@ La notion de charge cognitive
 
 ## Une aide pour s'orienter dans ce monde de visualisation
 ![](http://41.media.tumblr.com/tumblr_m54zvcNzeH1rudy45o1_1280.jpg  "")
-

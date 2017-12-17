@@ -3,9 +3,11 @@ title: Présentation de datacat
 author: Pascal Romain
 licence: CC-By-SA
 description: Présenter le fonctionnement de l'outil de cataloguage de datalocale.
-image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
+image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
 link: https://github.com/infolab-cd33/datalunch/datacat-bases.md
 categorie: outillage
+niveau: intermédiaire
+date: 11/11/2016
 ---
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)

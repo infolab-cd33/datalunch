@@ -1,4 +1,14 @@
-# Histoire de licences
+---
+title: Histoire de licences
+author: Vincent Bergeot
+licence: CC-By-SA
+description: Présenter les différentes licences et le cadre juridique.
+image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+link: https://github.com/infolab-cd33/datalunch/histoire_de_licences.md
+categorie: culture
+niveau: débutant
+date: 03/11/2016
+---
 
 # Pourquoi on parle de licences ?
 
@@ -132,7 +142,7 @@ Les données sur datalocale sont publiées en ODbL (OpenDatabaseLicence).
 
 
 
-## Aller + loin : 
+## Aller + loin :
 
 * Quelques sources :
 
@@ -142,10 +152,10 @@ Les données sur datalocale sont publiées en ODbL (OpenDatabaseLicence).
 	* http://www.aecom.org/Vous-informer/Juridique-TIC/Droit-public/Donnees-publiques/Open-data-data-visualisations-et-licences-d-utilisation
 	* http://www.europeandataportal.eu/elearning/fr/module4/#/id/co-01
 
-## A savoir : 
+## A savoir :
 
 
-## Liens avec d’autres fiches : 
+## Liens avec d’autres fiches :
 
 
 - **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert

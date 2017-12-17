@@ -4,34 +4,40 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Les catégories de data-truc</title>
   <style>
+
+  .boite{
+    display: flex;
+    flex-direction: row;
+  }
   .categorie{
-    width: 30%;
+    flex-grow: 1;
     height: 7em;
     border: 1px solid black;
   }
   .fiche{
+    flex-grow: 1;
     border: 1px solid black;
-    width: 70%;
-    float: right;
+    margin: auto;
   }
   </style>
-<ul class=categorie></ul>
-<section class=fiche></section>
+<div class="boite">
+  <ul class=categorie></ul>
+  <section class=fiche></section>
 
-<template name=categorie>
-  <li><a data-tpl=categorie><span data-tpl=count></span></a></li>
-</template>
+  <template name=categorie>
+    <li><a data-tpl=categorie><span data-tpl=count></span></a></li>
+  </template>
 
-<template name=fiche>
-  <h1><a data-tpl=title></a></h1>
-  <h2 data-tpl=description></h2>
-  <ul>
-    <li data-tpl=licence></li>
-    <li data-tpl=author></li>
-  </ul>
-  <img data-tpl=image_url>
-</template>
-
+  <template name=fiche>
+    <h1><a data-tpl=title></a></h1>
+    <p data-tpl=description></p>
+    <ul>
+      <li data-tpl=licence></li>
+      <li data-tpl=author></li>
+    </ul>
+    <img data-tpl=image_url>
+  </template>
+</div>
 <script type="text/javascript">
 const listen = evt => {
   const container = document.querySelector('template[name=fiche]').cloneNode(true).content
@@ -39,15 +45,25 @@ const listen = evt => {
   document.querySelector('.fiche').append(container)
 }
 window.addEventListener('hashchange', listen)
+
 const uniq = array => array.filter((elt, pos, arr) => arr.indexOf(elt) === pos).sort()
 const occurence = (array, key) => array.filter(item => item === key).length
+//const createFiches
 const createCategories = (allCategories, categorie) => {
   const container  = document.querySelector('template[name=categorie]').cloneNode(true).content
   const a = container.querySelector('[data-tpl=categorie]')
   const span = container.querySelector('[data-tpl=count]')
+  const ficheDesc = container.querySelector('[data-tpl=description]')
+  const licence = container.querySelector('[data-tpl=licence]')
+  const author = container.querySelector('[data-tpl=author]')
   span.append(occurence(allCategories, categorie))
   a.href = '#' + categorie
   a.append(categorie)
+  /*
+  ficheDesc.innerHTML =
+  licence.innerHTML =
+  author.innerText =
+  */
   return container
 }
 
@@ -58,6 +74,7 @@ fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/master/fiches')
     const allCategories = fiches.body
       .filter(fiche =>fiche.meta)
       .map(fiche =>fiche.meta.categorie)
+
 
     uniq(allCategories).map(categorie => {
       document.querySelector('.categorie').append(createCategories(allCategories, categorie))

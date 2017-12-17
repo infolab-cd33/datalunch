@@ -1,14 +1,14 @@
 ---
 author:  Vincent Bergeot
 description: Personnaliser les propriétés d'une carte réalisée sur Umap pour afficher des points remarquables
-image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
 title: Créer une carte en utilisant Umap
 link: https://github.com/infolab-cd33/datalunch/umap_creer_une_carte.md
-categorie: géomatique
+categorie: geomatique
+niveau: débutant
+date: 02/12/2015
 ---
 
-- **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
-- **Date de MàJ** : 02/12/2015
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)
 

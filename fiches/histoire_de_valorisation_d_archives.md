@@ -1,3 +1,14 @@
+---
+title: Histoire de réutilisations d'archives
+author: Vincent Bergeot
+licence: CC-By-SA
+description: Présentation d'exemples de réutilisations d'archives publiques ouvertes.
+image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+link: https://github.com/infolab-cd33/datalunch/histoire_de_valorisation-d_archives.md
+categorie: culture
+niveau: débutant
+date: 03/11/2016
+---
 ## Le Data Sprint du Forum des archivistes 2016
 
 Forum des archivistes **“meta/morphoses les archives, bouillons de culture numérique”**, organisé par l’Association des archivistes français du 30 mars au 1er avril, à Troyes
@@ -20,8 +31,8 @@ Thèmes : vie religieuse, vie quotidienne et population, urbanisme, travail et s
 > - 20 projets réalisés avec une 40aine de jeux de données : https://framadrive.org/index.php/s/d5qh1KhxVXbKL7y#pdfviewer
 > - outils dataviz utilisés :  outils bureautiques collaboratifs en ligne (Google Drive, Framasoft), cartographie (Framacarte, CartoDB, uMap), frise chronologique (TimelineJS, Timemapper), nettoyage de données (OpenRefine), outils d'infographie (Piktochart, Infogr.am), etc. https://framindmap.org/c/maps/112622/embed?zoom=1
 
-Exemples : 
-> - Passeports de Beaune : 
+Exemples :
+> - Passeports de Beaune :
 https://framadrive.org/index.php/s/NDh2YVhsWLwrEob#pdfviewer
-> - Syndicats et grèves dans la Drôme : 
+> - Syndicats et grèves dans la Drôme :
 https://framadrive.org/index.php/s/QgBgbZHLStxoeqx#pdfviewer

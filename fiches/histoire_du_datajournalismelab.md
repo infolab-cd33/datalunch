@@ -1,4 +1,14 @@
-# Des enquêtes journalistiques nourries par les données du Département
+---
+title: Des enquêtes journalistiques nourries par les données du Département
+author: Vincent Bergeot
+licence: CC-By-SA
+description: Présentation des différents sessions de datajournaliseme de l'IJBA.
+image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+link: https://github.com/infolab-cd33/datalunch/histoire_du_datajournalismelab.md
+categorie: culture
+niveau: débutant
+date: 03/11/2016
+---
 
 ##Le Data Journalisme Lab de l'IJBA depuis 2012
 
@@ -25,8 +35,8 @@ Projet : représenter le visage social de la Gironde, sa situation au niveau nat
 
 http://www.2012.datajournalismelab.fr/wp-content/uploads/visagesocialgironde/index.html
 
-Données utilisées : 
-> - Profil développement durable de la Gironde : http://catalogue.datalocale.fr/dataset/indicesdd-agenda21-cg33 (période 2000-2008) 
+Données utilisées :
+> - Profil développement durable de la Gironde : http://catalogue.datalocale.fr/dataset/indicesdd-agenda21-cg33 (période 2000-2008)
 Ces données permettent d’établir  l’Indice de Situation Sociale Départementale (ou ISSD) : santé, logement, éduction et emploi, aide sociale
 > - Données Insee
 
@@ -37,14 +47,14 @@ Mise en perspective (comparaison) avec les moyennes nationales
 
 ### La Gironde sportive (2012)
 
-Projet : établir une comparaison entre les équipements sportifs mis à disposition des pratiquants et leur nombre officiel (licenciés dans une fédération des sports concernés). 
+Projet : établir une comparaison entre les équipements sportifs mis à disposition des pratiquants et leur nombre officiel (licenciés dans une fédération des sports concernés).
 http://www.2012.datajournalismelab.fr/wp-content/uploads/equipementsportifs/index.html
 
-Données utilisées : 
+Données utilisées :
 > - Liste des établissements sportifs du département : http://catalogue.datalocale.fr/dataset/liste-equipements_sportifs-cg33
 > - Données produites par les étudiants : nombre de licenciés par sport
 
-Traitement : 
+Traitement :
 Classement des résultats
 
 ### Saisonniers : les précaires de la vigne (2013)
@@ -52,13 +62,13 @@ Classement des résultats
 Projet : explorer un gisement de données en espérant y trouver des informations inédites et intéressantes. Ici : la base de données du nombre de demandeurs du RSA répartis par canton, en Gironde, pour les années 2009, 2010 et 2011.
 http://www.2013.datajournalismelab.fr/saisonniers-les-precaires-de-la-vigne/
 
-Données utilisées : 
+Données utilisées :
 > - comptage des bénéficiaires du RSA par canton par commune et par an (conforme règles IRIS) : http://catalogue.datalocale.fr/dataset/liste-benef-rsa
 > - Coordonnées géographiques des cantons de Gironde
 > - le recensement des habitants de chaque canton (Insee)
 > - Recensement agricole 2010 et 2011 (Insee/data.gouv.fr)
 
-Traitement : 
+Traitement :
 - recherche des données de coordonnées géographiques des cantons de Gironde, fusion avec base de données demandeurs RSA, géolocalisation de la base de données et cartographie Google des données brutes (Google Refine et Google Fusion Table)"
 - Traitement statistique : pourcentage de demandeurs du RSA par rapport à la population des 20-64 ans dans chaque canton, cartographie Google (Google Fusion Table)
 - Fusion en un seul fichier des coordonnées géographiques des communes girondines avec les données détaillant leur nombre d’exploitations viticoles respectives (Google Refine et Google Fusion Table)
@@ -69,11 +79,11 @@ Traitement :
 Projet : De plus en plus de personnes âgées dépendantes en Gironde. Mais moins de places en maisons de retraite. Le maintien à domicile est-il la panacée ? Enquête.
 http://www.2013.datajournalismelab.fr/la-gironde-prend-un-coup-de-vieux/
 
-Données utilisées : 
+Données utilisées :
 > - Nombre de bénéficiaires de l'allocation personnalisée d'autonomie : http://catalogue.datalocale.fr/dataset/liste-benef-apa
 ou INSEE
 
-Traitement : 
+Traitement :
 
 - Traitement statistique
 - Visualisations avec Infogr.am

@@ -3,7 +3,7 @@ title: Présentation de l'API de datalocale
 author: Pascal Romain
 licence: CC-By-SA
 description: Présenter le fonctionnement de l'interface programmatique de datalocale.
-image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
+image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
 link: https://github.com/infolab-cd33/datalunch/datalocale-api.md
 categorie: programmation
 ---

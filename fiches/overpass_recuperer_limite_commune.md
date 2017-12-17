@@ -1,14 +1,14 @@
 ---
 author:  Vincent Bergeot
 description: récupérer des données provenant d'OpenStreetMap
-image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
 title: Overpass, récupérer la limite d'une commune
 link: https://github.com/infolab-cd33/datalunch/overpass_recuperer_limite_commune.md
 categorie: géomatique
+niveau: intermédiaire
+licence: CC-By-SA
+date: 15/02/2016
 ---
-
-- **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert
-- **Date de MàJ** : 15/02/2016
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)
 

@@ -1,14 +1,13 @@
 ---
 author:  Vincent Bergeot
 description: Fabriquer une image sous la forme d'un nuage de mots que nous nous aurons défini
-image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
 title: Utiliser Tagul, outil de mise en forme de nuage de mots
 link: https://github.com/infolab-cd33/datalunch/tagul_nuage-de-mots.md
 categorie: datavisualisation
+niveau: débutant
+date: 02/12/2015
 ---
-
-- **Niveau** : Débutant / Intermédiaire / Avancé / Expert
-- **Date de MàJ** : 02/12/2015
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)
 

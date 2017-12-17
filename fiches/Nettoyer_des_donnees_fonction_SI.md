@@ -1,14 +1,13 @@
 ---
 author: Suzanne Galy
 description: Apprendre à utiliser la fonction SI dans un outil de tableur numérique.
-image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
 title: Nettoyer un jeu de données : la fonction « SI »
 link: https://github.com/infolab-cd33/datalunch/josm_fermer_une_commune.md
 categorie: manipulation
+niveau: intermédiaire
+date: 31/05/2016
 ---
-
-- **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert
-- **Date de MàJ** : 31/05/2016
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)
 

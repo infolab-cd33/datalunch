@@ -1,14 +1,13 @@
 ---
 author:  Vincent Bergeot
 description: Utiliser des outils permettant d'extraire automatiquement des données d'un site web
-image_url : http://adresse.data.gouv.fr/static/img/csv-grey.svg
+image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
 title: Extraction de données de pages web
 link: https://github.com/infolab-cd33/datalunch/web_scraping.md
 categorie: géomatique
+niveau: débutant
+date: 02/12/2015
 ---
-
-- **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
-- **Date de MàJ** : 02/12/2015
 
 ## Principes - Ce que nous allons faire
 

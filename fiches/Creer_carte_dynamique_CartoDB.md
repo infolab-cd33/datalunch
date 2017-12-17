@@ -3,13 +3,12 @@ title: Créer une carte dynamique en utilisant CartoDB
 author: Suzanne Galy
 licence: CC-By-SA
 description: Créer et nommer une carte dynamique (chronologique) avec CartoDB à partir d'un jeu de données.
-image_url: http://adresse.data.gouv.fr/static/img/csv-grey.svg
+image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
 link: https://github.com/infolab-cd33/datalunch/Creer_carte_dynamique_CartoDB.md
 categorie: datavisualisation
+niveau: intermédiaire
+date: 11/11/2016
 ---
-
-- **Niveau** : **Débutant** / **Intermédiaire** / Avancé / Expert
-- **Date de MàJ** : 11/11/2016
 
 - [Pour revenir au dépot](http://datalunch.datalocale.fr)
 
