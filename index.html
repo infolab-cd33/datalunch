@@ -4,29 +4,51 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Les catégories de data-truc</title>
   <style>
-  section{
+  .categorie{
     width: 30%;
-    height: 3em;
+    height: 7em;
     border: 1px solid black;
   }
+  .fiche{
+    border: 1px solid black;
+    width: 70%;
+    float: right;
+  }
   </style>
-<h1>Les catégories</h1>
+<ul class=categorie></ul>
+<section class=fiche></section>
+
+<template name=categorie>
+  <li><a data-tpl=categorie><span data-tpl=count></span></a></li>
+</template>
+
+<template name=fiche>
+  <h1><a data-tpl=title></a></h1>
+  <h2 data-tpl=description></h2>
+  <ul>
+    <li data-tpl=licence></li>
+    <li data-tpl=author></li>
+  </ul>
+  <img data-tpl=image_url>
+</template>
 
 <script type="text/javascript">
+const listen = evt => {
+  const container = document.querySelector('template[name=fiche]').cloneNode(true).content
+  container.querySelector('[data-tpl=title]').append(document.location.hash.replace('#', ''))
+  document.querySelector('.fiche').append(container)
+}
+window.addEventListener('hashchange', listen)
 const uniq = array => array.filter((elt, pos, arr) => arr.indexOf(elt) === pos).sort()
 const occurence = (array, key) => array.filter(item => item === key).length
-const createSection = (allCategories, categorie) => {
-  const section = document.createElement('section')
-  const h2  = document.createElement('h2')
-  const span = document.createElement('span')
-  const a = document.createElement('a')
+const createCategories = (allCategories, categorie) => {
+  const container  = document.querySelector('template[name=categorie]').cloneNode(true).content
+  const a = container.querySelector('[data-tpl=categorie]')
+  const span = container.querySelector('[data-tpl=count]')
   span.append(occurence(allCategories, categorie))
-  a.href = './fiches/' + categorie
+  a.href = '#' + categorie
   a.append(categorie)
-  h2.append(a)
-  h2.append(span)
-  section.append(h2)
-  return section
+  return container
 }
 
 fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/master/fiches')
@@ -38,8 +60,9 @@ fetch('http://api.daktary.com/infolab-cd33/datalunch/tree/master/fiches')
       .map(fiche =>fiche.meta.categorie)
 
     uniq(allCategories).map(categorie => {
-      document.body.append(createSection(allCategories, categorie))
+      document.querySelector('.categorie').append(createCategories(allCategories, categorie))
     })
+
   })
 
 </script>
