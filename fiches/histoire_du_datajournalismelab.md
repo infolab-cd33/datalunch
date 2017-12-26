@@ -9,7 +9,6 @@ categorie: culture
 niveau: débutant
 date: 03/11/2016
 ---
-
 ##Le Data Journalisme Lab de l'IJBA depuis 2012
 
 Public : 36 étudiants de première année de master de l’IJBA
