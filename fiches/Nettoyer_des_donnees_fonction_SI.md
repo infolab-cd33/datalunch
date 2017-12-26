@@ -7,6 +7,7 @@ link: https://github.com/infolab-cd33/datalunch/josm_fermer_une_commune.md
 categorie: manipulation
 niveau: intermédiaire
 date: 31/05/2016
+licence: CC-By-SA
 ---
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)
