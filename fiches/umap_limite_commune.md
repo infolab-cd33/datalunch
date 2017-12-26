@@ -7,6 +7,7 @@ link: https://github.com/infolab-cd33/datalunch/umap_limite_commune.md
 categorie: geomatique
 niveau: débutant
 date: 15/02/2016
+licence: CC-By-SA
 ---
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)

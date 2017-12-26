@@ -7,6 +7,7 @@ link: https://github.com/infolab-cd33/datalunch/umap_donnees_dynamiques.md
 categorie: geomatique
 niveau: intermédiaire
 date: 02/12/2015
+licence: CC-By-SA
 ---
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)

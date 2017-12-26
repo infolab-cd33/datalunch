@@ -7,6 +7,7 @@ link: https://github.com/infolab-cd33/datalunch/umap_donnees_geolocalisees.md
 categorie: geomatique
 niveau: débutant
 date: 02/12/2015
+licence: CC-By-SA
 ---
 
 

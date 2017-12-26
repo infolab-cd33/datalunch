@@ -4,7 +4,7 @@ description: Manipuler le contenu d'une cellule de tableur numérique pour extra
 image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
 title: Tableur : scinder ou réunir du contenu texte
 link: https://github.com/infolab-cd33/datalunch/overpass_recuperer_limite_commune.md
-categorie: géomatique
+categorie: geomatique
 licence: CC-By-SA
 date: 10/10/2016
 niveau: intermédiaire

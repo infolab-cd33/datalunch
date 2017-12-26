@@ -7,6 +7,7 @@ link: https://github.com/infolab-cd33/datalunch/ouvrir_et_nettoyer_fichier_csv.m
 categorie: manipulation
 niveau: intermédiaire
 date: 04/05/2016
+licence: CC-By-SA
 ---
 
 [Pour revenir au dépot](http://datalunch.datalocale.fr)
