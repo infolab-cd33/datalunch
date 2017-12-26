@@ -13,7 +13,7 @@ date: 03/11/2016
 # Pourquoi on parle de licences ?
 
 * Parce que c'est une question de légalité,
-* Pour comprendre si on a la possibilité d'utiliser une oeuvre de l'esprit,
+* Pour comprendre si on a la possibilité d'utiliser une œuvre de l'esprit,
 * Afin de déterminer ce que l'on peut faire ou ce que l'on autorise à faire selon les licences,
 ____
 
@@ -56,11 +56,11 @@ ____
 * Droit moral
     * Paternité de l’œuvre et respect de l’intégrité
     * Droit de divulgation et de retrait
-    * Inaliénable en france, perpétuel, imprescriptible
+    * Inaliénable en France, perpétuel, imprescriptible
 
 * Droits patrimoniaux
-    * Monopole d’exploitation économique de l’oeuvre
-    * Durée variable (en france 70 ans après la mort de l’auteur) puis domaine public
+    * Monopole d’exploitation économique de l’œuvre
+    * Durée variable (en France 70 ans après la mort de l’auteur) puis domaine public
 
 ____
 ## Cas du domaine public
@@ -81,8 +81,6 @@ ____
 
 ____
 **Comment faire si on veut partager ces créations ?**
-
-
 
 ## Les licences "libres"
 
@@ -124,7 +122,7 @@ Cela va surement favoriser la libération du code / pas seulement la possibilit�
 
 * 6 possibilités
 
-**CCO** *Cas particulier, Domaine public, c'est trés dépendant des juridictions, non recommandé par CreativeCommon <http://creativecommons.fr/cc0-et-mdp/>*
+**CCO** *Cas particulier, Domaine public, c'est très dépendant des juridictions, non recommandé par CreativeCommons <http://creativecommons.fr/cc0-et-mdp/>*
 
 ![licences-cc.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/licences-cc.png)
 
@@ -140,8 +138,6 @@ Les données sur datalocale sont publiées en ODbL (OpenDatabaseLicence).
 [Exemple de Paris](http://opendata.paris.fr/page/les-marches/)
 *Depuis le 17 avril 2014, les marchés publics de la Ville de Paris sont assortis d'une clause demandant au fournisseur répondant à l'appel d'offres de « libérer les données » produites dans le cadre de l'exécution de ce marché. *
 
-
-
 ## Aller + loin :
 
 * Quelques sources :
@@ -151,30 +147,3 @@ Les données sur datalocale sont publiées en ODbL (OpenDatabaseLicence).
 	* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-libres-et-aeuvres-libres-ce-qu-il-faut-savoir
 	* http://www.aecom.org/Vous-informer/Juridique-TIC/Droit-public/Donnees-publiques/Open-data-data-visualisations-et-licences-d-utilisation
 	* http://www.europeandataportal.eu/elearning/fr/module4/#/id/co-01
-
-## A savoir :
-
-
-## Liens avec d’autres fiches :
-
-
-- **Niveau** : Débutant / **Intermédiaire** / Avancé / Expert
-
-- **Auteur** : Vincent Bergeot
-
-- **Date de MàJ** : 08/03/2017
-
-- **Licence** :
-
-![by.svg](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/by.png)![sa.svg](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/sa.png)
-
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
-
-
-Prose
-
-    Prose
-    About
-    Developers
-    Language
-    Logout
