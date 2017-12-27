@@ -47,7 +47,7 @@ Projet : établir une comparaison entre les équipements sportifs mis à disposi
 [dataviz en ligne](http://www.2012.datajournalismelab.fr/wp-content/uploads/equipementsportifs/index.html)
 
 Données utilisées :
-- [Liste des établissements sportifs du département](http://datalocale.fr/dataset/liste-equipements_sportifs-cg33)
+- [Liste des établissements sportifs du département](https://www.datalocale.fr/dataset/liste-des-equipements-sportifs-du-departement)
 - Données produites par les étudiants : nombre de licenciés par sport
 
 **Traitement :**
