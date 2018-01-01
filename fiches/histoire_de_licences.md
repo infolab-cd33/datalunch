@@ -142,8 +142,8 @@ Les données sur datalocale sont publiées en ODbL (OpenDatabaseLicence).
 
 * Quelques sources :
 
-	* Creative Commons, aider à faire un choix : http://creativecommons.org/choose/
-	* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique
-	* http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-libres-et-aeuvres-libres-ce-qu-il-faut-savoir
-	* http://www.aecom.org/Vous-informer/Juridique-TIC/Droit-public/Donnees-publiques/Open-data-data-visualisations-et-licences-d-utilisation
-	* http://www.europeandataportal.eu/elearning/fr/module4/#/id/co-01
+	* [Creative Commons, aider à faire un choix](http://creativecommons.org/choose/)
+	* [étude AEC cadre juridique](http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-et-logiciels-libres-quel-cadre-juridique)
+	* [étude AEC licences libres](http://www.aecom.org/Vous-informer/Juridique-TIC/Propriete-intellectuelle/Droit-d-auteur/Logiciels-libres-et-aeuvres-libres-ce-qu-il-faut-savoir)
+	* [étude AEC licence de réutilisation](http://www.aecom.org/Vous-informer/Juridique-TIC/Droit-public/Donnees-publiques/Open-data-data-visualisations-et-licences-d-utilisation)
+	* [module sur les licences du portail européen de données ouvertes](http://www.europeandataportal.eu/elearning/fr/module4/#/id/co-01)
