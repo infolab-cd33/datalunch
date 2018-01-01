@@ -20,41 +20,41 @@ dataviz, infoviz, infographie, ...
 
 Donc entre la dataviz et infoviz, la principale diférence est l'interactivité que peut fournir l'utilisation de l'outil informatique.
 
-![Infoviz, C'est quoi la visualisation de données](./img/visualisation/fftcm.jpg)
+![Infoviz, C'est quoi la visualisation de données](./../img/visualisation/fftcm.jpg)
 
 
 ## Quelques visualisations de données dans l'histoire
 ### La campagne de Russie, par Minard
-![Pertes successives en hommes de l'armée francçaise dans la campagne de Russie 1812-1813](./img/visualisation/Minards_Map.jpg  "Pertes successives en hommes de l'armée francçaise dans la campagne de Russie 1812-1813")
+![Pertes successives en hommes de l'armée francçaise dans la campagne de Russie 1812-1813](./../img/visualisation/Minards_Map.jpg  "Pertes successives en hommes de l'armée francçaise dans la campagne de Russie 1812-1813")
 ### Les morts du choléra en 1855
-![La localisation des morts dus au choléra dans Londres](./img/visualisation/Snow-cholera-map.jpg "La localisation des morts dus au choléra dans Londres")
+![La localisation des morts dus au choléra dans Londres](./../img/visualisation/Snow-cholera-map.jpg "La localisation des morts dus au choléra dans Londres")
 
 > aide à l'identification de la cause de la mortalité : un puit, transmission par l'eau
 
 ### Les causes de la mortalité dans l'armée, 1854-1855
-![Les causes de la mortalité dans l'armée, Diagramme de Nightingale](./img/visualisation/Nightingale-mortality.jpg "Les causes de la mortalité dans l'armée")
+![Les causes de la mortalité dans l'armée, Diagramme de Nightingale](./../img/visualisation/Nightingale-mortality.jpg "Les causes de la mortalité dans l'armée")
 
 > - bleu : les maladies que l'on pourraient éviter (principalement causées par un manque d'hygiène)
 > - rouge : les blessures de guerres
 > - noir : autres
 
 ### une heatmap
-![Une heatmap (carte de chaleur)](./img/visualisation/Atlas_statistique_de_la_population_de_Paris.jpg "Représentation de de type heatmap (carte de chaleur)")
+![Une heatmap (carte de chaleur)](./../img/visualisation/Atlas_statistique_de_la_population_de_Paris.jpg "Représentation de de type heatmap (carte de chaleur)")
 
 ### Exemple du métro de Tokyo
-![Carte du métro de Tokyo](./img/visualisation/Tokyo-plan-metro.jpg  "Carte du métro de Tokyo")
+![Carte du métro de Tokyo](./../img/visualisation/Tokyo-plan-metro.jpg  "Carte du métro de Tokyo")
 
 ### Les réseaux
-![Répertoire d'un fond d'archives visualisé sous la forme d'un réseau.](./img/visualisation/Social_Network_Analysis_Visualization.jpg  "Répertoire d'un fonds d'archives visualisé sous la forme d'un réseau.")
+![Répertoire d'un fond d'archives visualisé sous la forme d'un réseau.](./../img/visualisation/Social_Network_Analysis_Visualization.jpg  "Répertoire d'un fonds d'archives visualisé sous la forme d'un réseau.")
 
 ### Raconter un film
 
-![Storylines du seigneur des anneaux](./img/visualisation/movie_narrative_charts_large.jpg "Storylines du seigneur des anneaux")
+![Storylines du seigneur des anneaux](./../img/visualisation/movie_narrative_charts_large.jpg "Storylines du seigneur des anneaux")
 
 
 ### Et tant d'autres représentations possibles
 
-![Des types de visualisation de l'information](./img/visualisation/types_visualisation_data  "Des types de visualisation de l'information")
+![Des types de visualisation de l'information](.//../img/visualisation/types_visualisation_data  "Des types de visualisation de l'information")
 
 
 -> [En savoir un peu plus](http://panneaux.expoviz.fr/tagged/revisiter)
@@ -73,4 +73,4 @@ La notion de charge cognitive
 
 
 ## Une aide pour s'orienter dans ce monde de visualisation
-![Dataviz des datavizs](./img/visualisation/dataviz-datavizs  "Poster de l'exposition de la fonderie")
+![Dataviz des datavizs](./../img/visualisation/dataviz-datavizs  "Poster de l'exposition de la fonderie")
