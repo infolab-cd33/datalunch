@@ -73,4 +73,4 @@ La notion de charge cognitive
 
 
 ## Une aide pour s'orienter dans ce monde de visualisation
-![Dataviz des datavizs](./../img/visualisation/dataviz-datavizs  "Poster de l'exposition de la fonderie")
+![Dataviz des datavizs](./../img/visualisation/dataviz-datavizs.jpg  "Poster de l'exposition de la fonderie")
