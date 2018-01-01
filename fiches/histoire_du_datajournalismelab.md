@@ -32,7 +32,7 @@ Projet : représenter le visage social de la Gironde, sa situation au niveau nat
 [la dataviz en ligne](http://www.2012.datajournalismelab.fr/wp-content/uploads/visagesocialgironde/index.html)
 
 Données utilisées :
-- [Profil développement durable de la Gironde](http://catalogue.datalocale.fr/dataset/indicesdd-agenda21-cg33) (période 2000-2008)
+- [Profil développement durable de la Gironde](https://www.datalocale.fr/dataset/profil-developpement-durable-de-la-gironde) (période 2000-2008)
 Ces données permettent d’établir  l’Indice de Situation Sociale Départementale (ou ISSD) : santé, logement, éduction et emploi, aide sociale
 - Données Insee
 
@@ -59,7 +59,7 @@ Projet : explorer un gisement de données en espérant y trouver des information
 [dataviz en ligne](http://www.2013.datajournalismelab.fr/saisonniers-les-precaires-de-la-vigne/)
 
 Données utilisées :
-- [comptage des bénéficiaires du RSA par canton par commune et par an (conforme règles IRIS)](http://datalocale.fr/dataset/liste-benef-rsa)
+- [comptage des bénéficiaires du RSA par canton par commune et par an (conforme règles IRIS)](https://www.datalocale.fr/dataset/comptage-des-beneficiaires-du-rsa-par-canton-par-commune-et-par-an-conforme-regles-iris)
 - Coordonnées géographiques des cantons de Gironde
 - le recensement des habitants de chaque canton (Insee)
 - Recensement agricole 2010 et 2011 (Insee/data.gouv.fr)
@@ -76,7 +76,7 @@ Projet : De plus en plus de personnes âgées dépendantes en Gironde. Mais moin
 [dataviz en ligne](http://www.2013.datajournalismelab.fr/la-gironde-prend-un-coup-de-vieux/)
 
 Données utilisées :
-- [Nombre de bénéficiaires de l'allocation personnalisée d'autonomie](http://catalogue.datalocale.fr/dataset/liste-benef-apa)
+- [Nombre de bénéficiaires de l'allocation personnalisée d'autonomie](https://www.datalocale.fr/dataset/nombre-de-beneficiaires-de-lallocation-personnalisee-dautonomie)
 - INSEE
 
 **Traitement :**
