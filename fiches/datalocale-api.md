@@ -10,9 +10,6 @@ niveau: avancé
 date: 03/11/2016
 ---
 
-
-[Pour revenir au dépot](http://datalunch.datalocale.fr)
-
 ## Principes - Ce que nous allons faire
 Apprendre à utiliser l'API de CKAN pour interagir avec le catalogue datalocale
 ## Ingrédients - Ce dont nous avons besoin

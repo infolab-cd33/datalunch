@@ -10,8 +10,6 @@ niveau: intermédiaire
 date: 11/11/2016
 ---
 
-[Pour revenir au dépot](http://datalunch.datalocale.fr)
-
 outil de catalogage de données
 
 le diffuseur : c'est un agent
@@ -19,7 +17,7 @@ le diffuseur : c'est un agent
 le diffuseur diffuse des jeux de données (dataset) référençant plusueirsu jeux de données (soit un fichier soit un flux)
 Chacun de ces éléments (catalogue, jeux de données) peuvent être caractérisées par des concepts (catégories) (concepts-skins / vocabulaire controlée, thésaurus organisé, organisée hiérachiquemnt ou par relations)
 
-labels : alias et tranduction
+labels : alias et traduction
 
 basé sur des référentiels européens
 
