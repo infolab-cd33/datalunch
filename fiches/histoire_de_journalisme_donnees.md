@@ -26,7 +26,7 @@ par Institut de journalisme de Bordeaux Aquitaine
 - Objectif : réaliser des enquêtes nourries par les données sur des sujets locaux (Bordeaux et sa région)
 - Final : debriefing collectif des enquêtes (Pitch) et mise en ligne
 
-![debriefing collectif.jpg](https://cdn.rawgit.com/infolab-cd33/datalunch/54be9209/img/datajournalismlab/debriefing_collectif.jpg)
+![debriefing collectif.jpg](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/datajournalismlab/debriefing_collectif.jpg)
 
 ## De 2012 à 2016
 
@@ -34,7 +34,7 @@ par Institut de journalisme de Bordeaux Aquitaine
 - Un dispositif pionnier en France
 - 50 étudiants : journalistes IJBA + graphistes ECV + étudiants développeurs Epitech
 - Depuis 2013 : production "autonome" de visualisations simples
-![debriefing] (https://cdn.rawgit.com/infolab-cd33/datalunch/54be9209/img/datajournalismlab/production1.jpg)
+![debriefing] (http://datajournalismelab.fr/wp-content/uploads/Presentation-des-prods-2-DJL-2016-1024x768.jpg)
 
 ### La Gironde sportive (2012)
 
