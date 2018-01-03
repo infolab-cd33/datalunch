@@ -1,9 +1,8 @@
 ---
 author: Tiers Libres
-description: Nettoyer les données à l'aide des fonctions de tri, filtre, rechercher et remplacer dans un outil de tableur numérique.
+description: Nettoyer les données à l'aide des fonctions de l'outil de tableur numérique.
 image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
 title: Ouvrir et nettoyer un fichier de données au format CSV
-link: https://github.com/infolab-cd33/datalunch/ouvrir_et_nettoyer_fichier_csv.md
 categorie: manipulation
 niveau: intermédiaire
 date: 04/05/2016
