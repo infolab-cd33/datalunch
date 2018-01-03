@@ -3,7 +3,7 @@ author: Suzanne Galy
 description: Un module pédagogique de découverte et d'initiation au journalisme de données : http://datajournalismelab.fr/
 par Institut de journalisme de Bordeaux Aquitaine
 image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
-link: https://github.com/infolab-cd33/datalunch/blob/fiches-markdow/histoire_de_jourmalisme_donnees.md
+link: https://github.com/infolab-cd33/datalunch/fiches/histoire_de_journalisme_donnees.md
 title: Des enquêtes journalistiques nourries par les données
 licence: CC-by-sa
 categorie: datavisualisation
