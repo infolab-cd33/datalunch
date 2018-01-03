@@ -10,8 +10,6 @@ niveau : avancé
 date: 26/10/2016
 ---
 
-[Pour revenir au dépot](http://datalunch.datalocale.fr)
-
 ## Principes - Ce que nous allons faire
 Nous allons récupérer des données provenant d'OpenStreetMap au format csv pour pouvoir l'utiliser dasn un tableur
 
@@ -32,12 +30,12 @@ out skel qt;
 
 ### se rendre sur un site overpass
 * par exemple : http://overpass-turbo.eu/
-![](http://www.datalocale.fr/drupal7/sites/default/files/fiches/overpass-01.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/export-csv-osm/overpass-01.png)
 ### saisir une requête overpass
 * remplacer la requête par la requête adaptée
 * modifier le lieu de requête, les objets recherchés (tags OSM)
 * Exécuter la requête
-![](http://www.datalocale.fr/drupal7/sites/default/files/fiches/overpass-04.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/export-csv-osm/overpass-04.png)
 
 Dans l'exemple donné ci-dessus, voici ce que cela donne sur le [site](http://overpass-turbo.eu/s/jDp).
 

@@ -13,7 +13,7 @@ date: 01/11/2016
 
 ## Principes - Ce que nous allons faire
 - Télécharger un fichier de données au format CSV
-- Ouvrir le fichier à l'aide d'un logiciel tableur (voir la fiche fichiers_csv.md)
+- Ouvrir le fichier à l'aide d'un logiciel tableur [voir la fiche](./#fiches/fichiers_csv.md)
 - Automatiser le croisement des données avec une table de pilote
 
 ## Ingrédients - Ce dont nous avons besoin
@@ -40,7 +40,7 @@ certaines valeurs peuvent contenir des virgules (5,6°C par exemple) Dans ce cas
 
 Cliquez sur OK
 
-- une fois ouvert, il est recommandé d'enregistrer une copie de ce fichier en le renommant (_copie) afin de ne pas modifier le fichier source.
+- une fois ouvert, il est recommandé d'enregistrer une copie de ce fichier en le renommant (copie) afin de ne pas modifier le fichier source.
 
 ### Générer une "table de pilote" (ou tableau croisé dynamique)
 
@@ -106,4 +106,4 @@ Le fichier csv encodé en UTF8, avec pour séparateur la virgule ou le point vir
 
 ## Liens avec d’autres fiches :
 
-- [Ouvrir et nettoyer un fichier CSV](http://multibao-pntbr.rhcloud.com/infolab-cd33/datalunch/ouvrir_et_nettoyer_fichier_csv.md)
+- [Ouvrir et nettoyer un fichier CSV](./#fiches/ouvrir_et_nettoyer_fichier_csv.md)

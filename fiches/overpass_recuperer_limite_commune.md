@@ -10,8 +10,6 @@ licence: CC-By-SA
 date: 15/02/2016
 ---
 
-[Pour revenir au dépot](http://datalunch.datalocale.fr)
-
 ## Principes - Ce que nous allons faire
 * Récupérer la limite administrative d'une commune
 ## Ingrédients - Ce dont nous avons besoin
@@ -24,9 +22,11 @@ date: 15/02/2016
 * Construire et exécuter la requête avec l'assistant ![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/overpass/overpass-commune-1.png)
 
    * Cela donne ceci :
+
 ![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/overpass/overpass-commune-2.png)
 
 * exporter le résultat en geojson et enregistrer le sur votre ordinateur,
+
 ![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/overpass/overpass-commune-3.png)
 
 
@@ -37,5 +37,5 @@ Quelques sources :
 
 
 ## Liens avec d’autres fiches :
-* [Insérer les limites d'une commune dans Umap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_limite_commune.md)
-* [Fermer la limite de la commune dans OpenStreetMap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/josm_fermer_une_commune.md)
+* [Insérer les limites d'une commune dans Umap](./#fiches/umap_limite_commune.md)
+* [Fermer la limite de la commune dans OpenStreetMap](./#fiches/josm_fermer_une_commune.md)

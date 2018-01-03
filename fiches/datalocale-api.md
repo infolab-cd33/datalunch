@@ -54,12 +54,17 @@ Faire une requête d'API
 
 Pour appeler l'API CKAN, il faut envoyer un dictionnaire JSONdans une requête POST HTTP vers une des URL de l'API CKAN. Les paramètres de la fonction de l'API devraient ête contenues dans le dictionnaire JSON. CKAN retournera alors sa réponse dans un dictionnaire JSON.
 
-Un moyen d'envoyer un dictionnaire JSON vers une URL est d'utiliser le client HTTP en ligne de commande `HTTPie <http://httpie.org/>`_.  Par exemple, pour récupérer la liste de tous les jeux de données du thème environnement sur datalocale.fr, il faut au préalable installer le client HTTPie sur vote ordinateur et ensuite appeler la fonction d'API ``package_list`` en lançant cette commande dans un terminal ::
+Un moyen d'envoyer un dictionnaire JSON vers une URL est d'utiliser le client HTTP en ligne de commande HTTPie <http://httpie.org/>
+
+Par exemple, pour récupérer la liste de tous les jeux de données du thème environnement sur datalocale.fr, il faut au préalable installer le client HTTPie sur vote ordinateur et ensuite appeler la fonction d'API package_list
+
+en lançant cette commande dans un terminal ::
 
     http https://www.datalocale.fr/api/3/action/package_list&groups=environnement
 
 La réponse de CKAN ressemblera à cela ::
 
+```Json
     {
         "help": "...",
         "result": [
@@ -72,10 +77,11 @@ La réponse de CKAN ressemblera à cela ::
         ],
         "success": true
     }
-
+```
 
 La même requête http peut être réalisée en utilisant le module Python standard ``urllib2`` , avec ce code Python::
 
+```Python
     #!/usr/bin/env python
     import urllib2
     import urllib
@@ -97,6 +103,7 @@ La même requête http peut être réalisée en utilisant le module Python stand
     assert response_dict['success'] is True
     result = response_dict['result']
     pprint.pprint(result)
+```
 
 ## Aller + loin :
 
@@ -106,6 +113,5 @@ La liste des fonctions et méthodes de l'[API CKAN](docs.ckan.org/en/latest/api/
 
 ## A savoir :
 
-La définition d'une API [source:wikipedia](https://fr.wikipedia.org/wiki/Interface_de_programmation)
-
-Le format de données JSON [source:wikipedia](https://fr.wikipedia.org/wiki/JavaScript_Object_Notation)
+* La définition d'une API [source:wikipedia](https://fr.wikipedia.org/wiki/Interface_de_programmation)
+* Le format de données JSON [source:wikipedia](https://fr.wikipedia.org/wiki/JavaScript_Object_Notation)

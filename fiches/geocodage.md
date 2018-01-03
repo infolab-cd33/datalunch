@@ -12,8 +12,6 @@ date: 17/12/2015
 
 # Géocoder un fichier .csv d'adresse
 
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
-
 ## Principes - Ce que nous allons faire
 À partir d'un fichier contenant des adresses, encodé en .csv, nous allons "géocoder" (définir les longitudes et lattitudes) ces adresses pour permettre ensuite d'en faire, par exemple une carte.
 
@@ -48,7 +46,7 @@ Quelques sources :
 ## A savoir :
 Il existe d'autres géocodeurs, par exemple !
 
-* http://dogeo.fr/_apps/DoGeocodeur/
-* en utilisant OpenRefine et le tutoriel suivant pour lier avec le service de la BANO (Base Adresse Nationale Ouverte) : https://cquest.hackpad.com/OpenRefine-et-g%C3%A9ocodage-avec-adresse.data.gouv.fr-PCbRafrVuef
+* [dogeo](http://dogeo.fr/_apps/DoGeocodeur/)
+* en utilisant OpenRefine et le tutoriel suivant pour lier avec le service de la BANO (Base Adresse Nationale Ouverte) : [tutoriel](https://cquest.hackpad.com/OpenRefine-et-g%C3%A9ocodage-avec-adresse.data.gouv.fr-PCbRafrVuef)
 
 ## Liens avec d’autres fiches :

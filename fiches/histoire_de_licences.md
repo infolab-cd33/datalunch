@@ -29,7 +29,7 @@ ____
 * Empreinte de la personnalité
 * L’idée n’est pas protégée, c’est la forme originale donnée à cette idée
 * le droit d'auteur interdit la reproduction du personnage de Mickey Mouse, mais n'interdit pas la création de souris anthropomorphiques
-____
+
 # Mais de quoi on parle ?
 
 * les œuvres et les éléments d’architecture, les plans et les maquettes ;
@@ -45,12 +45,10 @@ ____
 * les œuvres des arts appliqués : les œuvres d'ingénierie et de design (tous les objets manufacturés de conception originale), les bijoux ;
 * les œuvres multimédia, qui regroupent des créations de types distincts.
 
-____
-
 ## Droit d'auteur dans le temps
 
 ![duree-droits-auteurs.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/duree-droits-auteurs.png)
-____
+
 ## Droit d’auteur, 2 types de droits
 
 * Droit moral
@@ -62,7 +60,6 @@ ____
     * Monopole d’exploitation économique de l’œuvre
     * Durée variable (en France 70 ans après la mort de l’auteur) puis domaine public
 
-____
 ## Cas du domaine public
 
 - Le droit moral existe toujours
@@ -72,14 +69,12 @@ ____
 
 [Des combats actuels](http://affordance.typepad.com//mon_weblog/2015/10/chere-anne-frank.html)
 
-____
 ## En résumé
 
-- Droit d’auteur
-	- Quasiment aucun droit pour les autres par « défaut »
-	- 70 ans après le décès, domaine public
+* Droit d’auteur
+	*  Quasiment aucun droit pour les autres par « défaut »
+	* 70 ans après le décès, domaine public
 
-____
 **Comment faire si on veut partager ces créations ?**
 
 ## Les licences "libres"
@@ -100,7 +95,6 @@ ____
     * données : LO et OdBl
         * datalocale
         * data.gouv.fr
-        * ...
 
 
 ### Logiciels
@@ -109,15 +103,18 @@ ____
 
 Les codes des logiciels publics sont désormais considérés au même titre que des documents et sont donc consultables par le public ([jurisprudence](http://www.legalis.net/spip.php?page=breves-article&id_article=4943)) -> loi CADA 78
 
-Cela va surement favoriser la libération du code / pas seulement la possibilité de le consulter mais également de le réutiliser.
+Cela va sûrement favoriser la libération du code / pas seulement la possibilité de le consulter mais également de le réutiliser.
 
 ### Livres, musiques, images, ...
 
 * les creatives commons
-    * Droit d'auteur en France (BY) ![by.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/by.png)
-    * Commercial / non commercial (NC) ![nc.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/nc.png)
-    * modifiable / non modifiable (ND) ![nd.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/nd.png)
-    * créations dérivées à partager selon la même licence / licence au choix du créateur final (SA) ![sa.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/sa.png)
+
+|Cas d'usage| pictogramme de la licence libre adaptée|
+|------|:------------------------------------------:|
+|Droit d'auteur en France (BY)|![by.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/by.png)|
+|Commercial / non commercial (NC)|![nc.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/nc.png)|
+|modifiable / non modifiable (ND)|![nd.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/nd.png)|
+|créations dérivées à partager selon la même licence / licence au choix du créateur final (SA)|![sa.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/sa.png)|
 
 
 * 6 possibilités

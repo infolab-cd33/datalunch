@@ -10,8 +10,6 @@ date: 04/05/2016
 licence: CC-By-SA
 ---
 
-[Pour revenir au dépot](http://datalunch.datalocale.fr)
-
 ## Principes - Ce que nous allons faire
 - Télécharger un fichier de données au format CSV
 - Ouvrir le fichier à l'aide d'un logiciel tableur (voir la fiche fichiers_csv.md)
@@ -22,8 +20,8 @@ licence: CC-By-SA
 
 - Un outil tableur : [LibreOffice Calc](https://fr.libreoffice.org/download/libreoffice-stable/),
 Tableur issu de la suite bureautique open source Libre Office, il interprète le format CSV pour présenter les données en lignes et colonnes sans autre intervention complémentaire de la part de l'utilisateur.
-- Un fichier de données au format CSV : liste-site-departement-Gironde_test [[Liste des bâtiments du Conseil général de la Gironde](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/liste-sites-departement-Gironde_test.csv)].
-Liste des sites gérés par le conseil général sur lesquels se trouvent les différents bâtiments du conseil général accueillant des agents administratifs ou du public.
+- Un fichier de données au format CSV : liste-site-departement-Gironde_test [[Liste des bâtiments du Conseil départemental de la Gironde](https://github.com/infolab-cd33/datalunch/blob/master/img/nettoyer/liste-sites-departement-Gironde_test.csv)].
+Liste des sites gérés par le conseil Départemental de la Gironde sur lesquels se trouvent les différents bâtiments du conseil général accueillant des agents administratifs ou du public.
 
 ## Étapes - Comment allons-nous procéder ?
 
@@ -95,8 +93,4 @@ Le fichier csv encodé en UTF8, avec pour séparateur la virgule ou le point vir
 
 ## Liens avec d’autres fiches :
 
-- [Ouvrir et nettoyer un fichier CSV](http://multibao-pntbr.rhcloud.com/infolab-cd33/datalunch/ouvrir_et_nettoyer_fichier_csv.md)
-<<<<<<< HEAD
-
-=======
->>>>>>> bef474c41745f612d9718935642737b2f79637d5
+- [Ouvrir et nettoyer un fichier CSV](./#fiches/ouvrir_et_nettoyer_fichier_csv.md)

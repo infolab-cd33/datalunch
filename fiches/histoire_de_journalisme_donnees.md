@@ -79,51 +79,51 @@ Déroulé pédagogique :
 - Session de production
 
 ![Production2] (https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/datajournalismlab/production2.jpg)
-![Production 1](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/datajournalismlab/production1.jpg)
+
+![Production1](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/datajournalismlab/production1.jpg)
 
 Ecueils rencontrés :
-- Perte de temps : recherche des sources, analyse des données et documentation sujet
-- Précipitation : des données jugées pertinentes mais sans analyse de leur contenu réel (le sujet tombe à l'eau)
-- Décrochage : le data journalisme, une discipline de "geek"
+* Perte de temps : recherche des sources, analyse des données et documentation sujet
+* Précipitation : des données jugées pertinentes mais sans analyse de leur contenu réel (le sujet tombe à l'eau)
+* Décrochage : le data journalisme, une discipline de "geek"
 
 Enseignements :
-- Le data journalisme : un registre éditorial spécifique qui fait appel à toutes les compétences du journalisme et exige de la rigueur.
-- Progression des étudiants : connaissance des sources d’information, approche critique de ces sources, domaines de compétence des collectivités et organismes pourvoyeurs de données, travail sur les chiffres et les statistiques, notion d’angle, adéquation angle/sources, vérification information, techniques d’enquête et d’interview, écriture informative.
+* Le data journalisme : un registre éditorial spécifique qui fait appel à toutes les compétences du journalisme et exige de la rigueur.
+* Progression des étudiants : connaissance des sources d’information, approche critique de ces sources, domaines de compétence des collectivités et organismes pourvoyeurs de données, travail sur les chiffres et les statistiques, notion d’angle, adéquation angle/sources, vérification information, techniques d’enquête et d’interview, écriture informative.
 
 ### Les outils du Lab
 
 Extraction et traitement des données :
-- Tabula : extraire les données d’un PDF pour construire un tableur
-- Google Spreadsheet : outil tableur de Google
-- Google Fusion Table
-- Open Refine
-- Import.io
-- M. Data Converter
+* Tabula : extraire les données d’un PDF pour construire un tableur
+* Google Spreadsheet : outil tableur de Google
+* Google Fusion Table
+* Open Refine
+* Import.io
+* M. Data Converter
 
 Edition de graphiques :
-- Datawrapper
-- Highcharts Cloud
-- Google Charts
-- Infogram
-- Chartbuilder
-- Raw
-- Tableau Public
+* Datawrapper
+* Highcharts Cloud
+* Google Charts
+* Infogram
+* Chartbuilder
+* Raw
+* Tableau Public
 
 Visualisations de données géographiques :
-- Umap, CartoDB et Mapbox
-- StoryMaps
-- Color Brewer
-- Map Shaper
-- Maps Engine (Google)
-- HighMaps
+* Umap, CartoDB et Mapbox
+* StoryMaps
+* Color Brewer
+* Map Shaper
+* Maps Engine (Google)
+* HighMaps
 
 Autres :
-- TimelineJS
-- TimelineVertical
-- Juxtapose
-- Odyssey
-- DocumentCloud
-
+* TimelineJS
+* TimelineVertical
+* Juxtapose
+* Odyssey
+* DocumentCloud
 
 ### Exemples d'enquêtes
 
@@ -137,7 +137,7 @@ Projet :
 http://www.2013.datajournalismelab.fr/saisonniers-les-precaires-de-la-vigne/
 
 Données utilisées :
-- comptage des bénéficiaires du RSA en Gironde par canton par commune et par an 2009, 2010 et 2011 : http://catalogue.datalocale.fr/dataset/liste-benef-rsa
+- [comptage des bénéficiaires du RSA en Gironde par canton par commune et par an 2009, 2010 et 2011](https://www.datalocale.fr/dataset/comptage-des-beneficiaires-du-rsa-par-canton-par-commune-et-par-an-conforme-regles-iris)
 - coordonnées géographiques des cantons de Gironde
 - le recensement des habitants de chaque canton (Insee)
 - recensement agricole 2010 et 2011 (Insee/data.gouv.fr)
@@ -152,11 +152,10 @@ Traitement :
 
 #### Les motards, fous du guidon ? (2016)
 
-http://datajournalismelab.fr/les-motards-fous-du-guidon/
+[datavisualisation](http://datajournalismelab.fr/les-motards-fous-du-guidon/)
 
 Données utilisées :
-- Base de données accidents corporels de la circulation (data.gouv.fr)
-https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/
+- [Base de données accidents corporels de la circulation (data.gouv.fr)](https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/)
 
 Quatre fichiers (véhicules, caractéristiques, lieux, usagers) * 130 000 lignes * dix colonnes
 
@@ -167,15 +166,15 @@ Projet :
 Un sujet "Etat des lieux" : les circonstances des différents accidents, notamment la temporalité (l’heure, le jour, le mois), les conditions météorologiques, l’état des chaussées, l’âge moyen des conducteurs, etc.
 
 Traitement :
-- Croisement des différents fichiers 2014 et 2015 avec Excel : de façon manuelle puis tableaux croisés, formule « RechercheV », formule « nb.si », etc.
-- Analyse et choix de critères : cyclomoteurs de moins de 50cm3, scooters de moins de 50 cm3, motocyclettes comprises entre 50 cm3 et 125 cm3, scooters compris entre 50cm3 et 125cm3 et supérieurs à 125 cm3, les motocyclettes supérieures à 125 cm3.
-- Graphiques et heatmap avec Highcharts, infographie avec Picktochart et cartographie avec Google My Maps
+* Croisement des différents fichiers 2014 et 2015 avec Excel : de façon manuelle puis tableaux croisés, formule « RechercheV », formule « nb.si », etc.
+* Analyse et choix de critères : cyclomoteurs de moins de 50cm3, scooters de moins de 50 cm3, motocyclettes comprises entre 50 cm3 et 125 cm3, scooters compris entre 50cm3 et 125cm3 et supérieurs à 125 cm3, les motocyclettes supérieures à 125 cm3.
+* Graphiques et heatmap avec Highcharts, infographie avec Picktochart et cartographie avec Google My Maps
 
 ## Données non ouvertes / données produites
 
 #### Pas trop de bio dans les vins de Bordeaux (2015)
 
-http://www.2015.datajournalismelab.fr/pas-trop-de-bio-dans-les-vins-de-bordeaux/
+[datavisualisation](http://www.2015.datajournalismelab.fr/pas-trop-de-bio-dans-les-vins-de-bordeaux/)
 
 Projet :
 > - Savoir si le vin bio de Bordeaux est un marché de niche, constater quelles appellations étaient plus vertes que les autres et récolter des données de géolocalisation pour voir où se trouvait la majorité des exploitations bio. Puis, comparer ces surfaces viticoles bio avec celles des grandes régions viticoles de France.

@@ -10,8 +10,6 @@ date: 15/02/2016
 licence: CC-By-SA
 ---
 
-[Pour revenir au dépot](http://datalunch.datalocale.fr)
-
 ## Principes - Ce que nous allons faire
 - Insérer la limite d'une commune dans Umap
 
@@ -22,7 +20,8 @@ licence: CC-By-SA
 ## Étapes - Comment allons-nous procéder ?
 ### Import de données à partir de monfichier.geojson
 On clique sur la flèche vers le haut, dans le menu de droite
-![Importer des données](https://wiki.openstreetmap.org/w/images/f/f7/Importer_des_donn%C3%A9es_sur_uMap_-_Etape0.PNG)
+
+![Importer des données](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/umap/Importer_des_donnees_sur_uMap_-_Etape0.png)
 
 On va sélectionner son fichier monfichier.geojson
 
@@ -41,7 +40,7 @@ Il existe plusieurs instances du logiciel Umap :
 * [Framacarte](https://framacarte.org) / hébergée par [l'association Framasoft](http://framasoft.net/)
 
 ## Liens avec d’autres fiches :
-- [Géocoder un fichier d'adresse .csv](http://datalunch.datalocale.fr/infolab-cd33/datalunch/geocodage.md)
-- [Créer une carte Umap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/umap_creer_une_carte.md)
-* [Fermer la limite de la commune dans OpenStreetMap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/josm_fermer_une_commune.md)
-* [Récupérer la limite d'une commune venant d'OpenStreetMap](http://datalunch.datalocale.fr/infolab-cd33/datalunch/overpass_recuperer_limite_commune.md)
+- [Géocoder un fichier d'adresse .csv](./#fiches/geocodage.md)
+- [Créer une carte Umap](./#fiches/umap_creer_une_carte.md)
+* [Fermer la limite de la commune dans OpenStreetMap](./#fiches/josm_fermer_une_commune.md)
+* [Récupérer la limite d'une commune venant d'OpenStreetMap](./#fiches/overpass_recuperer_limite_commune.md)

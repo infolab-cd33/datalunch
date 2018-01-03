@@ -10,10 +10,6 @@ niveau: débutant
 date: 03/01/2016
 ---
 
-
-[Pour revenir au dépot](http://datalunch.datalocale.fr)
-
-
 ## Principes - Ce que nous allons faire
 Nous allons récupérer un fichier Excel ou Open/Libre Office et le transformer en fichier CSV pour permettre sa réutilisation aussi bien par les individus que par les machines.
 Nous allons choisir :
@@ -45,12 +41,14 @@ Un jeu de caractères codés est un code qui associe un jeu de caractères abstr
 2. choisir une option de séparateur.
 
 Un fichier csv est un fichier texte dans lequel les données sont séparées par un délimiteur. Ce délimiteur est traditionnellement une virgule d'où le nom de ce format de fichier (Comma Separated Values : valeurs séparées par une virgule). Il faut ici sélectionner le délimiteur qui a été utilisé par le créateur du fichier. Vous avez le choix entre tabulation, virgule, point-virgule, espace ou autre. L'écran de pré-visualisation de Libre office présente la structuration du fichier en fonction du choix de délimiteur.
+
 ![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/csv/calc_sep.png)
 
 3. option séparateur de texte :
 certaines valeurs peuvent contenir des virgules (5,6°C par exemple) Dans ce cas, si le délimiteur sélectionné est la virgule, lors de l'import du texte la valeur 5 et la valeur 6 vont être scindées en deux cellules.  Pour éviter cela il est possible de spécifier un séparateur de texte (par exemple "")
 
 La fenêtre de prévisualisation affiche le rendu en fonction des options sélectionnées et vous permet de vous assurez que vous allez obtenir le résultat attendu
+
 ![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/csv/calc_sepErreur.png)
 
 Cliquez sur OK
@@ -77,8 +75,8 @@ Vous pouvez ensuite importer ce fichier dans différents portails open data et c
 ## Aller + loin :
 Le format csv peut être utilisé pour décrire le contenu du fichier en utilisant la syntaxe.
 Il  est notamment possible d'accompagner un fichier csv d'un fichier en json respectant une certaine syntaxe pour permettre de faciliter l'utilisation du fichier texte
-http://www.w3.org/TR/2015/WD-tabular-data-model-20150416/#simple-example
 
+[tabular data model](http://www.w3.org/TR/2015/WD-tabular-data-model-20150416/#simple-example)
 
 ## A savoir :
 Le format csv est un format ouvert et libre. Il ne permet pas de stocker des formules ni leurs résultats comme Excel ou Calc mais il peut être lu aussi bien par un humain que par un ordinateur ce qui en fait un format d'interopérabilité.

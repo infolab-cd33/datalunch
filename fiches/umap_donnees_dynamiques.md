@@ -10,8 +10,6 @@ date: 02/12/2015
 licence: CC-By-SA
 ---
 
-[Pour revenir au dépot](http://datalunch.datalocale.fr)
-
 ## Principes - Ce que nous allons faire
 * Intégrer des données distantes dans Umap
 ## Ingrédients - Ce dont nous avons besoin
@@ -19,6 +17,9 @@ licence: CC-By-SA
 
 ## Étapes - Comment allons-nous procéder ?
 ### Umap / Ajouter des données distantes
+
+![copie d'écran de l'édition du calque](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/umap/uMap_donnees-dynamiques.jpg)
+
 * dans les propriétés du calque, choisir Données distantes
 * Dans URL, coller l'adresse provenant des données brutes de l'overpass
 * sélectionner le format de données, ici osm

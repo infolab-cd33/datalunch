@@ -60,12 +60,14 @@ Deux résultats importants à souligner :
 La question de la visualisation de données a été abordée à travers :
 
 > - Des modes de visualisations des données
+
 ![Raw](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/raw_1.png)
 http://app.raw.densitydesign.org/
 
 > - Les travaux réalisés sur les données budgétaires du département dans le cadre d'un workshop Datavisualisation organisé par l'Ecole de Communication visuelle de Bordeaux (ECV) en 2013 et associant des étudiants graphistes, journalistes et des dévelopeurs.
 
 ![departement33-depense.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/departement33-depense.png)
+
 ![departement33-depense2.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/departement33-depense2.png)
 
 > - Des travaux menés par des médias
@@ -94,6 +96,7 @@ http://app.wheredoesmymoneygo.org//bubbletree-map.html#/~/total
 ![wireframeHome.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/wireframeHome.png)
 
 > - Maquette graphique de la Data-visualisation
+
 ![synthese.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/dataviz_finances/synthese.png)
 
 ### Des attentes fortes identifiées

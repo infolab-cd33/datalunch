@@ -32,23 +32,23 @@ Un exemple
 
 et cela peut-être tout cela !
 
-https://www.youtube.com/embed/b1xXTi1nFC
+[vidéo explicative](https://www.youtube.com/embed/b1xXTi1nFC)
 
 Quelques exemples de projections différentes :
 
-- Projection de Peters / tente de prendre en compte la taille réelle des continents.
+* Projection de Peters / tente de prendre en compte la taille réelle des continents.
 <p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gall%E2%80%93Peters_projection_SW.jpg/512px-Gall%E2%80%93Peters_projection_SW.jpg"><img alt="Gall–Peters projection SW.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gall%E2%80%93Peters_projection_SW.jpg/512px-Gall%E2%80%93Peters_projection_SW.jpg"></a><br>"<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gall%E2%80%93Peters_projection_SW.jpg/512px-Gall%E2%80%93Peters_projection_SW.jpg">Gall–Peters projection SW</a>" by <a href="//commons.wikimedia.org/wiki/User:Strebe" title="User:Strebe">Strebe</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a title="Creative Commons Attribution-Share Alike 3.0" href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
 
-- Projection de Mercartor (favorable à la visibilité des pays du Nord)
+* Projection de Mercartor (favorable à la visibilité des pays du Nord)
 <p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mercator_projection_SW.jpg/512px-Mercator_projection_SW.jpg"><img alt="Mercator projection SW.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mercator_projection_SW.jpg/512px-Mercator_projection_SW.jpg"></a><br>« <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mercator_projection_SW.jpg/512px-Mercator_projection_SW.jpg">Mercator projection SW</a> » par <a href="http://commons.wikimedia.org/wiki/User:Strebe" title="User:Strebe">Strebe</a> — <span class="int-own-work" lang="fr">Travail personnel</span>. Sous licence <a title="Creative Commons Attribution-Share Alike 3.0" href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
 
-- Projection de Gall (centrée sur les amériques)
+* Projection de Gall (centrée sur les amériques)
 <p><a href="https://commons.wikimedia.org/wiki/File:Gall_Stereographic_projection_SW.JPG"><img alt="Gall Stereographic projection SW.JPG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gall_Stereographic_projection_SW.JPG/512px-Gall_Stereographic_projection_SW.JPG"></a><br>"<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gall_Stereographic_projection_SW.JPG/512px-Gall_Stereographic_projection_SW.JPG">Gall Stereographic projection SW</a>" by <a href="http://commons.wikimedia.org/wiki/User:Strebe" title="User:Strebe">Strebe</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a title="Creative Commons Attribution-Share Alike 3.0" href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
 
-- Et une dédicace, [la projection de Bonne](https://commons.wikimedia.org/wiki/File:Bonne-projection.jpg#/media/File:Bonne-projection.jpg)
+* Et une dédicace, [la projection de Bonne](https://commons.wikimedia.org/wiki/File:Bonne-projection.jpg#/media/File:Bonne-projection.jpg)
 
 
 # Conclusion
 Les cartes ceux sont des choix !
 
-<i class="fa fa-heart"></i>WGS 84 (World Geodesic System 1984 : système géodésique mondial, révision de 1984) est le système géodésique mondial le plus courant, car il est utilisé par le système GPS ([source Wikipédia à vérifier](https://fr.wikipedia.org/wiki/WGS_84))<i class="fa fa-heart"></i>
+<i class="fa fa-heart"></i>WGS 84 (World Geodesic System 1984 : système géodésique mondial, révision de 1984) est le système géodésique mondial le plus courant, car il est utilisé par le système GPS ([source Wikipédia ](https://fr.wikipedia.org/wiki/WGS_84))<i class="fa fa-heart"></i>

@@ -14,9 +14,9 @@ date: 03/11/2016
 ## Quelques définitions
 dataviz, infoviz, infographie, ...
 
-- La "dataviz" (Data Visualization), c'est pour afficher des données, c'est une représentation graphique des données -> [Plus d'infos](https://fr.wikipedia.org/wiki/Repr%C3%A9sentation_graphique_de_donn%C3%A9es_statistiques)
-- L'"infoviz" (Information Visualization) : c'est un domaine informatique, permettant de rendre interactif la visualisation de données -> [Plus d'infos](https://fr.wikipedia.org/wiki/Visualisation_d'informations)
-- L'infographie, c’est pour la presse, c’est graphique -> [Plus d'infos](https://fr.wikipedia.org/wiki/Graphisme_d'information_en_France)
+* La "dataviz" (Data Visualization), c'est pour afficher des données, c'est une représentation graphique des données -> [Plus d'infos](https://fr.wikipedia.org/wiki/Repr%C3%A9sentation_graphique_de_donn%C3%A9es_statistiques)
+* L'"infoviz" (Information Visualization) : c'est un domaine informatique, permettant de rendre interactif la visualisation de données -> [Plus d'infos](https://fr.wikipedia.org/wiki/Visualisation_d'informations)
+* L'infographie, c’est pour la presse, c’est graphique -> [Plus d'infos](https://fr.wikipedia.org/wiki/Graphisme_d'information_en_France)
 
 Donc entre la dataviz et infoviz, la principale diférence est l'interactivité que peut fournir l'utilisation de l'outil informatique.
 
@@ -69,8 +69,6 @@ La notion de charge cognitive
 - charge cognitive forte / on distingue l'information mais on l'assimile moins
 
 ![Charge cognitive forte](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/visualisation/charge_cognitive_forte.png  "Charge cognitive forte")
-
-
 
 ## Une aide pour s'orienter dans ce monde de visualisation
 ![Dataviz des datavizs](https://cdn.rawgit.com/infolab-cd33/datalunch/54be9209/img/visualisation/dataviz-datavizs.jpg  "Poster de l'exposition de la fonderie")

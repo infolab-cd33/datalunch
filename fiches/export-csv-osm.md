@@ -9,7 +9,6 @@ categorie: manipulation
 niveau: intermédiaire
 date: 03/03/2016
 ---
-[Pour revenir au dépot](https://infolab-cd33.github.io/daktary/)
 
 ## Principes - Ce que nous allons faire
 
@@ -26,7 +25,7 @@ Pour ce tutoriel nous pouvons utiliser les applications sans authentification. I
 
 ## Étapes - Comment allons-nous procéder ?
 
-La première étape consiste à extraire les données d'osm en utilisant l'assistant fournit par overpass. Cette étape est décrite dans la fiche [export des données d'osm](https://infolab-cd33.github.io/daktary/#infolab-cd33/datalunch/blob/master/overpass_recuperer_des_donnees_osm.md) mais je vais en reprendre ici rapidement les étapes :
+La première étape consiste à extraire les données d'osm en utilisant l'assistant fournit par overpass. Cette étape est décrite dans la fiche [export des données d'osm](./#fiches/overpass_recuperer_des_donnees_osm.md) mais je vais en reprendre ici rapidement les étapes :
 
 Note : il peut arriver que le service overpass "plante" car le nombre de données à retourner dans le navigateur est trop important. Il faut parfois réduire la couverture géographique pour laquelle on souhaite extraire des données ou utiliser un autre moyen d'extraction.
 
@@ -63,4 +62,4 @@ Quelques sources :
 
 Le format geojson est un format inspiré du format json très utilisé par les développeurs informatiques pour sa syntaxe souple et sa conscision. C'est un format ouvert également souvent utilisé par les bibliothèques de visualisation de données [wikipedia](https://fr.wikipedia.org/wiki/GeoJSON)
 ## Liens avec d’autres fiches :
-[Qu'est ce qu'un fichier csv ?](https://infolab-cd33.github.io/daktary/fichiers_csv.md)
+[Qu'est ce qu'un fichier csv ?](./#fiches/fichiers_csv.md)
