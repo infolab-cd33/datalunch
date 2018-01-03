@@ -37,5 +37,5 @@ Quelques sources :
 
 
 ## Liens avec d’autres fiches :
-* [Insérer les limites d'une commune dans Umap](./#fiches/umap_limite_commune.md)
-* [Fermer la limite de la commune dans OpenStreetMap](./#fiches/josm_fermer_une_commune.md)
+* [Insérer les limites d'une commune dans Umap](./#fiche/umap_limite_commune.md)
+* [Fermer la limite de la commune dans OpenStreetMap](./#fiche/josm_fermer_une_commune.md)

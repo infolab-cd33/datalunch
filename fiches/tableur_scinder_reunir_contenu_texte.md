@@ -66,5 +66,5 @@ Tout ces éléments doivent être séparés par un point-virgule.
 Le format csv est un format ouvert et libre. Il ne permet pas de stocker des formules ni leurs résultats comme Excel ou Calc mais il peut être lu aussi bien par un humain que par un ordinateur ce qui en fait un format d'interopérabilité.
 
 ## Liens avec d’autres fiches
-* [Ouvrir et nettoyer un fichier CSV](./#fiches/ouvrir_et_nettoyer_fichier_csv.md)
-* [Nettoyer un jeu de données : la fonction SI](./#fiches/Nettoyer_des_donnees_fonction_SI.md)
+* [Ouvrir et nettoyer un fichier CSV](./#fiche/ouvrir_et_nettoyer_fichier_csv.md)
+* [Nettoyer un jeu de données : la fonction SI](./#fiche/Nettoyer_des_donnees_fonction_SI.md)

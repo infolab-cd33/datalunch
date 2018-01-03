@@ -40,5 +40,5 @@ Il existe plusieurs instances du logiciel Umap :
 * [Framacarte](https://framacarte.org) / hébergée par [l'association Framasoft](http://framasoft.net/)
 
 ## Liens avec d’autres fiches :
-- [Géocoder un fichier d'adresse .csv](./#fiches/geocodage.md)
-- [Créer une carte Umap](./#fiches/umap_creer_une_carte.md)
+- [Géocoder un fichier d'adresse .csv](./#fiche/geocodage.md)
+- [Créer une carte Umap](./#fiche/umap_creer_une_carte.md)

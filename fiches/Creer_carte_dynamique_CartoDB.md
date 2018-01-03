@@ -103,4 +103,4 @@ Vous pourrez la partager ou l'intégrer dans un site web en cliquant sur "Publis
 - [Tutoriel cartoDB](https://docs.cartodb.com/cartodb-editor/maps/#torque) : en anglais sur les options d'édition des cartes de style "Torque"
 
 ## Liens avec d’autres fiches :
-- [Umap créer une carte](./#fiches/umap_creer_une_carte.md)
+- [Umap créer une carte](./#fiche/umap_creer_une_carte.md)

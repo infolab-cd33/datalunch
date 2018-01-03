@@ -62,4 +62,4 @@ Quelques sources :
 
 Le format geojson est un format inspiré du format json très utilisé par les développeurs informatiques pour sa syntaxe souple et sa conscision. C'est un format ouvert également souvent utilisé par les bibliothèques de visualisation de données [wikipedia](https://fr.wikipedia.org/wiki/GeoJSON)
 ## Liens avec d’autres fiches :
-[Qu'est ce qu'un fichier csv ?](./#fiches/fichiers_csv.md)
+[Qu'est ce qu'un fichier csv ?](./#fiche/fichiers_csv.md)

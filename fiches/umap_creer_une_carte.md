@@ -65,5 +65,5 @@ Il existe plusieurs instances du logiciel Umap :
 * [Framacarte](https://framacarte.org)
 
 ## Liens avec d’autres fiches :
-- [Insérer des données dynamiques provenant d'OpenStreetMap](./#fiches/umap_donnees_dynamiques.md)
-- [Insérer des données géolocalisées](./#fiches/umap_donnees_geolocalisees.md)
+- [Insérer des données dynamiques provenant d'OpenStreetMap](./#fiche/umap_donnees_dynamiques.md)
+- [Insérer des données géolocalisées](./#fiche/umap_donnees_geolocalisees.md)

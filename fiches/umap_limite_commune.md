@@ -41,6 +41,6 @@ Il existe plusieurs instances du logiciel Umap :
 
 ## Liens avec d’autres fiches :
 - [Géocoder un fichier d'adresse .csv](./#fiches/geocodage.md)
-- [Créer une carte Umap](./#fiches/umap_creer_une_carte.md)
-* [Fermer la limite de la commune dans OpenStreetMap](./#fiches/josm_fermer_une_commune.md)
-* [Récupérer la limite d'une commune venant d'OpenStreetMap](./#fiches/overpass_recuperer_limite_commune.md)
+- [Créer une carte Umap](./#fiche/umap_creer_une_carte.md)
+* [Fermer la limite de la commune dans OpenStreetMap](./#fiche/josm_fermer_une_commune.md)
+* [Récupérer la limite d'une commune venant d'OpenStreetMap](./#fiche/overpass_recuperer_limite_commune.md)

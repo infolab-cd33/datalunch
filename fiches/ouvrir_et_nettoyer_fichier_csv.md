@@ -92,4 +92,4 @@ Le fichier csv encodé en UTF8, avec pour séparateur la virgule ou le point vir
 
 ## Liens avec d’autres fiches :
 
-- [Ouvrir et nettoyer un fichier CSV](./#fiches/ouvrir_et_nettoyer_fichier_csv.md)
+- [Ouvrir et nettoyer un fichier CSV](./#fiche/ouvrir_et_nettoyer_fichier_csv.md)
