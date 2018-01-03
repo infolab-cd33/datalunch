@@ -33,7 +33,7 @@ Nous allons récupérer des données dans OpenStreetMap.
 
 * Exécuter la requête
 
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/export-csv-osm/overpass-04.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/export-csv-osm/overpass-04.jpg)
 
 ### Améliorer sa requête
 * Par défaut, la requête s’exécute sur la portion de carte visible (appelé bbox)
