@@ -23,7 +23,9 @@ Exemple avec [BDD-Passeports-arrivees.csv](https://github.com/infolab-cd33/datal
 ### Se créer un compte (gratuit) et se connecter à CartoDB
 
 On voit que l'on est identifié car notre *avatar* (photo ou image par défaut) apparaît en haut à droite.
+
 ![tableau de bord](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/cartoDB/tableauBord.jpg)
+
 ### Création d'un jeu de données
 Il y a deux tableaux de bord possibles accessibles à partir de la flèche située en haut à gauche de l'écran : "vos cartes" (yours maps) ou  "vos jeux de données" (your datasets")
 

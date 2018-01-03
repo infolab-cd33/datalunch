@@ -19,7 +19,9 @@ date: 15/02/2016
 ## Étapes - Comment allons-nous procéder ?
 * [Aller sur Overpass](http://overpass-turbo.eu/)
 
-* Construire et exécuter la requête avec l'assistant ![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/overpass/overpass-commune-1.png)
+* Construire et exécuter la requête avec l'assistant
+
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/overpass/overpass-commune-1.png)
 
    * Cela donne ceci :
 

@@ -40,7 +40,7 @@ Il existe plusieurs instances du logiciel Umap :
 * [Framacarte](https://framacarte.org) / hébergée par [l'association Framasoft](http://framasoft.net/)
 
 ## Liens avec d’autres fiches :
-- [Géocoder un fichier d'adresse .csv](./#fiches/geocodage.md)
+- [Géocoder un fichier d'adresse .csv](./#fiche/geocodage.md)
 - [Créer une carte Umap](./#fiche/umap_creer_une_carte.md)
 * [Fermer la limite de la commune dans OpenStreetMap](./#fiche/josm_fermer_une_commune.md)
 * [Récupérer la limite d'une commune venant d'OpenStreetMap](./#fiche/overpass_recuperer_limite_commune.md)

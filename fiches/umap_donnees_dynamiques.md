@@ -38,3 +38,5 @@ Quelques sources :
 ## A savoir :
 
 ## Liens avec d’autres fiches :
+* [Insérer des données géolocalisées dans Umap](./#fiche/umap_donnees_geolocalisees.md)
+* [Créer une carte en utilisant Umap](./fiche/umap_creer_une_carte.md)
