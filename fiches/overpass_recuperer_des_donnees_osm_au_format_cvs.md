@@ -30,12 +30,12 @@ out skel qt;
 
 ### se rendre sur un site overpass
 * par exemple : http://overpass-turbo.eu/
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/export-csv-osm/overpass-01.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/export-csv-osm/overpass-01.jpg)
 ### saisir une requête overpass
 * remplacer la requête par la requête adaptée
 * modifier le lieu de requête, les objets recherchés (tags OSM)
 * Exécuter la requête
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/export-csv-osm/overpass-04.png)
+![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/export-csv-osm/overpass-04.jpg)
 
 Dans l'exemple donné ci-dessus, voici ce que cela donne sur le [site](http://overpass-turbo.eu/s/jDp).
 
