@@ -15,44 +15,43 @@ Apprendre à utiliser l'API de CKAN pour interagir avec le catalogue datalocale
 ## Ingrédients - Ce dont nous avons besoin
 Un navigateur Internet ou quelques connaissances en programmation.
 ## Étapes - Comment allons-nous procéder ?
-=========
-API guide
-=========
+
+### API guide
 
 L'**Action API** de CKAN est une interface puissante, de type RPC qui expose l'ensemble des fonctionnalités principales de CKAN aux clients d'API qui souhaitent les consommer. Tout ce que l'on peut faire au travers de l'interface web peut être réalisé au moyens de codes extérieures qui interagissent avec l'API. Par exemple, en utilisant l'API CKAN vous pouvez :
 
 * récupérer une liste formatée en JSON de tous les jeux de données de datalocale, de tous les thèmes ou d'autres objets disponibles :
 
-  https://www.datalocale.fr/api/3/action/package_list
+  * [liste des jeux de données](https://www.datalocale.fr/api/3/action/package_list)
 
-  https://www.datalocale.fr/api/3/action/group_list
+  * [liste des thèmes](https://www.datalocale.fr/api/3/action/group_list)
 
-  https://www.datalocale.fr/api/3/action/tag_list
+  * [liste des motés clés](https://www.datalocale.fr/api/3/action/tag_list)
 
 * récupérer une représentation JSON complète d'un jeu de données, d'une ressource ou d'un autre type d'objet:
 
-  https://www.datalocale.fr/api/3/action/package_show?id=budget-du-departement-de-la-gironde
+  * [les métadonnées dun jeu de données](https://www.datalocale.fr/api/3/action/package_show?id=budget-du-departement-de-la-gironde)
 
-  https://www.datalocale.fr/api/3/action/tag_show?id=budget
+  * [les jeux de données correspondant au mot clé budget](https://www.datalocale.fr/api/3/action/tag_show?id=budget)
 
-  https://www.datalocale.fr/api/3/action/group_show?id=finances
+  * [les jeux de données du thème finances](https://www.datalocale.fr/api/3/action/group_show?id=finances)
 
 * rechercher des jeux de données ou des ressources correspondant à une requête:
 
-  https://www.datalocale.fr/api/3/action/package_search?q=budget
+  * [recherche sur le mot budget dans les jeux de données](https://www.datalocale.fr/api/3/action/package_search?q=budget)
 
-  https://www.datalocale.fr/api/3/action/resource_search?query=name:budget
+  * [recherche sur le mot clé budget](https://www.datalocale.fr/api/3/action/resource_search?query=name:budget)
 
 * Créer, mettre à jour et supprimer des jeux de données, distributions ou d'autres objets
 * Récupérer le flux d'activité des jeux de données récemment modifié sur datalocale:
 
-  https://www.datalocale.fr/api/3/action/recently_changed_packages_activity_list
+  [les dernières modifications du catalogue](https://www.datalocale.fr/api/3/action/recently_changed_packages_activity_list)
 
 ---------------------
 Faire une requête d'API
 ---------------------
 
-Pour appeler l'API CKAN, il faut envoyer un dictionnaire JSONdans une requête POST HTTP vers une des URL de l'API CKAN. Les paramètres de la fonction de l'API devraient ête contenues dans le dictionnaire JSON. CKAN retournera alors sa réponse dans un dictionnaire JSON.
+Pour appeler l'API CKAN, il faut envoyer un dictionnaire JSON dans une requête POST HTTP vers une des URL de l'API CKAN. Les paramètres de la fonction de l'API devraient ête contenues dans le dictionnaire JSON. CKAN retournera alors sa réponse dans un dictionnaire JSON.
 
 Un moyen d'envoyer un dictionnaire JSON vers une URL est d'utiliser le client HTTP en ligne de commande HTTPie <http://httpie.org/>
 
