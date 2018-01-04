@@ -3,7 +3,7 @@ title: Histoire de licences
 author: Vincent Bergeot
 licence: CC-By-SA
 description: Présenter les différentes licences et le cadre juridique.
-image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url: https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_.png
 link: https://github.com/infolab-cd33/datalunch/histoire_de_licences.md
 categorie: culture
 niveau: débutant

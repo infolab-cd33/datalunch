@@ -3,7 +3,7 @@ title: Histoire de projections géographiques
 author: Vincent Bergeot
 licence: CC-By-SA
 description: Présentation des différents systèmes de projection géographique.
-image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/145px-Openstreetmap_logo.svg.png
 link: https://github.com/infolab-cd33/datalunch/histoire_de_projections.md
 categorie: culture
 niveau: débutant

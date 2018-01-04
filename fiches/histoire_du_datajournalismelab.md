@@ -2,8 +2,8 @@
 title: Des enquêtes journalistiques nourries par les données du Département
 author: Vincent Bergeot
 licence: CC-By-SA
-description: Présentation des différents sessions de datajournaliseme de l'IJBA.
-image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+description: Présentation des différents sessions de datajournalisme de l'IJBA.
+image_url: https://cdn1.iconfinder.com/data/icons/the-data-visualisation-catalogue-set-i/130/nightingale_rose_chart-128.png
 link: https://github.com/infolab-cd33/datalunch/histoire_du_datajournalismelab.md
 categorie: culture
 niveau: débutant

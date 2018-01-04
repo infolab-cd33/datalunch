@@ -1,7 +1,7 @@
 ---
 author: Suzanne Galy
 description: Un module pédagogique de découverte et d'initiation au journalisme de données par Institut de journalisme de Bordeaux Aquitaine
-image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url: https://cdn1.iconfinder.com/data/icons/the-data-visualisation-catalogue-set-i/130/nightingale_rose_chart-128.png
 title: Des enquêtes journalistiques nourries par les données
 licence: CC-by-sa
 categorie: datavisualisation

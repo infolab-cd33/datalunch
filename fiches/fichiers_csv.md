@@ -3,7 +3,7 @@ title: Produire un fichier CSV, bonnes pratiques
 author: Suzanne Galy
 licence: CC-By-SA
 description: Créer ou interagir avec des fichiers au format csv.
-image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url: https://openclipart.org/download/169752/file-icon-csv.svg
 link: https://github.com/infolab-cd33/datalunch/fichiers_csv.md
 categorie: manipulation
 niveau: débutant

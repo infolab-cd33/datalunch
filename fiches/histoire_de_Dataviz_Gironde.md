@@ -1,10 +1,9 @@
 ---
 author: Pascal Romain
-image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url: https://cdn1.iconfinder.com/data/icons/the-data-visualisation-catalogue-set-i/130/nightingale_rose_chart-128.png
 title: Exporter les données d'open street map dans un fichier csv
 licence: CC-By-SA
 description: Dans le cadre de la saison 4 open data du Département de la Gironde, la direction des finances a souhaité être accompagnée pour : - élaborer le cahier des charges d'une visualisation interactive du budget départemental (et la réalisation de visualisations),- réaliser la libération de données relatives aux budgets.
-link: https://github.com/infolab-cd33/datalunch/fiches/histoire_de_Dataviz_Gironde.md
 categorie: datavisualisation
 niveau: débutant
 date: 04/04/2016

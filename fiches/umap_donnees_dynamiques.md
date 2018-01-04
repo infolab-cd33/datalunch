@@ -1,7 +1,7 @@
 ---
 author:  Vincent Bergeot
 description: Personnaliser les propriétés d'une carte réalisée sur Umap pour afficher des points remarquables
-image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url : http://umap.openstreetmap.fr/static/umap/img/logo.svg?1ba3dd07e5e5
 title: Umap avec des données dynamiques provenant d'OpenStreetMap
 link: https://github.com/infolab-cd33/datalunch/umap_donnees_dynamiques.md
 categorie: geomatique

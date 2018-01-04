@@ -1,7 +1,7 @@
 ---
 author: Tiers Libres
 description: récupérer des données provenant d'OpenStreetMap au format csv pour pouvoir l'utiliser dans un tableur
-image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url : https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/145px-Openstreetmap_logo.svg.png
 title: Récupérer des données dans OpenStreetMap
 link: https://github.com/infolab-cd33/datalunch/overpass_recuperer_des_donnees_osm_au_format_cvs.md
 categorie: geomatique

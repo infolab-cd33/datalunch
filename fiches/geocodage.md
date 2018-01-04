@@ -1,7 +1,7 @@
 ---
 author: Vincent Bergeot
 description: À partir d'un fichier contenant des adresses, encodé en .csv, nous allons "géocoder" (définir les longitudes et lattitudes) ces adresses pour permettre ensuite d'en faire, par exemple une carte.
-image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url : https://adresse.data.gouv.fr/static/images/logos/logo-adresse.svg
 title: Géocoder un fichier .csv d'adresse
 link: https://github.com/infolab-cd33/datalunch/geocodage.md
 categorie: manipulation

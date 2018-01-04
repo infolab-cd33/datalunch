@@ -3,7 +3,7 @@ title: Histoire de réutilisations d'archives
 author: Vincent Bergeot
 licence: CC-By-SA
 description: Présentation d'exemples de réutilisations d'archives publiques ouvertes.
-image_url: https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url: https://cdn1.iconfinder.com/data/icons/the-data-visualisation-catalogue-set-i/130/nightingale_rose_chart-128.png
 link: https://github.com/infolab-cd33/datalunch/histoire_de_valorisation-d_archives.md
 categorie: culture
 niveau: débutant

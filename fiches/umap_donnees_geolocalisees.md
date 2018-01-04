@@ -1,7 +1,7 @@
 ---
 author:  Vincent Bergeot
 description: Insérer un fichier de données géolocalisées dans une carte Umap
-image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url : http://umap.openstreetmap.fr/static/umap/img/logo.svg?1ba3dd07e5e5
 title: Insérer des données géolocalisées dans Umap
 link: https://github.com/infolab-cd33/datalunch/umap_donnees_geolocalisees.md
 categorie: geomatique

@@ -1,7 +1,7 @@
 ---
 author:  Vincent Bergeot
 description: récupérer des données provenant d'OpenStreetMap
-image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url : https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/145px-Openstreetmap_logo.svg.png
 title: Récupérer des données dans OpenStreetMap
 categorie: geomatique
 licence: CC-By-SA
