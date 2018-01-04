@@ -20,7 +20,7 @@ Nous allons récupérer des données dans OpenStreetMap.
 ### se rendre sur un site overpass
 * par exemple : http://overpass-turbo.eu/
 
-![](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/export-csv-osm/overpass-01.jpg)
+![la page d'accueil](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/export-csv-osm/overpass-01.jpg)
 
 ### saisir une requète overpass
 * ouvrir l'assistant
