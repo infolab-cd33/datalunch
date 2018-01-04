@@ -106,7 +106,7 @@ La même requête http peut être réalisée en utilisant le module Python stand
 
 ## Aller + loin :
 
-La liste des fonctions et méthodes de l'[API CKAN](docs.ckan.org/en/latest/api/index.html#action-api-reference)
+La liste des fonctions et méthodes de l'[API CKAN](http://docs.ckan.org/en/latest/api/index.html#action-api-reference)
 
 [Quelques exemples de requête](http://docs.ckan.org/en/latest/api/index.html#api-examples)
 
