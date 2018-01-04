@@ -1,7 +1,7 @@
 ---
 author: Vincent Bergeot
 description: Ajouter des informations à la limite administrative d'une commune pour obtenir une limite utilisable dans Umap.
-image_url : https://www.datalocale.fr/base/images/logo-datalocale.jpg
+image_url : https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/145px-Openstreetmap_logo.svg.png
 title: Fermer la limite administrative d'une commune
 link: https://github.com/infolab-cd33/datalunch/josm_fermer_une_commune.md
 categorie: geomatique
