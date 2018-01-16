@@ -16,12 +16,6 @@ Dans la lignée du dispositif infolab imaginé par la [FING](https://www.infolab
 
 A l'occasion de temps d'**information** et de **manipulation**, des ressources pédagogiques ont été produites avec l'aide de Tiers Libres, coopérative de médiation numérique au service de la culture informatique libre.
 
-Ces contenus sont mis à disposition sous licence **Creative Commons**. Vous êtes encouragés à les utiliser, les enrichir et les modifier.  
-
-Ces fiches sont organisées par catégorie (culture générale, manipulation, outillage, programmation, datavisualisation, géomatique) et niveau de difficulté (débutant, intermédiaire, expert). 
-
-Vous pouvez proposer l'ajout de fiches à l'aide d'un compte github en la déposant sur ce [dépôt](https://github.com/infolab-cd33/datalunch)
-
 ## Ingrédients - Ce dont nous avons besoin
 
 ![salle de contrôle](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/visualisation/salleControle.jpg)
@@ -34,7 +28,17 @@ D'autres fiches font référence à des outils que vous pouvez utiliser en ligne
 Quelques sources de formation complémentaires :
 
 * [base de ressources infolabs.io](http://infolabs.io/ressources)
-* 
+* [cours en ligne (en anglais) de la school of data](https://schoolofdata.org/courses/)
+* [cours en ligne de l'école des données (traduction)](https://ecoledesdonnees.org/handbook/cours/)
+* [utiliser openStreetMap : wiki](https://wiki.openstreetmap.org/wiki/FR:Utilisez_OpenStreetMap)
+* [contribuer à openStreepMap : wiki](https://wiki.openstreetmap.org/wiki/FR:Contribuer_aux_donn%C3%A9es_cartographiques)
+
 ## A savoir :
 
-## Liens avec d’autres fiches :
+Ces contenus sont mis à disposition sous licence **Creative Commons**. Vous êtes encouragés à les utiliser, les enrichir et les modifier.  
+
+Ces fiches sont organisées par **catégorie** (culture générale, manipulation, outillage, programmation, datavisualisation, géomatique) et **niveau de difficulté** (débutant, intermédiaire, expert). 
+
+Vous pouvez proposer l'ajout de fiches à l'aide d'un compte github en la déposant sur ce [dépôt](https://github.com/infolab-cd33/datalunch). Un [modèle de fiche](https://github.com/infolab-cd33/datalunch/fiches/z-modele-fiche.md) est disponible dans le dépôt pour démarrer.
+
+Vous pouvez également nous contacter à [cette adresse mail](mailto:datalocale@gironde.fr) pour en savoir plus sur la démarche des infolab. collectivité
