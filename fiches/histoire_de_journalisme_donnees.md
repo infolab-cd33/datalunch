@@ -9,7 +9,6 @@ niveau: débutant
 date: 12/05/2016
 ---
 
-# Des enquêtes journalistiques nourries par les données
 ## Le Data Journalisme Lab de l'IJBA
 
 Un module pédagogique de découverte et d'initiation au journalisme de données : http://datajournalismelab.fr/
