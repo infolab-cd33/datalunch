@@ -1,5 +1,4 @@
 # La table des matières du "dépot" de fiches ressources
-- [Pour revenir au dépot http://datalunch.datalocale.fr](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/0-index.md)
 
 Ces fiches vous permettent d'apprendre à manipuler des données ou à vos familiariser avec des outils vous permettant de le faire.
 
