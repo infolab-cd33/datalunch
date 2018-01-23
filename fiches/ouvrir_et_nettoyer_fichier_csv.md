@@ -1,7 +1,7 @@
 ---
 author: Tiers Libres
 description: Nettoyer les données à l'aide des fonctions de l'outil de tableur numérique.
-image_url : https://openclipart.org/download/169752/file-icon-csv.svg
+image_url : https://github.com/infolab-cd33/datalunch/raw/master/img/csv/file_formats_4_csv-512.png
 title: Ouvrir et nettoyer un fichier de données au format CSV
 categorie: manipulation
 niveau: intermédiaire

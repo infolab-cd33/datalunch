@@ -1,7 +1,7 @@
 ---
 author:  Suzanne Galy
 description: Manipuler le contenu d'une cellule de tableur numérique pour extraire des données
-image_url : https://openclipart.org/download/169752/file-icon-csv.svg
+image_url : https://github.com/infolab-cd33/datalunch/raw/master/img/csv/file_formats_4_csv-512.png
 title: Tableur : scinder ou réunir du contenu texte
 link: https://github.com/infolab-cd33/datalunch/overpass_recuperer_limite_commune.md
 categorie: geomatique
