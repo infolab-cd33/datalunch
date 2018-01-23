@@ -3,7 +3,7 @@ title: Créer une table de pilote (ou tableau croisé)
 author: Suzanne Galy
 licence: CC-By-SA
 description: Automatiser le croisement des données avec une table de pilote dans un tableur numérique (calc, excel).
-image_url: https://openclipart.org/download/169752/file-icon-csv.svg
+image_url: https://github.com/infolab-cd33/datalunch/raw/master/img/csv/file_formats_4_csv-512.png
 categorie: manipulation
 niveau: intermédiaire
 date: 01/11/2016
