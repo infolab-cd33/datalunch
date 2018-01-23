@@ -3,7 +3,7 @@ title: Histoire de licences
 author: Vincent Bergeot
 licence: CC-By-SA
 description: Présenter les différentes licences et le cadre juridique.
-image_url: ../img/creative-commons-license-symbols.png
+image_url: https://github.com/infolab-cd33/datalunch/raw/master/img/creative-commons-license-symbols.png
 link: https://github.com/infolab-cd33/datalunch/histoire_de_licences.md
 categorie: culture
 niveau: débutant
