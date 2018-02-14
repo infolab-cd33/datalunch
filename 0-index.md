@@ -12,7 +12,7 @@ Ces fiches vous permettent d'apprendre à manipuler des données ou à vos famil
 - [Histoire / Qu'est-ce que la dataviz du budget ? Exemple de la Gironde](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/histoire_de_Dataviz_Gironde.md)
 
 ## Cartographie
-- [Umap / Créer une carte](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/fiches/umap_creer_une_carte.md)
+- [Umap / Créer une carte](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/umap_creer_une_carte.md)
 - [Umap / Intégrer un fichier géolocalisé](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/umap_donnees_geolocalisees.md)
 - [Umap / Intégrer des données distantes](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/umap_donnees_dynamiques.md)
 - [Umap / Intégrer la limite d'une commune](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/umap_integrer_limite_commune.md)
