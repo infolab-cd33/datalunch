@@ -15,7 +15,7 @@ Ces fiches vous permettent d'apprendre à manipuler des données ou à vos famil
 - [Umap / Créer une carte](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/umap_creer_une_carte.md)
 - [Umap / Intégrer un fichier géolocalisé](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/umap_donnees_geolocalisees.md)
 - [Umap / Intégrer des données distantes](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/umap_donnees_dynamiques.md)
-- [Umap / Intégrer la limite d'une commune](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/umap_integrer_limite_commune.md)
+- [Umap / Intégrer la limite d'une commune](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/umap_limite_commune.md)
 - [Overpass / Récupérer des données OpenStreetMap](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/overpass_recuperer_des_donnees_osm.md)
 - [Overpass / Récupérer la limite d'une commune](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/overpass_recuperer_limite_commune.md)
 - [JOSM / Ajouter des informations à une relation pour fermer une limite communale](http://datalunch.datalocale.fr/#infolab-cd33/datalunch/blob/master/fiches/josm_fermer_une_commune.md)
