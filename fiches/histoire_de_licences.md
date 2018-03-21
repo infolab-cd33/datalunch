@@ -3,7 +3,7 @@ title: Histoire de licences
 author: Vincent Bergeot
 licence: CC-By-SA
 description: Présenter les différentes licences et le cadre juridique.
-image_url: https://github.com/infolab-cd33/datalunch/raw/master/img/creative-commons-license-symbols.png
+image_url: https://github.com/infolab-cd33/datalunch/raw/master/img/licence/creative-commons-license-symbols.png
 link: https://github.com/infolab-cd33/datalunch/histoire_de_licences.md
 categorie: culture
 niveau: débutant
@@ -47,7 +47,7 @@ ____
 
 ## Droit d'auteur dans le temps
 
-![duree-droits-auteurs.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/duree-droits-auteurs.png)
+![duree-droits-auteurs.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/licence/duree-droits-auteurs.png)
 
 ## Droit d’auteur, 2 types de droits
 
@@ -111,17 +111,17 @@ Cela va sûrement favoriser la libération du code / pas seulement la possibilit
 
 |Cas d'usage| pictogramme de la licence libre adaptée|
 |------|:------------------------------------------:|
-|Droit d'auteur en France (BY)|![by.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/by.png)|
-|Commercial / non commercial (NC)|![nc.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/nc.png)|
-|modifiable / non modifiable (ND)|![nd.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/nd.png)|
-|créations dérivées à partager selon la même licence / licence au choix du créateur final (SA)|![sa.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/sa.png)|
+|Droit d'auteur en France (BY)|![by.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/licence/by.png)|
+|Commercial / non commercial (NC)|![nc.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/licence/nc.png)|
+|modifiable / non modifiable (ND)|![nd.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/licence/nd.png)|
+|créations dérivées à partager selon la même licence / licence au choix du créateur final (SA)|![sa.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/licence/sa.png)|
 
 
 * 6 possibilités
 
 **CCO** *Cas particulier, Domaine public, c'est très dépendant des juridictions, non recommandé par CreativeCommons <http://creativecommons.fr/cc0-et-mdp/>*
 
-![licences-cc.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/media/licence/licences-cc.png)
+![licences-cc.png](https://raw.githubusercontent.com/infolab-cd33/datalunch/master/img/licence/licences-cc.png)
 
 Une Vidéo : <https://framatube.org/media/presentation-des-licences-creative-commons-avec-cc>
 
